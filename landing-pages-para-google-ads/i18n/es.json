@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "domain": "sulandingpage.com.mx",
+  "pageId": "landing-pages-para-google-ads",
+  "lang": "es",
+  "dictionary": {
+    "hero": {
+      "eyebrow": "Trafico de alta intencion",
+      "title": "La landing debe continuar la promesa del anuncio, no empezar otra conversacion.",
+      "lead": "Esta ruta esta pensada para campañas donde la experiencia de destino importa: keyword, anuncio, titular, prueba y CTA deben responder a la misma intencion.",
+      "primaryLabel": "Quiero una landing para Google Ads",
+      "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20una%20landing%20page%20para%20Google%20Ads.%20La%20oferta%20que%20quiero%20mover%20es%3A",
+      "secondaryLabel": "Ver planes",
+      "panel": {
+        "kicker": "Experiencia de destino",
+        "title": "El clic debe sentirse consistente desde la busqueda hasta la CTA.",
+        "lead": "No prometemos Quality Score perfecto, pero si una pagina mas util, mas clara y mejor alineada con la expectativa del anuncio.",
+        "items": [
+          {
+            "title": "Keyword y titular",
+            "content": "La consulta del usuario y el encabezado de la landing deben hablar de lo mismo."
+          },
+          {
+            "title": "Prueba sin ruido",
+            "content": "Se muestra solo la evidencia necesaria para tomar el siguiente paso, sin dispersar la atencion."
+          },
+          {
+            "title": "CTA medible",
+            "content": "Cada clic importante se rastrea para decidir que mensaje conviene ajustar primero."
+          }
+        ]
+      }
+    },
+    "stats": [
+      {
+        "value": "CTR",
+        "label": "Relevancia del clic",
+        "detail": "El anuncio y la landing deben responder a la misma pregunta."
+      },
+      {
+        "value": "LP",
+        "label": "Experiencia de destino",
+        "detail": "Carga, claridad y navegacion influyen en lo que pasa despues del clic."
+      },
+      {
+        "value": "CTA",
+        "label": "Una accion medible",
+        "detail": "La pagina lleva a un solo siguiente paso facil de rastrear."
+      }
+    ],
+    "sections": [
+      {
+        "eyebrow": "Antes del clic",
+        "title": "Lo que el anuncio promete, la landing debe sostenerlo.",
+        "lead": "Muchas campañas fallan no por falta de trafico, sino porque el visitante aterriza en una pagina demasiado general o confusa.",
+        "cards": [
+          {
+            "icon": "search",
+            "title": "Intencion precisa",
+            "description": "Una ruta sirve mejor cuando responde a una busqueda concreta en vez de intentar vender toda la empresa de una sola vez.",
+            "benefits": [
+              "Una keyword central",
+              "Una promesa clara",
+              "Menos ambiguedad"
+            ],
+            "href": "",
+            "linkLabel": ""
+          },
+          {
+            "icon": "title",
+            "title": "Titular alineado",
+            "description": "El encabezado de la pagina debe confirmar rapidamente que el clic llego al lugar correcto.",
+            "benefits": [
+              "Coincidencia de mensaje",
+              "Menos rebote por confusion",
+              "Mejor lectura inicial"
+            ],
+            "href": "",
+            "linkLabel": ""
+          },
+          {
+            "icon": "phone_android",
+            "title": "Movil primero",
+            "description": "Gran parte del trafico pagado llega desde celular, asi que la velocidad y el recorrido corto importan mucho.",
+            "benefits": [
+              "Carga rapida",
+              "CTA visible",
+              "Menos scroll innecesario"
+            ],
+            "href": "",
+            "linkLabel": ""
+          }
+        ]
+      },
+      {
+        "eyebrow": "Despues del clic",
+        "title": "La pagina debe aclarar, respaldar y pedir una accion.",
+        "lead": "Una landing para Ads no necesita demasiadas rutas; necesita una secuencia fuerte de promesa, prueba y siguiente paso.",
+        "cards": [
+          {
+            "icon": "fact_check",
+            "title": "Prueba suficiente",
+            "description": "Beneficios, objeciones, FAQ o elementos de respaldo aparecen donde ayudan a decidir, no donde distraen.",
+            "benefits": [
+              "Prueba visible",
+              "Objeciones resueltas",
+              "Confianza sin ruido"
+            ],
+            "href": "",
+            "linkLabel": ""
+          },
+          {
+            "icon": "flash_on",
+            "title": "Una sola conversion principal",
+            "description": "WhatsApp, llamada o formulario simple: la pagina debe dejar claro cual es el paso que mas importa.",
+            "benefits": [
+              "Una salida prioritaria",
+              "Menos friccion",
+              "Mejor medicion"
+            ],
+            "href": "",
+            "linkLabel": ""
+          },
+          {
+            "icon": "monitoring",
+            "title": "Iteracion con evidencia",
+            "description": "Clics, lectura de secciones y mensajes ayudan a mejorar la landing sin caer en cambios por intuicion."
+            ,
+            "benefits": [
+              "Cambios por impacto",
+              "Aprendizaje por campana",
+              "Mejor uso del presupuesto"
+            ],
+            "href": "",
+            "linkLabel": ""
+          }
+        ]
+      }
+    ],
+    "faq": {
+      "eyebrow": "Preguntas de Ads",
+      "title": "Lo importante antes de mandar trafico a una landing",
+      "lead": "Respuestas cortas para alinear expectativa, mensaje y experiencia de destino.",
+      "items": [
+        {
+          "title": "¿Una sola landing sirve para todas mis campañas?",
+          "content": "No siempre. Cuando cambian mucho las keywords, objeciones u ofertas, conviene abrir rutas mas especificas."
+        },
+        {
+          "title": "¿Esto garantiza mejores resultados en Google Ads?",
+          "content": "No garantizamos resultados ni rankings. Si trabajamos para que la experiencia de destino sea mas clara, util y coherente con el clic."
+        },
+        {
+          "title": "¿Puedo mandar el clic a WhatsApp?",
+          "content": "Si. Hoy es el canal mas directo para calificar interes sin prometer flujos complejos que la plataforma aun no soporta."
+        },
+        {
+          "title": "¿Que se mide primero?",
+          "content": "Clics en CTA, lectura por seccion y rutas con mas interes para saber que mensaje ajustar antes."
+        },
+        {
+          "title": "¿Conviene tener FAQ en una landing para Ads?",
+          "content": "Si resuelve objeciones reales sin distraer del siguiente paso, suele sumar claridad en vez de estorbar."
+        }
+      ]
+    },
+    "final": {
+      "eyebrow": "Campañas",
+      "title": "Hablemos de la landing que necesita tu anuncio.",
+      "lead": "Comparte la keyword, oferta o servicio que quieres mover y te orientamos la ruta correcta.",
+      "primaryLabel": "Quiero una landing para Google Ads",
+      "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20una%20landing%20page%20para%20Google%20Ads.%20La%20keyword%20o%20servicio%20principal%20es%3A",
+      "secondaryLabel": "Ir a contacto"
+    }
+  }
+}

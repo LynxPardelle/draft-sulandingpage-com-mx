@@ -1,0 +1,183 @@
+{
+  "version": 1,
+  "domain": "sulandingpage.com.mx",
+  "pageId": "planes",
+  "lang": "es",
+  "dictionary": {
+    "hero": {
+      "eyebrow": "Planes y alcances",
+      "title": "Empieza con una landing base y añade optimizacion cuando el negocio lo pida.",
+      "lead": "El alcance correcto depende de tu oferta, del volumen de trafico que esperas y de cuanta iteracion quieres hacer despues del lanzamiento.",
+      "primaryLabel": "Cotizar mi landing",
+      "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20cotizar%20una%20landing%20page%20para%20mi%20negocio.",
+      "secondaryLabel": "Ir a contacto",
+      "panel": {
+        "kicker": "Comparacion clara",
+        "title": "Base, iteracion y optimizacion.",
+        "lead": "No todos los proyectos necesitan la misma profundidad desde el dia uno. La idea es elegir un alcance proporcional al objetivo.",
+        "items": [
+          {
+            "title": "Landing Base",
+            "content": "Para salir rapido con una oferta, una CTA y medicion inicial."
+          },
+          {
+            "title": "Landing + Iteracion",
+            "content": "Para sumar mas prueba, FAQs, secciones o mensajes por audiencia."
+          },
+          {
+            "title": "Optimizacion continua",
+            "content": "Para equipos que ya van a pautar y quieren aprender de cada clic."
+          }
+        ]
+      }
+    },
+    "stats": [
+      {
+        "value": "desde $900 MXN/mes",
+        "label": "Landing Base",
+        "detail": "Dominio, alojamiento, SSL y medicion inicial para una primera version."
+      },
+      {
+        "value": "CTA",
+        "label": "Contacto directo",
+        "detail": "WhatsApp como salida principal mientras no vendamos flujos mas complejos."
+      },
+      {
+        "value": "Datos",
+        "label": "Lectura inicial",
+        "detail": "Clicks, secciones y contexto para priorizar mejoras."
+      }
+    ],
+    "plansSection": {
+      "eyebrow": "Comparar",
+      "title": "Tres formas de empezar segun el momento de tu negocio.",
+      "lead": "Las modalidades cambian por profundidad de contenido, velocidad de lanzamiento e intensidad de optimizacion, no por promesas infladas."
+    },
+    "plans": [
+      {
+        "id": "landing-base",
+        "name": "Landing Base",
+        "price": "desde $900 MXN/mes",
+        "fit": "Para una sola oferta, una sola CTA y un primer lanzamiento comercial claro.",
+        "result": "Resultado esperado: una landing publicable, rapida y medible para empezar a captar mensajes.",
+        "benefits": [
+          "Dominio, hosting y SSL incluidos.",
+          "Copy y estructura para una promesa principal.",
+          "Eventos iniciales en CTA y lectura basica de interes."
+        ],
+        "cta": "Me interesa Landing Base",
+        "url": "https://wa.me/525522699563?text=Hola%2C%20me%20interesa%20Landing%20Base%20desde%20%24900%20MXN%20al%20mes."
+      },
+      {
+        "id": "landing-iteracion",
+        "name": "Landing + Iteracion",
+        "price": "alcance adicional",
+        "fit": "Para campañas que necesitan mas prueba, mas FAQs o mensajes diferenciados por objecion o audiencia.",
+        "result": "Resultado esperado: una landing con mayor profundidad comercial y mejor defensa frente a preguntas frecuentes.",
+        "benefits": [
+          "Secciones extra para beneficios, prueba y objeciones.",
+          "Mas espacio para respaldar pauta o trafico organico.",
+          "Iteraciones priorizadas por lectura comercial."
+        ],
+        "cta": "Me interesa Landing + Iteracion",
+        "url": "https://wa.me/525522699563?text=Hola%2C%20me%20interesa%20Landing%20%2B%20Iteracion%20para%20mi%20proyecto."
+      },
+      {
+        "id": "optimizacion-continua",
+        "name": "Optimizacion continua",
+        "price": "segun metas y trafico",
+        "fit": "Para equipos que ya van a invertir en campañas y quieren mejorar titulares, prueba y CTA con evidencia.",
+        "result": "Resultado esperado: una landing que aprende del trafico y mejora por impacto, no por ocurrencia.",
+        "benefits": [
+          "Revision periodica de clics y secciones.",
+          "Priorizacion de cambios por evidencia.",
+          "Apoyo para ordenar nuevas rutas o audiencias."
+        ],
+        "cta": "Me interesa optimizacion continua",
+        "url": "https://wa.me/525522699563?text=Hola%2C%20me%20interesa%20una%20ruta%20de%20optimizacion%20continua%20para%20mi%20landing."
+      }
+    ],
+    "sections": [
+      {
+        "eyebrow": "Como elegir",
+        "title": "El alcance correcto depende del trafico y de la complejidad de tu oferta.",
+        "lead": "Una landing para una oferta simple no necesita la misma profundidad que una pagina para varias objeciones, anuncios o audiencias.",
+        "cards": [
+          {
+            "icon": "star",
+            "title": "Empieza por una sola promesa",
+            "description": "Si tu oferta principal esta clara, Landing Base suele ser suficiente para lanzar rapido.",
+            "benefits": [
+              "Un titular fuerte",
+              "Una CTA visible",
+              "Poca friccion"
+            ],
+            "href": "",
+            "linkLabel": ""
+          },
+          {
+            "icon": "groups",
+            "title": "Escala cuando lleguen objeciones",
+            "description": "Si el trafico pregunta mas, conviene sumar prueba, FAQ y bloques especificos antes de cambiar de producto.",
+            "benefits": [
+              "Mas claridad",
+              "Mas respaldo",
+              "Mejor filtrado"
+            ],
+            "href": "",
+            "linkLabel": ""
+          },
+          {
+            "icon": "trending_up",
+            "title": "Optimiza cuando ya tengas datos",
+            "description": "La optimizacion vale mas cuando ya existe lectura real de clics y secciones, no antes.",
+            "benefits": [
+              "Evidencia por seccion",
+              "Cambios con prioridad",
+              "Mejor uso del presupuesto"
+            ],
+            "href": "",
+            "linkLabel": ""
+          }
+        ]
+      }
+    ],
+    "faq": {
+      "eyebrow": "Dudas sobre alcance",
+      "title": "Precios, tiempos y profundidad inicial",
+      "lead": "La conversacion por WhatsApp ayuda a convertir una idea general en un alcance defendible.",
+      "items": [
+        {
+          "title": "¿El precio siempre empieza en 900 MXN al mes?",
+          "content": "Ese es el punto de partida para Landing Base. Si el proyecto necesita mas profundidad, lo aterrizamos por alcance."
+        },
+        {
+          "title": "¿Puedo empezar con una landing y luego crecer?",
+          "content": "Si. La idea es lanzar una primera version util y despues agregar prueba, rutas o iteraciones cuando el negocio lo necesite."
+        },
+        {
+          "title": "¿Que incluye la base mensual?",
+          "content": "Dominio, alojamiento, SSL, una estructura clara, CTA visibles y medicion inicial para leer interes real."
+        },
+        {
+          "title": "¿La optimizacion continua es obligatoria?",
+          "content": "No. Tiene sentido cuando ya vas a mover trafico y quieres usar datos para decidir que ajustar primero."
+        }
+      ]
+    },
+    "final": {
+      "eyebrow": "Elegir",
+      "title": "Te ayudamos a elegir el alcance correcto para tu landing.",
+      "lead": "Comparte tu oferta, tipo de trafico y objetivo principal para orientarte sin venderte mas de lo que hoy necesitas.",
+      "primaryLabel": "Ayudame a elegir",
+      "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20que%20me%20ayuden%20a%20elegir%20el%20alcance%20correcto%20para%20mi%20landing.",
+      "secondaryLabel": "Ir a contacto"
+    },
+    "zoolandingpageSection": {
+      "eyebrow": "Ruta recomendada",
+      "title": "Si vas a pautar desde el inicio, revisa la ruta para Google Ads.",
+      "lead": "La pagina para Ads aterriza alineacion de mensaje, experiencia de destino y lectura comercial desde el clic.",
+      "linkLabel": "Ver landing pages para Google Ads"
+    }
+  }
+}

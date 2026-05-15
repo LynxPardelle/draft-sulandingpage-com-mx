@@ -1,0 +1,183 @@
+{
+  "version": 1,
+  "domain": "sulandingpage.com.mx",
+  "pageId": "nosotros",
+  "lang": "es",
+  "dictionary": {
+    "hero": {
+      "eyebrow": "Equipo",
+      "title": "Tecnologia, diseño, copy y lectura comercial trabajando para la landing.",
+      "lead": "Sulandingpage combina desarrollo web, nube, IA, diseño, pauta y analitica para construir landing pages claras, medibles y defendibles.",
+      "primaryLabel": "Quiero hablar con el equipo",
+      "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20hablar%20con%20el%20equipo%20de%20Sulandingpage%20sobre%20una%20landing%20page.",
+      "secondaryLabel": "Ir a contacto",
+      "panel": {
+        "kicker": "Experiencia relevante",
+        "title": "Mostramos lo que aporta cada perfil al proyecto.",
+        "lead": "La landing no mejora solo con diseño o solo con codigo; necesita criterio combinado de mensaje, operacion y lectura de interes.",
+        "items": [
+          {
+            "title": "Nube e IA",
+            "content": "Experiencia para publicar, medir y mantener una base flexible."
+          },
+          {
+            "title": "Diseño y marketing",
+            "content": "Criterio visual, copy y pauta para que el clic entienda y avance."
+          },
+          {
+            "title": "Landing pages",
+            "content": "Estructura, CTA, FAQ y optimizacion inicial pensadas por intencion."
+          }
+        ]
+      }
+    },
+    "stats": [
+      {
+        "value": "Cloud",
+        "label": "Base tecnica",
+        "detail": "Experiencia en nube, IA y desarrollo fullstack."
+      },
+      {
+        "value": "Copy",
+        "label": "Criterio comercial",
+        "detail": "Mensajes orientados a oferta, objeciones y conversion."
+      },
+      {
+        "value": "Ads",
+        "label": "Lectura de pauta",
+        "detail": "Experiencia para pensar rutas por campana, audiencia o servicio."
+      }
+    ],
+    "teamSection": {
+      "eyebrow": "Personas",
+      "title": "Equipo inicial",
+      "lead": "Informacion publica y util para entender que aporta cada perfil al proyecto."
+    },
+    "team": [
+      {
+        "name": "Alec Montaño",
+        "role": "Nube, IA y desarrollo fullstack",
+        "proof": [
+          "Experiencia con Bimbo, McGraw Hill y Audio Enhancement.",
+          "Arquitectura, integracion y producto digital.",
+          "Enfoque en sistemas medibles y mantenibles."
+        ],
+        "imageSrc": "/drafts/sulandingpage.com.mx/CVs_N_photos/alec.jpg",
+        "imageAlt": "Foto de Alec Montaño"
+      },
+      {
+        "name": "Héctor Coronado",
+        "role": "Cloud, IA y desarrollo fullstack",
+        "proof": [
+          "Experiencia con Coppel.",
+          "Desarrollo backend y fullstack.",
+          "Criterio tecnologico para operacion y escalabilidad."
+        ],
+        "imageSrc": "/drafts/sulandingpage.com.mx/CVs_N_photos/hector.jpg",
+        "imageAlt": "Foto de Héctor Coronado"
+      },
+      {
+        "name": "Oswaldo",
+        "role": "Desarrollo web y marketing digital",
+        "proof": [
+          "Desarrollo web para experiencias comerciales.",
+          "Google Ads y marketing junto con Pamela.",
+          "Perfil pendiente de foto final."
+        ],
+        "imageSrc": "/drafts/sulandingpage.com.mx/CVs_N_photos/oswaldo-placeholder.svg",
+        "imageAlt": "Placeholder de Oswaldo"
+      },
+      {
+        "name": "Pamela Betancourt",
+        "role": "Diseño, marketing y analisis de mercado",
+        "proof": [
+          "Criterio visual y comunicacion digital.",
+          "Marketing, pauta y analisis de datos de mercado.",
+          "Enfoque en claridad para el cliente final."
+        ],
+        "imageSrc": "/drafts/sulandingpage.com.mx/CVs_N_photos/pamelaBetancourt.webp",
+        "imageAlt": "Foto de Pamela Betancourt"
+      }
+    ],
+    "sections": [
+      {
+        "eyebrow": "Como colaboramos",
+        "title": "Una landing buena se decide desde negocio, diseño y operacion.",
+        "lead": "Esta mezcla ayuda a que la promesa, la prueba y el siguiente paso se sientan coherentes desde el primer clic.",
+        "cards": [
+          {
+            "icon": "home",
+            "title": "Negocio",
+            "description": "Primero entendemos oferta, cliente, objeciones y prioridad de conversion.",
+            "benefits": [
+              "Promesa clara",
+              "Intencion por ruta",
+              "Mensajes utiles"
+            ],
+            "href": "",
+            "linkLabel": ""
+          },
+          {
+            "icon": "auto_awesome",
+            "title": "Diseño y copy",
+            "description": "La experiencia debe verse profesional, ser facil de escanear y sostener la oferta con pocas distracciones.",
+            "benefits": [
+              "Jerarquia visual",
+              "Responsive",
+              "CTA visible"
+            ],
+            "href": "",
+            "linkLabel": ""
+          },
+          {
+            "icon": "cloud",
+            "title": "Operacion y datos",
+            "description": "La base tecnica debe poder revisarse, medirse y crecer cuando el negocio lo exija.",
+            "benefits": [
+              "Revision local",
+              "Eventos utiles",
+              "Publicacion ordenada"
+            ],
+            "href": "",
+            "linkLabel": ""
+          }
+        ]
+      }
+    ],
+    "faq": {
+      "eyebrow": "Equipo",
+      "title": "Preguntas sobre nosotros",
+      "lead": "Como presentamos experiencia profesional con informacion publica y util.",
+      "items": [
+        {
+          "title": "¿Quien trabaja la parte tecnica?",
+          "content": "El proyecto combina perfiles de nube, fullstack e integracion para que la landing no sea solo una maqueta bonita."
+        },
+        {
+          "title": "¿Quien baja el mensaje comercial?",
+          "content": "El trabajo cruza copy, diseño, analisis de mercado y pauta para definir mejor promesa, prueba y CTA."
+        },
+        {
+          "title": "¿Pueden ayudar aunque el proyecto apenas este tomando forma?",
+          "content": "Si. Una parte importante del trabajo es aterrizar alcance, estructura y mensajes antes de construir."
+        },
+        {
+          "title": "¿Trabajan solo con landing pages?",
+          "content": "Sulandingpage se enfoca en landing pages, aunque forma parte del ecosistema Zoolandingpage."
+        },
+        {
+          "title": "¿Que tipo de informacion usan para el contenido?",
+          "content": "Solo materiales publicos, aprobados y adecuados para el negocio; evitamos prometer flujos o claims que la plataforma no sostenga."
+        }
+      ]
+    },
+    "final": {
+      "eyebrow": "Contacto",
+      "title": "Hablemos de la landing que necesita tu negocio.",
+      "lead": "El equipo puede orientar estructura, CTA y primer alcance segun tu oferta y tu trafico.",
+      "primaryLabel": "Hablar con el equipo",
+      "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20hablar%20con%20el%20equipo%20de%20Sulandingpage%20sobre%20mi%20landing%20page.",
+      "secondaryLabel": "Ir a contacto"
+    }
+  }
+}

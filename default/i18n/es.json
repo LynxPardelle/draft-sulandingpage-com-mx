@@ -1,0 +1,218 @@
+{
+  "version": 1,
+  "domain": "sulandingpage.com.mx",
+  "pageId": "default",
+  "lang": "es",
+  "dictionary": {
+    "hero": {
+      "eyebrow": "Landing pages para negocios que pautan y venden",
+      "title": "Convierte clics en conversaciones con una landing page clara, rapida y lista para Google Ads.",
+      "lead": "Sulandingpage crea landing pages enfocadas en una sola accion: captar leads, validar una oferta o convertir trafico pagado en mensajes con contexto.",
+      "primaryLabel": "Quiero mi landing page",
+      "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20una%20landing%20page%20para%20mi%20negocio.%20Mi%20oferta%20principal%20es%3A",
+      "secondaryLabel": "Ver planes",
+      "panel": {
+        "kicker": "Pensada para pauta",
+        "title": "La pagina debe continuar la promesa del anuncio.",
+        "lead": "Cuando anuncio, keyword y landing hablan de lo mismo, el visitante entiende mas rapido que hacer y por que confiar.",
+        "items": [
+          {
+            "title": "Mensaje alineado",
+            "content": "La oferta del anuncio y el titular de la pagina deben coincidir."
+          },
+          {
+            "title": "Una accion clara",
+            "content": "Cada landing prioriza un siguiente paso visible y facil de ejecutar."
+          },
+          {
+            "title": "Lectura comercial",
+            "content": "Medimos clics, secciones vistas y mensajes para mejorar con evidencia."
+          }
+        ]
+      }
+    },
+    "stats": [
+      {
+        "value": "Ads",
+        "label": "Alineacion anuncio-pagina",
+        "detail": "La promesa del clic y el contenido deben coincidir."
+      },
+      {
+        "value": "CTA",
+        "label": "Una accion por pagina",
+        "detail": "La landing evita ruido y lleva al visitante a un solo siguiente paso."
+      },
+      {
+        "value": "Datos",
+        "label": "Lectura comercial",
+        "detail": "WhatsApp, secciones y clics ayudan a iterar sin adivinar."
+      }
+    ],
+    "sections": [
+      {
+        "eyebrow": "Que incluye",
+        "title": "Una landing pensada para captar atencion y convertirla en contacto.",
+        "lead": "No se trata de meter mas bloques, sino de ordenar oferta, prueba y llamado a la accion para que el visitante entienda rapido.",
+        "cards": [
+          {
+            "icon": "rocket_launch",
+            "title": "Oferta principal",
+            "description": "La pagina se construye alrededor de una sola promesa comercial y un objetivo concreto.",
+            "benefits": [
+              "Titular alineado con la pauta",
+              "Beneficio central visible",
+              "CTA por encima y por debajo del pliegue"
+            ],
+            "href": "/servicios",
+            "linkLabel": "Ver el servicio"
+          },
+          {
+            "icon": "saved_search",
+            "title": "SEO y claridad tecnica",
+            "description": "Metadatos, estructura y tiempos de carga ayudan a que la pagina sea mas facil de entender para buscadores y personas.",
+            "benefits": [
+              "Titulos y descripciones por ruta",
+              "Canonical y Open Graph consistentes",
+              "Experiencia movil priorizada"
+            ],
+            "href": "/optimizacion-y-analitica",
+            "linkLabel": "Ver optimizacion"
+          },
+          {
+            "icon": "analytics",
+            "title": "Medicion desde el dia 1",
+            "description": "Registramos clics y zonas de lectura para saber que parte de la pagina empuja la conversacion.",
+            "benefits": [
+              "Clics en CTA",
+              "Secciones consultadas",
+              "Mensajes de WhatsApp con contexto"
+            ],
+            "href": "/landing-pages-para-google-ads",
+            "linkLabel": "Ver ruta para Google Ads"
+          }
+        ]
+      },
+      {
+        "eyebrow": "Rutas por intencion",
+        "title": "No todos los clics llegan con la misma pregunta.",
+        "lead": "Creamos rutas especificas para quien compara planes, quien quiere pautar y quien necesita una landing para una PyME o servicio.",
+        "cards": [
+          {
+            "icon": "storefront",
+            "title": "PyMEs y servicios",
+            "description": "Una landing que explique rapido que vendes, a quien ayudas y como empezar contacto.",
+            "benefits": [
+              "Oferta clara",
+              "WhatsApp visible",
+              "Base para pauta y orgánico"
+            ],
+            "href": "/landing-pages-para-pymes",
+            "linkLabel": "Ir a PyMEs"
+          },
+          {
+            "icon": "ads_click",
+            "title": "Google Ads",
+            "description": "Una ruta pensada para keywords de alta intencion donde la landing debe responder exactamente a la busqueda.",
+            "benefits": [
+              "Anuncio y titular alineados",
+              "Menos distracciones",
+              "Un objetivo medible"
+            ],
+            "href": "/landing-pages-para-google-ads",
+            "linkLabel": "Ir a Google Ads"
+          },
+          {
+            "icon": "monitoring",
+            "title": "Optimizacion continua",
+            "description": "Cuando ya llega trafico, usamos datos simples para decidir que iterar primero.",
+            "benefits": [
+              "Lectura por seccion",
+              "Clics con contexto",
+              "Prioridad por impacto"
+            ],
+            "href": "/optimizacion-y-analitica",
+            "linkLabel": "Ir a analitica"
+          }
+        ]
+      },
+      {
+        "eyebrow": "Sectores iniciales",
+        "title": "Tres verticales donde la claridad del primer clic pesa mucho.",
+        "lead": "Consultorios, despachos e inmobiliarias suelen comprar trafico o recibir referidos que necesitan una respuesta rapida y sin ambiguedad.",
+        "cards": [
+          {
+            "icon": "favorite",
+            "title": "Consultorios",
+            "description": "Landing pages para explicar servicios, zonas, horarios y siguiente paso sin pedir datos sensibles que hoy no soportamos.",
+            "benefits": [
+              "Servicios visibles",
+              "Ubicacion y horarios",
+              "WhatsApp o agenda externa"
+            ],
+            "href": "/sectores/consultorios",
+            "linkLabel": "Ver consultorios"
+          },
+          {
+            "icon": "gavel",
+            "title": "Despachos",
+            "description": "Mensajes serios para areas de servicio, experiencia y formas de contacto con mejor filtro comercial.",
+            "benefits": [
+              "Areas de practica",
+              "Respaldo visible",
+              "Consulta inicial"
+            ],
+            "href": "/sectores/despachos",
+            "linkLabel": "Ver despachos"
+          },
+          {
+            "icon": "home",
+            "title": "Inmobiliarias",
+            "description": "Landing pages para proyectos, desarrollos u ofertas puntuales sin prometer CRM ni portales que la plataforma aun no productoiza.",
+            "benefits": [
+              "Zonas y desarrollos",
+              "Formulario simple o WhatsApp",
+              "Campanas por oferta"
+            ],
+            "href": "/sectores/inmobiliarias",
+            "linkLabel": "Ver inmobiliarias"
+          }
+        ]
+      }
+    ],
+    "faq": {
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo basico antes de pedir tu landing.",
+      "lead": "Respuestas directas para decidir si una landing page es la ruta correcta para tu oferta.",
+      "items": [
+        {
+          "title": "¿En que se diferencia una landing page de un sitio completo?",
+          "content": "La landing se construye para una sola promesa y una sola accion prioritaria. Reduce opciones para empujar un siguiente paso mas claro."
+        },
+        {
+          "title": "¿Sirve para Google Ads?",
+          "content": "Si. Es una de las mejores bases cuando anuncio, keyword y pagina responden a la misma intencion comercial."
+        },
+        {
+          "title": "¿Incluye dominio, hosting y SSL?",
+          "content": "La base actual parte desde 900 MXN al mes e incluye dominio, alojamiento, certificados y medicion inicial."
+        },
+        {
+          "title": "¿Puedo usar WhatsApp como contacto principal?",
+          "content": "Si. Es el canal mas directo hoy para iniciar conversacion con contexto sin prometer integraciones que todavia no estan productoizadas."
+        },
+        {
+          "title": "¿Prometen posicionamiento o resultados garantizados?",
+          "content": "No. Trabajamos mejorando claridad, velocidad, experiencia de destino y medicion, pero no prometemos rankings ni resultados automaticos."
+        }
+      ]
+    },
+    "final": {
+      "eyebrow": "Siguiente paso",
+      "title": "Cuéntanos que vendes y a que trafico quieres responder.",
+      "lead": "Con esa base te orientamos la ruta, el alcance y la mejor CTA para tu primera landing.",
+      "primaryLabel": "Quiero mi landing page",
+      "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20crear%20una%20landing%20page.%20Mi%20oferta%20principal%20es%3A",
+      "secondaryLabel": "Ir a contacto"
+    }
+  }
+}

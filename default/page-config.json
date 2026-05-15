@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "pageId": "default",
+  "domain": "sulandingpage.com.mx",
+  "rootIds": [
+    "skipToMainLink",
+    "siteHeader",
+    "defaultPage",
+    "siteFooter"
+  ],
+  "modalRootIds": [],
+  "metadata": {
+    "status": "phase-1-local-draft",
+    "routePurpose": "brand-and-main-landing-offer"
+  },
+  "seo": {
+    "title": {
+      "es": "Landing pages para Google Ads y conversion | Sulandingpage"
+    },
+    "description": {
+      "es": "Landing pages rapidas, claras y medibles para negocios que quieren convertir trafico pagado y busquedas en conversaciones y leads."
+    },
+    "openGraph": {
+      "title": {
+        "es": "Landing pages para Google Ads y conversion | Sulandingpage"
+      },
+      "description": {
+        "es": "Landing pages rapidas, claras y medibles para negocios que quieren convertir trafico pagado y busquedas en conversaciones y leads."
+      },
+      "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
+      "url": "https://sulandingpage.com.mx/",
+      "type": "website"
+    },
+    "twitter": {
+      "title": {
+        "es": "Landing pages para Google Ads y conversion | Sulandingpage"
+      },
+      "description": {
+        "es": "Landing pages rapidas, claras y medibles para negocios que quieren convertir trafico pagado y busquedas en conversaciones y leads."
+      },
+      "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
+      "card": "summary_large_image"
+    },
+    "canonical": "https://sulandingpage.com.mx/",
+    "keywords": {
+      "es": [
+        "landing pages para google ads",
+        "landing page mexico",
+        "landing page con whatsapp",
+        "landing page para conversion",
+        "sulandingpage"
+      ]
+    }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Landing pages para Google Ads y conversion | Sulandingpage",
+        "description": "Landing pages rapidas, claras y medibles para negocios que quieren convertir trafico pagado y busquedas en conversaciones y leads.",
+        "url": "https://sulandingpage.com.mx/",
+        "inLanguage": "es"
+      }
+    ]
+  },
+  "analytics": {
+    "sectionIds": [
+      "home",
+      "evidencia",
+      "resultados",
+      "sectores",
+      "proximamente",
+      "contacto"
+    ],
+    "scrollMilestones": [
+      25,
+      50,
+      75,
+      100
+    ]
+  }
+}

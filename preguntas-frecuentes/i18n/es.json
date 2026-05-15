@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "domain": "sulandingpage.com.mx",
+  "pageId": "preguntas-frecuentes",
+  "lang": "es",
+  "dictionary": {
+    "hero": {
+      "eyebrow": "Preguntas frecuentes",
+      "title": "Lo esencial antes de pedir tu landing.",
+      "lead": "Reunimos las dudas principales sobre alcance, tiempos, Google Ads, WhatsApp, materiales y optimizacion para que decidas con mas claridad.",
+      "primaryLabel": "Quiero orientacion",
+      "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20orientacion%20para%20mi%20landing%20page.",
+      "secondaryLabel": "Ir a contacto"
+    },
+    "faq": {
+      "eyebrow": "Respuestas",
+      "title": "Preguntas frecuentes",
+      "lead": "Una sola pagina para consultar lo esencial del servicio.",
+      "items": [
+        {
+          "title": "¿En que casos conviene una landing page?",
+          "content": "Cuando quieres mover una oferta puntual, una campaña o una busqueda concreta con una sola accion prioritaria."
+        },
+        {
+          "title": "¿Incluye dominio, hosting y SSL?",
+          "content": "La base actual parte desde 900 MXN al mes e incluye dominio, alojamiento, certificados y medicion inicial."
+        },
+        {
+          "title": "¿Tambien sirve para Google Ads?",
+          "content": "Si. Una landing alineada con keyword, anuncio y CTA suele responder mejor a la intencion del clic."
+        },
+        {
+          "title": "¿Prometen rankings o resultados garantizados?",
+          "content": "No. Trabajamos claridad, experiencia de destino, SEO tecnico basico y medicion, pero no vendemos garantias que no podamos sostener."
+        },
+        {
+          "title": "¿El contacto inicial puede ser por WhatsApp?",
+          "content": "Si. Es el canal principal hoy para iniciar conversacion con contexto sin prometer integraciones no productoizadas."
+        },
+        {
+          "title": "¿Puedo empezar con pocos textos o materiales?",
+          "content": "Si. Podemos partir de tu oferta, referencias y preguntas frecuentes para armar una primera version clara."
+        },
+        {
+          "title": "¿La landing puede crecer despues?",
+          "content": "Si. Puedes abrir nuevas rutas por sector, campaña, servicio u objecion conforme aparezca evidencia real."
+        },
+        {
+          "title": "¿Que miden primero?",
+          "content": "Clics en CTA, lectura por seccion, mensajes de WhatsApp y rutas que reciben mas interes."
+        }
+      ]
+    },
+    "final": {
+      "eyebrow": "Siguiente paso",
+      "title": "Conversemos sobre tu caso especifico.",
+      "lead": "Si ya tienes una idea de la oferta o de la campaña, te ayudamos a ordenar alcance, CTA y materiales.",
+      "primaryLabel": "Abrir WhatsApp",
+      "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20empezar%20mi%20landing%20page%20con%20Sulandingpage.",
+      "secondaryLabel": "Ver planes"
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "pageId": "sector-despachos",
+  "domain": "sulandingpage.com.mx",
+  "rootIds": [
+    "skipToMainLink",
+    "siteHeader",
+    "sector-despachosPage",
+    "siteFooter"
+  ],
+  "modalRootIds": [],
+  "metadata": {
+    "status": "phase-1-local-draft",
+    "routePurpose": "sector-despachos"
+  },
+  "seo": {
+    "title": {
+      "es": "Landing pages para despachos | Sulandingpage"
+    },
+    "description": {
+      "es": "Landing pages para despachos legales, contables o profesionales que necesitan ordenar servicios, respaldo y primer contacto con tono claro."
+    },
+    "openGraph": {
+      "title": {
+        "es": "Landing pages para despachos | Sulandingpage"
+      },
+      "description": {
+        "es": "Landing pages para despachos legales, contables o profesionales que necesitan ordenar servicios, respaldo y primer contacto con tono claro."
+      },
+      "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
+      "url": "https://sulandingpage.com.mx/sectores/despachos",
+      "type": "website"
+    },
+    "twitter": {
+      "title": {
+        "es": "Landing pages para despachos | Sulandingpage"
+      },
+      "description": {
+        "es": "Landing pages para despachos legales, contables o profesionales que necesitan ordenar servicios, respaldo y primer contacto con tono claro."
+      },
+      "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
+      "card": "summary_large_image"
+    },
+    "canonical": "https://sulandingpage.com.mx/sectores/despachos",
+    "keywords": {
+      "es": [
+        "landing page para despacho",
+        "landing page para abogados",
+        "landing page para despacho contable",
+        "landing servicios profesionales"
+      ]
+    }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Landing pages para despachos | Sulandingpage",
+        "description": "Landing pages para despachos legales, contables o profesionales que necesitan ordenar servicios, respaldo y primer contacto con tono claro.",
+        "url": "https://sulandingpage.com.mx/sectores/despachos",
+        "inLanguage": "es"
+      }
+    ]
+  },
+  "analytics": {
+    "sectionIds": [
+      "home",
+      "evidencia",
+      "necesidades",
+      "contenido",
+      "contacto"
+    ],
+    "scrollMilestones": [
+      25,
+      50,
+      75,
+      100
+    ]
+  }
+}

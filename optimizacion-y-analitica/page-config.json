@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "pageId": "optimizacion-y-analitica",
+  "domain": "sulandingpage.com.mx",
+  "rootIds": [
+    "skipToMainLink",
+    "siteHeader",
+    "plataformaPage",
+    "siteFooter"
+  ],
+  "modalRootIds": [],
+  "metadata": {
+    "status": "phase-1-local-draft",
+    "routePurpose": "optimization-and-analytics-intent"
+  },
+  "seo": {
+    "title": {
+      "es": "Optimizacion y analitica para landing pages | Sulandingpage"
+    },
+    "description": {
+      "es": "Mide clics, lectura por seccion y mensajes para iterar landing pages con evidencia, sin prometer automatizaciones o resultados inflados."
+    },
+    "openGraph": {
+      "title": {
+        "es": "Optimizacion y analitica para landing pages | Sulandingpage"
+      },
+      "description": {
+        "es": "Mide clics, lectura por seccion y mensajes para iterar landing pages con evidencia, sin prometer automatizaciones o resultados inflados."
+      },
+      "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
+      "url": "https://sulandingpage.com.mx/optimizacion-y-analitica",
+      "type": "website"
+    },
+    "twitter": {
+      "title": {
+        "es": "Optimizacion y analitica para landing pages | Sulandingpage"
+      },
+      "description": {
+        "es": "Mide clics, lectura por seccion y mensajes para iterar landing pages con evidencia, sin prometer automatizaciones o resultados inflados."
+      },
+      "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
+      "card": "summary_large_image"
+    },
+    "canonical": "https://sulandingpage.com.mx/optimizacion-y-analitica",
+    "keywords": {
+      "es": [
+        "optimizacion de landing pages",
+        "analitica de landing page",
+        "medicion de cta",
+        "iteracion de landing"
+      ]
+    }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Optimizacion y analitica para landing pages | Sulandingpage",
+        "description": "Mide clics, lectura por seccion y mensajes para iterar landing pages con evidencia, sin prometer automatizaciones o resultados inflados.",
+        "url": "https://sulandingpage.com.mx/optimizacion-y-analitica",
+        "inLanguage": "es"
+      }
+    ]
+  },
+  "analytics": {
+    "sectionIds": [
+      "home",
+      "evidencia",
+      "beneficios",
+      "responsabilidad",
+      "contacto"
+    ],
+    "scrollMilestones": [
+      25,
+      50,
+      75,
+      100
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "pageId": "sector-inmobiliarias",
+  "domain": "sulandingpage.com.mx",
+  "rootIds": [
+    "skipToMainLink",
+    "siteHeader",
+    "sector-inmobiliariasPage",
+    "siteFooter"
+  ],
+  "modalRootIds": [],
+  "metadata": {
+    "status": "phase-1-local-draft",
+    "routePurpose": "sector-inmobiliarias"
+  },
+  "seo": {
+    "title": {
+      "es": "Landing pages para inmobiliarias | Sulandingpage"
+    },
+    "description": {
+      "es": "Landing pages para inmobiliarias que presentan zonas, desarrollos o servicios con una CTA clara y una experiencia alineada a campañas o busqueda."
+    },
+    "openGraph": {
+      "title": {
+        "es": "Landing pages para inmobiliarias | Sulandingpage"
+      },
+      "description": {
+        "es": "Landing pages para inmobiliarias que presentan zonas, desarrollos o servicios con una CTA clara y una experiencia alineada a campañas o busqueda."
+      },
+      "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
+      "url": "https://sulandingpage.com.mx/sectores/inmobiliarias",
+      "type": "website"
+    },
+    "twitter": {
+      "title": {
+        "es": "Landing pages para inmobiliarias | Sulandingpage"
+      },
+      "description": {
+        "es": "Landing pages para inmobiliarias que presentan zonas, desarrollos o servicios con una CTA clara y una experiencia alineada a campañas o busqueda."
+      },
+      "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
+      "card": "summary_large_image"
+    },
+    "canonical": "https://sulandingpage.com.mx/sectores/inmobiliarias",
+    "keywords": {
+      "es": [
+        "landing page para inmobiliaria",
+        "landing page bienes raices",
+        "landing para desarrollo inmobiliario",
+        "landing page propiedades"
+      ]
+    }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Landing pages para inmobiliarias | Sulandingpage",
+        "description": "Landing pages para inmobiliarias que presentan zonas, desarrollos o servicios con una CTA clara y una experiencia alineada a campañas o busqueda.",
+        "url": "https://sulandingpage.com.mx/sectores/inmobiliarias",
+        "inLanguage": "es"
+      }
+    ]
+  },
+  "analytics": {
+    "sectionIds": [
+      "home",
+      "evidencia",
+      "necesidades",
+      "contenido",
+      "contacto"
+    ],
+    "scrollMilestones": [
+      25,
+      50,
+      75,
+      100
+    ]
+  }
+}

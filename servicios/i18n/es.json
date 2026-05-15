@@ -1,0 +1,183 @@
+{
+  "version": 1,
+  "domain": "sulandingpage.com.mx",
+  "pageId": "servicios",
+  "lang": "es",
+  "dictionary": {
+    "hero": {
+      "eyebrow": "Servicio completo",
+      "title": "De la oferta al lanzamiento: estructura, copy, diseño y medicion en una sola entrega.",
+      "lead": "Sulandingpage acompaña el armado de tu landing para que la promesa, la experiencia y el CTA queden alineados con el trafico que vas a atraer.",
+      "primaryLabel": "Quiero revisar mi proyecto",
+      "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20revisar%20mi%20proyecto%20de%20landing%20page.%20Mi%20oferta%20principal%20es%3A",
+      "secondaryLabel": "Comparar planes",
+      "panel": {
+        "kicker": "Entrega orientada a conversion",
+        "title": "Cada bloque de la landing tiene una intencion clara.",
+        "lead": "El trabajo no es llenar una pagina, sino ordenar oferta, prueba y contacto para que el visitante avance con menos friccion.",
+        "items": [
+          {
+            "title": "Estrategia",
+            "content": "Definimos promesa, publico y CTA antes de escribir o diseñar."
+          },
+          {
+            "title": "Copy",
+            "content": "Redactamos titulares, objeciones y prueba con lenguaje comercial directo."
+          },
+          {
+            "title": "Medicion",
+            "content": "Configuramos eventos iniciales para decidir que iterar primero."
+          }
+        ]
+      }
+    },
+    "stats": [
+      {
+        "value": "Brief",
+        "label": "Promesa y publico",
+        "detail": "Aterrizamos una oferta principal antes de diseñar la pagina."
+      },
+      {
+        "value": "Copy",
+        "label": "Mensaje directo",
+        "detail": "Titulares y objeciones pensados para lectura rapida y movil."
+      },
+      {
+        "value": "Datos",
+        "label": "Medicion inicial",
+        "detail": "Clics y lectura por seccion para priorizar mejoras."
+      }
+    ],
+    "sections": [
+      {
+        "eyebrow": "Que incluye",
+        "title": "Una base lista para vender una oferta puntual.",
+        "lead": "El servicio junta estrategia, contenido, diseño y publicacion para que la landing pueda salir con una estructura comercial defendible.",
+        "cards": [
+          {
+            "icon": "account_tree",
+            "title": "Mapa de mensaje",
+            "description": "Definimos promesa, evidencia y CTA para que la pagina no mezcle demasiadas intenciones.",
+            "benefits": [
+              "Una promesa central",
+              "Prueba alineada",
+              "CTA principal"
+            ],
+            "href": "",
+            "linkLabel": ""
+          },
+          {
+            "icon": "assignment",
+            "title": "Copy de conversion",
+            "description": "Escribimos textos para aclarar lo que vendes, reducir dudas y acercar al visitante al siguiente paso.",
+            "benefits": [
+              "Titular y subtitular",
+              "Beneficios y objeciones",
+              "FAQ comercial"
+            ],
+            "href": "",
+            "linkLabel": ""
+          },
+          {
+            "icon": "analytics",
+            "title": "Medicion y lanzamiento",
+            "description": "La primera version sale con eventos y metadatos basicos para leer interes real desde el arranque.",
+            "benefits": [
+              "Eventos en CTA",
+              "SEO por ruta",
+              "Revision movil"
+            ],
+            "href": "",
+            "linkLabel": ""
+          }
+        ]
+      },
+      {
+        "eyebrow": "Como trabajamos",
+        "title": "Cuatro pasos para lanzar sin improvisar.",
+        "lead": "La pagina se define con decisiones concretas sobre trafico, oferta, evidencia y canal de contacto.",
+        "cards": [
+          {
+            "icon": "search",
+            "title": "1. Brief comercial",
+            "description": "Revisamos oferta, publico, origen del trafico y pregunta principal que debe resolver la landing.",
+            "benefits": [
+              "Keyword o anuncio",
+              "Oferta prioritaria",
+              "Objetivo de la pagina"
+            ],
+            "href": "",
+            "linkLabel": ""
+          },
+          {
+            "icon": "edit_note",
+            "title": "2. Estructura y copy",
+            "description": "Ordenamos titulares, prueba, beneficios y preguntas frecuentes en una secuencia defendible.",
+            "benefits": [
+              "Jerarquia visual",
+              "CTA visible",
+              "Mensajes claros"
+            ],
+            "href": "",
+            "linkLabel": ""
+          },
+          {
+            "icon": "design_services",
+            "title": "3. Diseño y ajuste",
+            "description": "Construimos la landing con criterio movil, contraste suficiente y lectura rapida.",
+            "benefits": [
+              "Diseno adaptable",
+              "Elementos de confianza",
+              "Menos ruido"
+            ],
+            "href": "",
+            "linkLabel": ""
+          },
+          {
+            "icon": "rocket_launch",
+            "title": "4. Publicar y medir",
+            "description": "Revisamos experiencia, metadatos y eventos clave para lanzar una primera version util.",
+            "benefits": [
+              "Canonical correcto",
+              "Open Graph listo",
+              "Eventos con contexto"
+            ],
+            "href": "",
+            "linkLabel": ""
+          }
+        ]
+      }
+    ],
+    "faq": {
+      "eyebrow": "Servicio",
+      "title": "Como se trabaja la landing",
+      "lead": "Respuestas cortas sobre el alcance y la forma de colaborar.",
+      "items": [
+        {
+          "title": "¿Necesito tener todo el contenido listo?",
+          "content": "No. Podemos partir de tu oferta, referencias y preguntas frecuentes para estructurar una primera version defendible."
+        },
+        {
+          "title": "¿La landing puede llevar a WhatsApp?",
+          "content": "Si. Hoy es el canal mas directo para iniciar conversacion con contexto sin prometer integraciones que aun no estan productoizadas."
+        },
+        {
+          "title": "¿Tambien sirve para trafico organico?",
+          "content": "Si, siempre que la ruta, el titulo y el contenido respondan a una intencion de busqueda real y no se duplique sin control."
+        },
+        {
+          "title": "¿Puedo iterar despues de publicar?",
+          "content": "Si. La idea es lanzar una base clara y despues ajustar titulares, pruebas y CTA con lectura comercial."
+        }
+      ]
+    },
+    "final": {
+      "eyebrow": "Empezar",
+      "title": "Cuéntanos que trafico quieres convertir y que accion buscas.",
+      "lead": "Con eso definimos estructura, copy y el alcance correcto para la primera version.",
+      "primaryLabel": "Revisar mi proyecto",
+      "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20revisar%20mi%20proyecto%20de%20landing%20page%20y%20definir%20el%20alcance.",
+      "secondaryLabel": "Ir a contacto"
+    }
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "version": 1,
+  "domain": "sulandingpage.com.mx",
+  "pageId": "contacto",
+  "lang": "es",
+  "dictionary": {
+    "hero": {
+      "eyebrow": "WhatsApp guiado",
+      "title": "Cuéntanos que oferta quieres mover con tu landing.",
+      "lead": "El primer mensaje puede incluir oferta principal, origen del trafico, ciudad, CTA deseada y si ya existe una pagina previa.",
+      "primaryLabel": "Abrir WhatsApp",
+      "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20crear%20una%20landing%20page.%20Mi%20oferta%20principal%20es%3A",
+      "secondaryLabel": "Ver planes",
+      "panel": {
+        "kicker": "Informacion util",
+        "title": "Con buen contexto, la recomendacion llega mas enfocada.",
+        "lead": "Para iniciar basta compartir informacion comercial general y el tipo de trafico o conversion que quieres mover.",
+        "items": [
+          {
+            "title": "Oferta",
+            "content": "Que vendes y cual es la promesa que quieres poner al frente."
+          },
+          {
+            "title": "Trafico",
+            "content": "Google Ads, organico, referidos, redes o una mezcla de varias fuentes."
+          },
+          {
+            "title": "Siguiente paso",
+            "content": "WhatsApp, llamada o un flujo simple que hoy si podamos sostener."
+          }
+        ]
+      }
+    },
+    "stats": [
+      {
+        "value": "1 mensaje",
+        "label": "Inicio directo",
+        "detail": "WhatsApp abre una conversacion agil para aterrizar alcance y prioridad."
+      },
+      {
+        "value": "Brief",
+        "label": "Contexto comercial",
+        "detail": "La recomendacion parte de tu oferta, tu trafico y tu objetivo real."
+      },
+      {
+        "value": "Ruta clara",
+        "label": "Siguiente paso",
+        "detail": "Te decimos si conviene una landing base, iteracion o una ruta mas especifica."
+      }
+    ],
+    "sections": [
+      {
+        "eyebrow": "Opciones de inicio",
+        "title": "Elige el mensaje mas cercano a tu caso.",
+        "lead": "Cada opcion abre WhatsApp con un mensaje inicial util para orientar la conversacion.",
+        "cards": [
+          {
+            "icon": "preview",
+            "title": "Quiero una landing nueva",
+            "description": "Para negocios que necesitan una primera pagina clara para captar clics y mensajes.",
+            "benefits": [
+              "Oferta principal",
+              "Objetivo de conversion",
+              "Tiempo deseado"
+            ],
+            "href": "https://wa.me/525522699563?text=Hola%2C%20quiero%20una%20landing%20page%20nueva%20para%20mi%20negocio.",
+            "linkLabel": "Abrir WhatsApp"
+          },
+          {
+            "icon": "campaign",
+            "title": "Quiero una landing para Ads",
+            "description": "Para campañas donde ya existe una keyword, anuncio o audiencia y la pagina debe responder a esa intencion.",
+            "benefits": [
+              "Keyword o anuncio",
+              "Oferta puntual",
+              "CTA principal"
+            ],
+            "href": "https://wa.me/525522699563?text=Hola%2C%20quiero%20una%20landing%20page%20para%20Google%20Ads.%20La%20keyword%20o%20servicio%20principal%20es%3A",
+            "linkLabel": "Abrir WhatsApp"
+          },
+          {
+            "icon": "insights",
+            "title": "Quiero revisar una landing actual",
+            "description": "Para proyectos que ya tienen pagina, trafico o datos y necesitan una ruta de optimizacion.",
+            "benefits": [
+              "URL actual",
+              "Principal problema",
+              "Meta de mejora"
+            ],
+            "href": "https://wa.me/525522699563?text=Hola%2C%20quiero%20revisar%20una%20landing%20page%20actual.%20La%20URL%20o%20referencia%20es%3A",
+            "linkLabel": "Abrir WhatsApp"
+          }
+        ]
+      },
+      {
+        "eyebrow": "Diagnostico inicial",
+        "title": "Lo que revisamos antes de recomendar.",
+        "lead": "La revision inicial se enfoca en oferta, trafico, materiales y claridad del siguiente paso, no en prometer mas de lo necesario.",
+        "cards": [
+          {
+            "icon": "filter_alt",
+            "title": "Oferta",
+            "description": "Que vendes, a quien atiendes y cual es la objecion mas fuerte antes del contacto.",
+            "benefits": [
+              "Promesa principal",
+              "Beneficio central",
+              "Objeciones frecuentes"
+            ],
+            "href": "",
+            "linkLabel": ""
+          },
+          {
+            "icon": "ads_click",
+            "title": "Trafico",
+            "description": "De donde vendran las visitas y que expectativa traen al llegar a la landing.",
+            "benefits": [
+              "Ads o busqueda",
+              "Redes o referidos",
+              "Intencion dominante"
+            ],
+            "href": "",
+            "linkLabel": ""
+          },
+          {
+            "icon": "assignment",
+            "title": "Materiales",
+            "description": "Logo, fotos, textos, casos o referencias visuales que ya existan y nos ayuden a lanzar mas rapido.",
+            "benefits": [
+              "Textos base",
+              "Imagenes o mockups",
+              "Prueba disponible"
+            ],
+            "href": "",
+            "linkLabel": ""
+          }
+        ]
+      }
+    ],
+    "faq": {
+      "eyebrow": "Contacto",
+      "title": "Antes de escribir",
+      "lead": "Que esperar del primer intercambio.",
+      "items": [
+        {
+          "title": "¿Puedo empezar con poca informacion?",
+          "content": "Si. Con la oferta, el tipo de cliente y una idea del siguiente paso podemos orientar una primera estructura."
+        },
+        {
+          "title": "¿El contacto inicial es por WhatsApp?",
+          "content": "Si. Hoy es el canal mas directo para calificar interes y definir alcance sin vender flujos complejos que aun no soportamos."
+        },
+        {
+          "title": "¿Pueden orientarme si no se si necesito landing o sitio?",
+          "content": "Si. Revisamos objetivo, trafico y profundidad de contenido para recomendar la pieza correcta."
+        },
+        {
+          "title": "¿Que conviene compartir en el primer mensaje?",
+          "content": "Oferta principal, ciudad, trafico esperado, referencia visual y la conversion que quieres priorizar."
+        },
+        {
+          "title": "¿Tambien ayudan a revisar una landing existente?",
+          "content": "Si, cuando ya hay trafico o una pagina previa podemos orientar una ruta de diagnostico y optimizacion."
+        }
+      ]
+    },
+    "final": {
+      "eyebrow": "WhatsApp",
+      "title": "Empieza con el contexto que ya tengas.",
+      "lead": "Si falta informacion, la ordenamos en la conversacion.",
+      "primaryLabel": "Abrir WhatsApp",
+      "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20empezar%20mi%20landing%20page%20con%20Sulandingpage.",
+      "secondaryLabel": "Ver planes"
+    }
+  }
+}

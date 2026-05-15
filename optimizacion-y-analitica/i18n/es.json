@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "domain": "sulandingpage.com.mx",
+  "pageId": "optimizacion-y-analitica",
+  "lang": "es",
+  "dictionary": {
+    "hero": {
+      "eyebrow": "Optimizacion con evidencia",
+      "title": "Mide clics, lectura y mensajes para mejorar la landing sin adivinar.",
+      "lead": "Sulandingpage parte de una base simple: leer interacciones utiles para decidir que mensaje, prueba o CTA conviene ajustar primero.",
+      "primaryLabel": "Quiero hablar de optimizacion",
+      "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20hablar%20sobre%20optimizacion%20y%20analitica%20para%20mi%20landing%20page.",
+      "secondaryLabel": "Ver servicios",
+      "panel": {
+        "kicker": "Lectura comercial",
+        "title": "No todo dato sirve; importa el que ayuda a decidir la siguiente mejora.",
+        "lead": "Nos enfocamos en señales utiles para conversion: que CTA recibe clics, que seccion se consulta y que mensajes abren conversacion.",
+        "items": [
+          {
+            "title": "Eventos utiles",
+            "content": "Clics en CTA, WhatsApp y zonas clave de la pagina."
+          },
+          {
+            "title": "Lectura por seccion",
+            "content": "Que parte de la landing sostiene el interes y cual pierde fuerza."
+          },
+          {
+            "title": "Iteracion priorizada",
+            "content": "Cambiamos primero lo que puede mover mas claridad o conversion."
+          }
+        ]
+      }
+    },
+    "stats": [
+      {
+        "value": "Datos",
+        "label": "Eventos con contexto",
+        "detail": "Clics y rutas con lectura suficiente para decidir cambios."
+      },
+      {
+        "value": "CTA",
+        "label": "Accion principal",
+        "detail": "Detectamos si el siguiente paso realmente esta siendo visible y comprensible."
+      },
+      {
+        "value": "Iteracion",
+        "label": "Mejoras por impacto",
+        "detail": "No se cambia todo; se prioriza lo que mas puede mover resultados."
+      }
+    ],
+    "sections": [
+      {
+        "eyebrow": "Beneficios",
+        "title": "La medicion ayuda cuando esta conectada con decisiones reales.",
+        "lead": "No buscamos llenar dashboards: buscamos entender que bloque genera interes y que parte de la pagina necesita mas claridad.",
+        "cards": [
+          {
+            "icon": "speed",
+            "title": "Lectura por seccion",
+            "description": "Ver donde la gente se detiene o abandona ayuda a identificar si el mensaje esta mal secuenciado.",
+            "benefits": [
+              "Profundidad de lectura",
+              "Secciones con mas atencion",
+              "Priorizacion de cambios"
+            ],
+            "href": "",
+            "linkLabel": ""
+          },
+          {
+            "icon": "trending_up",
+            "title": "Clics con contexto",
+            "description": "No solo importa si hacen clic, sino desde donde y despues de ver que parte de la landing.",
+            "benefits": [
+              "CTA primaria",
+              "CTA secundaria",
+              "Rutas mas consultadas"
+            ],
+            "href": "",
+            "linkLabel": ""
+          },
+          {
+            "icon": "analytics",
+            "title": "Iteracion informada",
+            "description": "Los datos ayudan a decidir si conviene cambiar titular, prueba, FAQ o visibilidad del siguiente paso.",
+            "benefits": [
+              "Cambios por prioridad",
+              "Menos opinion interna",
+              "Mejor uso del trafico"
+            ],
+            "href": "",
+            "linkLabel": ""
+          }
+        ]
+      },
+      {
+        "eyebrow": "Alcance responsable",
+        "title": "Optimizacion no significa promesas infladas.",
+        "lead": "Mejoramos la experiencia y el mensaje de la landing, pero evitamos vender automatizaciones o resultados que hoy no podemos sostener con producto.",
+        "cards": [
+          {
+            "icon": "rule",
+            "title": "Sin garantias de ranking",
+            "description": "Trabajamos claridad, experiencia y estructura, pero no prometemos posicionamiento automatico ni resultados garantizados.",
+            "benefits": [
+              "SEO responsable",
+              "Sin claims inflados",
+              "Mensajes verificables"
+            ],
+            "href": "",
+            "linkLabel": ""
+          },
+          {
+            "icon": "privacy_tip",
+            "title": "Sin flujos no productoizados",
+            "description": "Mientras ciertas integraciones no existan como producto, preferimos WhatsApp u otros pasos simples y seguros.",
+            "benefits": [
+              "Menos deuda de promesa",
+              "Mas claridad comercial",
+              "Canales reales"
+            ],
+            "href": "",
+            "linkLabel": ""
+          },
+          {
+            "icon": "inventory_2",
+            "title": "Cambios controlados",
+            "description": "Ajustamos por lotes pequeños para poder leer mejor que movio la mejora o la perdida.",
+            "benefits": [
+              "Menos ruido",
+              "Mas aprendizaje",
+              "Riesgo acotado"
+            ],
+            "href": "",
+            "linkLabel": ""
+          }
+        ]
+      }
+    ],
+    "faq": {
+      "eyebrow": "Preguntas de analitica",
+      "title": "Que medimos y que hacemos con eso",
+      "lead": "Respuestas breves para aterrizar el valor de la lectura comercial.",
+      "items": [
+        {
+          "title": "¿Que se mide primero?",
+          "content": "Clics en CTA, mensajes a WhatsApp, secciones consultadas y profundidad de lectura suficiente para tomar decisiones."
+        },
+        {
+          "title": "¿Cada cuanto conviene optimizar?",
+          "content": "Cuando ya existe un volumen minimo de lectura o de clics que permita detectar patrones, no por ansiedad."
+        },
+        {
+          "title": "¿Esto reemplaza una estrategia completa de analitica?",
+          "content": "No. Es una capa util para decisiones de landing page, no una promesa de analitica avanzada o completa de negocio."
+        },
+        {
+          "title": "¿Que cambios suelen tener mas impacto?",
+          "content": "Titular, orden de beneficios, cantidad de prueba, claridad de CTA y visibilidad del siguiente paso."
+        }
+      ]
+    },
+    "final": {
+      "eyebrow": "Optimizacion",
+      "title": "Hablemos de la lectura que hoy necesitas para mejorar tu landing.",
+      "lead": "Si ya tienes trafico o planeas moverlo pronto, podemos definir que eventos y cambios vale la pena priorizar.",
+      "primaryLabel": "Quiero hablar de optimizacion",
+      "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20hablar%20sobre%20optimizacion%20y%20analitica%20para%20mi%20landing%20page.",
+      "secondaryLabel": "Ir a contacto"
+    }
+  }
+}

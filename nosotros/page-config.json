@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "pageId": "nosotros",
+  "domain": "sulandingpage.com.mx",
+  "rootIds": [
+    "skipToMainLink",
+    "siteHeader",
+    "nosotrosPage",
+    "siteFooter"
+  ],
+  "modalRootIds": [],
+  "metadata": {
+    "status": "phase-1-local-draft",
+    "routePurpose": "team-and-trust"
+  },
+  "seo": {
+    "title": {
+      "es": "Equipo de Sulandingpage | Landing pages, nube y analitica"
+    },
+    "description": {
+      "es": "Conoce al equipo detrás de Sulandingpage: desarrollo web, nube, IA, copy, diseño, pauta y analitica para landing pages profesionales."
+    },
+    "openGraph": {
+      "title": {
+        "es": "Equipo de Sulandingpage | Landing pages, nube y analitica"
+      },
+      "description": {
+        "es": "Conoce al equipo detrás de Sulandingpage: desarrollo web, nube, IA, copy, diseño, pauta y analitica para landing pages profesionales."
+      },
+      "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
+      "url": "https://sulandingpage.com.mx/nosotros",
+      "type": "website"
+    },
+    "twitter": {
+      "title": {
+        "es": "Equipo de Sulandingpage | Landing pages, nube y analitica"
+      },
+      "description": {
+        "es": "Conoce al equipo detrás de Sulandingpage: desarrollo web, nube, IA, copy, diseño, pauta y analitica para landing pages profesionales."
+      },
+      "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
+      "card": "summary_large_image"
+    },
+    "canonical": "https://sulandingpage.com.mx/nosotros",
+    "keywords": {
+      "es": [
+        "equipo sulandingpage",
+        "landing pages nube y marketing",
+        "desarrollo de landing pages equipo"
+      ]
+    }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Equipo de Sulandingpage | Landing pages, nube y analitica",
+        "description": "Conoce al equipo detrás de Sulandingpage: desarrollo web, nube, IA, copy, diseño, pauta y analitica para landing pages profesionales.",
+        "url": "https://sulandingpage.com.mx/nosotros",
+        "inLanguage": "es"
+      }
+    ]
+  },
+  "analytics": {
+    "sectionIds": [
+      "home",
+      "evidencia",
+      "forma-de-trabajo",
+      "equipo",
+      "contacto"
+    ],
+    "scrollMilestones": [
+      25,
+      50,
+      75,
+      100
+    ]
+  }
+}

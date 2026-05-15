@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "pageId": "sector-consultorios",
+  "domain": "sulandingpage.com.mx",
+  "rootIds": [
+    "skipToMainLink",
+    "siteHeader",
+    "sector-consultoriosPage",
+    "siteFooter"
+  ],
+  "modalRootIds": [],
+  "metadata": {
+    "status": "phase-1-local-draft",
+    "routePurpose": "sector-consultorios"
+  },
+  "seo": {
+    "title": {
+      "es": "Landing pages para consultorios | Sulandingpage"
+    },
+    "description": {
+      "es": "Landing pages para consultorios que ordenan especialidades, ubicacion, modalidad de atencion y contacto directo con lenguaje claro y prudente."
+    },
+    "openGraph": {
+      "title": {
+        "es": "Landing pages para consultorios | Sulandingpage"
+      },
+      "description": {
+        "es": "Landing pages para consultorios que ordenan especialidades, ubicacion, modalidad de atencion y contacto directo con lenguaje claro y prudente."
+      },
+      "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
+      "url": "https://sulandingpage.com.mx/sectores/consultorios",
+      "type": "website"
+    },
+    "twitter": {
+      "title": {
+        "es": "Landing pages para consultorios | Sulandingpage"
+      },
+      "description": {
+        "es": "Landing pages para consultorios que ordenan especialidades, ubicacion, modalidad de atencion y contacto directo con lenguaje claro y prudente."
+      },
+      "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
+      "card": "summary_large_image"
+    },
+    "canonical": "https://sulandingpage.com.mx/sectores/consultorios",
+    "keywords": {
+      "es": [
+        "landing page para consultorio",
+        "landing page para doctores",
+        "landing para clinica",
+        "landing para dentista"
+      ]
+    }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Landing pages para consultorios | Sulandingpage",
+        "description": "Landing pages para consultorios que ordenan especialidades, ubicacion, modalidad de atencion y contacto directo con lenguaje claro y prudente.",
+        "url": "https://sulandingpage.com.mx/sectores/consultorios",
+        "inLanguage": "es"
+      }
+    ]
+  },
+  "analytics": {
+    "sectionIds": [
+      "home",
+      "evidencia",
+      "necesidades",
+      "contenido",
+      "contacto"
+    ],
+    "scrollMilestones": [
+      25,
+      50,
+      75,
+      100
+    ]
+  }
+}

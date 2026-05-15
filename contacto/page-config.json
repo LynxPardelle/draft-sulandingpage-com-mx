@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "pageId": "contacto",
+  "domain": "sulandingpage.com.mx",
+  "rootIds": [
+    "skipToMainLink",
+    "siteHeader",
+    "contactoPage",
+    "siteFooter"
+  ],
+  "modalRootIds": [],
+  "metadata": {
+    "status": "phase-1-local-draft",
+    "routePurpose": "guided-whatsapp-contact-for-landing-pages"
+  },
+  "seo": {
+    "title": {
+      "es": "Contacto para crear tu landing page | Sulandingpage"
+    },
+    "description": {
+      "es": "Inicia por WhatsApp con un mensaje guiado para revisar tu oferta, el trafico que quieres mover y el alcance correcto de tu landing."
+    },
+    "openGraph": {
+      "title": {
+        "es": "Contacto para crear tu landing page | Sulandingpage"
+      },
+      "description": {
+        "es": "Inicia por WhatsApp con un mensaje guiado para revisar tu oferta, el trafico que quieres mover y el alcance correcto de tu landing."
+      },
+      "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
+      "url": "https://sulandingpage.com.mx/contacto",
+      "type": "website"
+    },
+    "twitter": {
+      "title": {
+        "es": "Contacto para crear tu landing page | Sulandingpage"
+      },
+      "description": {
+        "es": "Inicia por WhatsApp con un mensaje guiado para revisar tu oferta, el trafico que quieres mover y el alcance correcto de tu landing."
+      },
+      "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
+      "card": "summary_large_image"
+    },
+    "canonical": "https://sulandingpage.com.mx/contacto",
+    "keywords": {
+      "es": [
+        "contacto landing page",
+        "cotizar landing page",
+        "crear landing page mexico"
+      ]
+    }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Contacto para crear tu landing page | Sulandingpage",
+        "description": "Inicia por WhatsApp con un mensaje guiado para revisar tu oferta, el trafico que quieres mover y el alcance correcto de tu landing.",
+        "url": "https://sulandingpage.com.mx/contacto",
+        "inLanguage": "es"
+      }
+    ]
+  },
+  "analytics": {
+    "sectionIds": [
+      "home",
+      "evidencia",
+      "opciones",
+      "diagnostico",
+      "contacto"
+    ],
+    "scrollMilestones": [
+      25,
+      50,
+      75,
+      100
+    ]
+  }
+}

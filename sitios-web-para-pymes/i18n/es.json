@@ -1,0 +1,175 @@
+{
+  "version": 1,
+  "domain": "sulandingpage.com.mx",
+  "pageId": "sitios-web-para-pymes",
+  "lang": "es",
+  "dictionary": {
+    "hero": {
+      "eyebrow": "Para PyMEs y servicios locales",
+      "title": "Tu PyME necesita una landing que explique rapido, enfoque el mensaje y pida una sola accion.",
+      "lead": "Sulandingpage ordena tu oferta en una landing clara para que el visitante entienda que haces, para quien es y como empezar el contacto sin rodeos.",
+      "primaryLabel": "Quiero una landing para mi PyME",
+      "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20una%20landing%20page%20para%20mi%20PyME.%20Mi%20giro%20es%3A",
+      "secondaryLabel": "Ver planes",
+      "panel": {
+        "kicker": "Para decidir rapido",
+        "title": "El visitante no quiere adivinar lo que vendes.",
+        "lead": "Una landing bien armada reduce dudas basicas y ayuda a que el primer mensaje llegue con mejor contexto comercial.",
+        "items": [
+          {
+            "title": "Que ofreces",
+            "content": "Servicio, producto u oferta puntual explicada con una promesa central."
+          },
+          {
+            "title": "Por que confiar",
+            "content": "Prueba, beneficios, objeciones y siguiente paso visibles sin saturar."
+          },
+          {
+            "title": "Como contactarte",
+            "content": "WhatsApp o CTA directa con un mensaje inicial orientado al objetivo del visitante."
+          }
+        ]
+      }
+    },
+    "stats": [
+      {
+        "value": "PyME",
+        "label": "Oferta clara",
+        "detail": "Lenguaje simple para que una persona entienda rapido si le sirve."
+      },
+      {
+        "value": "Movil",
+        "label": "Lectura desde celular",
+        "detail": "Diseno pensado para revisar y escribirte sin friccion."
+      },
+      {
+        "value": "Pauta",
+        "label": "Base para campañas",
+        "detail": "Una sola promesa y una sola CTA mejoran la experiencia del clic."
+      }
+    ],
+    "sections": [
+      {
+        "eyebrow": "Problemas comunes",
+        "title": "Muchas PyMEs reciben trafico, pero no siempre convierten esa visita en un mensaje util.",
+        "lead": "La confusión suele venir de mezclar demasiados servicios, esconder la CTA o no responder las preguntas clave de quien llega por primera vez.",
+        "cards": [
+          {
+            "icon": "help_outline",
+            "title": "La oferta compite consigo misma",
+            "description": "Si la pagina intenta vender todo al mismo tiempo, el visitante no sabe por donde empezar.",
+            "benefits": [
+              "Demasiadas opciones",
+              "Titulares genericos",
+              "CTA poco visible"
+            ],
+            "href": "",
+            "linkLabel": ""
+          },
+          {
+            "icon": "phone_android",
+            "title": "La experiencia movil decide mucho",
+            "description": "Cuando la landing tarda, se siente saturada o es dificil de escanear, el clic se pierde antes del mensaje.",
+            "benefits": [
+              "Lectura rapida",
+              "Botones visibles",
+              "Recorrido corto"
+            ],
+            "href": "",
+            "linkLabel": ""
+          },
+          {
+            "icon": "analytics",
+            "title": "Sin datos, todo se vuelve opinion",
+            "description": "Leer clics y zonas de interes ayuda a decidir que cambiar primero y que no tocar todavia.",
+            "benefits": [
+              "Clicks por CTA",
+              "Secciones consultadas",
+              "Interes por ruta"
+            ],
+            "href": "",
+            "linkLabel": ""
+          }
+        ]
+      },
+      {
+        "eyebrow": "Solucion",
+        "title": "Una landing que convierte dudas en conversaciones.",
+        "lead": "La primera version debe dejar claro lo esencial: que ofreces, por que vale la pena escribirte y cual es el siguiente paso.",
+        "cards": [
+          {
+            "icon": "fact_check",
+            "title": "Oferta y promesa principal",
+            "description": "Ordenamos tu propuesta de valor alrededor de una accion clara y una sola expectativa para el clic.",
+            "benefits": [
+              "Titular fuerte",
+              "Beneficio central",
+              "CTA principal"
+            ],
+            "href": "",
+            "linkLabel": ""
+          },
+          {
+            "icon": "flash_on",
+            "title": "Contacto con contexto",
+            "description": "El mensaje a WhatsApp puede arrancar con informacion util para que la conversacion avance mas rapido.",
+            "benefits": [
+              "Menos pasos",
+              "Mas contexto",
+              "Seguimiento mas claro"
+            ],
+            "href": "",
+            "linkLabel": ""
+          },
+          {
+            "icon": "account_tree",
+            "title": "Crecimiento por rutas",
+            "description": "Despues de lanzar, puedes abrir rutas por sector, campana o variacion de oferta segun datos reales.",
+            "benefits": [
+              "SEO por intencion",
+              "Pauta mas relevante",
+              "Base para iterar"
+            ],
+            "href": "",
+            "linkLabel": ""
+          }
+        ]
+      }
+    ],
+    "faq": {
+      "eyebrow": "Preguntas PyME",
+      "title": "Antes de invertir en tu landing",
+      "lead": "Puntos clave para decidir con mas claridad.",
+      "items": [
+        {
+          "title": "¿Una PyME necesita landing o sitio completo?",
+          "content": "Depende del objetivo. Si quieres mover una oferta puntual o captar trafico de una campaña, la landing suele ser la mejor primera pieza."
+        },
+        {
+          "title": "¿Puedo empezar con pocos materiales?",
+          "content": "Si. Podemos partir de tu oferta, respuestas frecuentes y referencias para construir una primera version clara."
+        },
+        {
+          "title": "¿Sirve si aun no invierto fuerte en anuncios?",
+          "content": "Si. Tambien ayuda para trafico organico, referencias o redes, siempre que la promesa y la CTA esten bien alineadas."
+        },
+        {
+          "title": "¿La landing puede crecer despues?",
+          "content": "Si. Puedes abrir mas rutas por sector, campana o producto conforme aparezcan nuevas necesidades."
+        },
+        {
+          "title": "¿Que informacion conviene preparar?",
+          "content": "Oferta principal, cliente ideal, objeciones comunes, referencias visuales y el tipo de mensaje que te conviene recibir."
+        }
+      ]
+    },
+    "final": {
+      "eyebrow": "Cotizar",
+      "title": "Pide una recomendacion para tu PyME.",
+      "lead": "Cuéntanos giro, ciudad y que oferta quieres mover para orientar la estructura y el alcance.",
+      "primaryLabel": "Quiero una landing para mi PyME",
+      "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20una%20landing%20page%20para%20mi%20PyME.%20Mi%20giro%20es%3A",
+      "secondaryLabel": "Ir a contacto"
+    }
+  }
+}

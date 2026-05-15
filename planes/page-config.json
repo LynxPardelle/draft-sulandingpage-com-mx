@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "pageId": "planes",
+  "domain": "sulandingpage.com.mx",
+  "rootIds": [
+    "skipToMainLink",
+    "siteHeader",
+    "planesPage",
+    "siteFooter"
+  ],
+  "modalRootIds": [],
+  "metadata": {
+    "status": "phase-1-local-draft",
+    "routePurpose": "landing-page-pricing-and-scope"
+  },
+  "seo": {
+    "title": {
+      "es": "Planes y alcances de landing pages | Sulandingpage"
+    },
+    "description": {
+      "es": "Compara Landing Base, Landing + Iteracion y Optimizacion continua para elegir el alcance correcto de tu landing page."
+    },
+    "openGraph": {
+      "title": {
+        "es": "Planes y alcances de landing pages | Sulandingpage"
+      },
+      "description": {
+        "es": "Compara Landing Base, Landing + Iteracion y Optimizacion continua para elegir el alcance correcto de tu landing page."
+      },
+      "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
+      "url": "https://sulandingpage.com.mx/planes",
+      "type": "website"
+    },
+    "twitter": {
+      "title": {
+        "es": "Planes y alcances de landing pages | Sulandingpage"
+      },
+      "description": {
+        "es": "Compara Landing Base, Landing + Iteracion y Optimizacion continua para elegir el alcance correcto de tu landing page."
+      },
+      "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
+      "card": "summary_large_image"
+    },
+    "canonical": "https://sulandingpage.com.mx/planes",
+    "keywords": {
+      "es": [
+        "precio landing page",
+        "planes de landing pages",
+        "landing page desde 900 mxn",
+        "alcance landing page"
+      ]
+    }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Planes y alcances de landing pages | Sulandingpage",
+        "description": "Compara Landing Base, Landing + Iteracion y Optimizacion continua para elegir el alcance correcto de tu landing page.",
+        "url": "https://sulandingpage.com.mx/planes",
+        "inLanguage": "es"
+      }
+    ]
+  },
+  "analytics": {
+    "sectionIds": [
+      "home",
+      "evidencia",
+      "como-elegir",
+      "comparar-planes",
+      "zoolandingpage",
+      "contacto"
+    ],
+    "scrollMilestones": [
+      25,
+      50,
+      75,
+      100
+    ]
+  }
+}

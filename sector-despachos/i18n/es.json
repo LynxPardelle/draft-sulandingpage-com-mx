@@ -1,0 +1,175 @@
+{
+  "version": 1,
+  "domain": "sulandingpage.com.mx",
+  "pageId": "sector-despachos",
+  "lang": "es",
+  "dictionary": {
+    "hero": {
+      "eyebrow": "Sector despachos",
+      "title": "Landing pages para despachos que ordenan experiencia, areas y primer contacto.",
+      "lead": "Pensadas para despachos legales, contables o de servicios profesionales que necesitan una pagina clara para campañas, referencias o busqueda organica.",
+      "primaryLabel": "Quiero una landing para mi despacho",
+      "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20una%20landing%20page%20para%20mi%20despacho.%20El%20servicio%20principal%20es%3A",
+      "secondaryLabel": "Ver planes",
+      "panel": {
+        "kicker": "Servicios profesionales",
+        "title": "La persona busca claridad, seriedad y una siguiente accion entendible.",
+        "lead": "La landing debe mostrar enfoque, areas de trabajo y proceso de contacto sin llenarse de jerga ni promesas imposibles.",
+        "items": [
+          {
+            "title": "Que debe quedar claro",
+            "content": "Area de practica, tipo de cliente, cobertura y como iniciar una consulta."
+          },
+          {
+            "title": "Que conviene mostrar",
+            "content": "Experiencia, equipo, enfoque y dudas basicas antes de escribir."
+          },
+          {
+            "title": "Como medimos",
+            "content": "Clics por servicio, lectura de objeciones y rutas con mas interes."
+          }
+        ]
+      }
+    },
+    "stats": [
+      {
+        "value": "Trust",
+        "label": "Respaldo visible",
+        "detail": "Experiencia y proceso mostrados con un tono profesional y util."
+      },
+      {
+        "value": "CTA",
+        "label": "Contacto guiado",
+        "detail": "El mensaje inicial ayuda a calificar interes sin alargar el paso inicial."
+      },
+      {
+        "value": "Sector",
+        "label": "Ruta especifica",
+        "detail": "La pagina evita hablarle igual a todos los servicios del despacho."
+      }
+    ],
+    "sections": [
+      {
+        "eyebrow": "Necesidades",
+        "title": "El visitante necesita ubicar rapido si el despacho atiende justo su tipo de asunto o servicio.",
+        "lead": "Una landing por sector o por servicio mejora claridad y ayuda a reducir mensajes poco calificados.",
+        "cards": [
+          {
+            "icon": "gavel",
+            "title": "Areas o servicios",
+            "description": "La pagina puede separar con claridad en que casos interviene el despacho y con que tipo de cliente trabaja.",
+            "benefits": [
+              "Servicios principales",
+              "Tipo de cliente",
+              "Cobertura clara"
+            ],
+            "href": "",
+            "linkLabel": ""
+          },
+          {
+            "icon": "badge",
+            "title": "Respaldo profesional",
+            "description": "Equipo, trayectoria, enfoque o proceso aportan confianza cuando estan bien ordenados y sin ruido excesivo.",
+            "benefits": [
+              "Trayectoria",
+              "Perfil del equipo",
+              "Proceso basico"
+            ],
+            "href": "",
+            "linkLabel": ""
+          },
+          {
+            "icon": "forum",
+            "title": "Primer contacto con contexto",
+            "description": "La CTA puede sugerir el tipo de asunto o servicio para orientar mejor la respuesta inicial.",
+            "benefits": [
+              "WhatsApp guiado",
+              "Menos ambiguedad",
+              "Mejor filtrado"
+            ],
+            "href": "",
+            "linkLabel": ""
+          }
+        ]
+      },
+      {
+        "eyebrow": "Contenido recomendado",
+        "title": "Una landing profesional necesita menos relleno y mas criterio comercial.",
+        "lead": "La combinacion de servicio, prueba, FAQ y CTA suele resolver mejor el clic que una pagina cargada de bloques genericos.",
+        "cards": [
+          {
+            "icon": "description",
+            "title": "Servicio y alcance",
+            "description": "Explica en que situaciones puedes ayudar y cuales son los pasos iniciales sin entrar en tecnicismos innecesarios.",
+            "benefits": [
+              "Alcance real",
+              "Lenguaje claro",
+              "Expectativa util"
+            ],
+            "href": "",
+            "linkLabel": ""
+          },
+          {
+            "icon": "help_outline",
+            "title": "Objeciones y FAQ",
+            "description": "Resolver dudas frecuentes evita que la persona abandone por no saber si vale la pena escribir.",
+            "benefits": [
+              "Dudas comunes",
+              "Proceso de contacto",
+              "Tono profesional"
+            ],
+            "href": "",
+            "linkLabel": ""
+          },
+          {
+            "icon": "insights",
+            "title": "Lectura de interes",
+            "description": "Medir clics y secciones ayuda a entender que servicio o argumento esta sosteniendo mejor la atencion.",
+            "benefits": [
+              "CTA mas consultada",
+              "Secciones fuertes",
+              "Rutas a iterar"
+            ],
+            "href": "",
+            "linkLabel": ""
+          }
+        ]
+      }
+    ],
+    "faq": {
+      "eyebrow": "Preguntas del sector",
+      "title": "Dudas frecuentes para despachos",
+      "lead": "Respuestas cortas para ordenar el primer contacto comercial.",
+      "items": [
+        {
+          "title": "¿Una landing funciona para un despacho pequeño o especializado?",
+          "content": "Si. De hecho suele servir mejor cuando el servicio o tipo de cliente es especifico y conviene hablar con mas precision."
+        },
+        {
+          "title": "¿Se pueden mostrar varias areas de servicio?",
+          "content": "Si, pero conviene priorizar una sola oferta o una sola intencion por ruta para evitar dispersion."
+        },
+        {
+          "title": "¿Conviene usar WhatsApp?",
+          "content": "Si, si el despacho quiere un primer filtro agil y una conversacion directa con contexto inicial."
+        },
+        {
+          "title": "¿Que prueba o respaldo ayuda mas?",
+          "content": "Trayectoria, enfoque, tipo de casos atendidos a nivel general y un proceso de contacto claro suelen ser suficientes para una primera version."
+        },
+        {
+          "title": "¿Pueden ayudar a revisar una landing existente?",
+          "content": "Si. Cuando ya hay trafico o una pagina previa, se puede orientar un diagnostico para mejorar claridad y conversion."
+        }
+      ]
+    },
+    "final": {
+      "eyebrow": "Despachos",
+      "title": "Pide una landing que le hable mejor a tu servicio profesional.",
+      "lead": "Comparte area principal, ciudad y tipo de cliente para orientar la ruta correcta.",
+      "primaryLabel": "Quiero una landing para mi despacho",
+      "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20una%20landing%20page%20para%20mi%20despacho.%20El%20servicio%20principal%20es%3A",
+      "secondaryLabel": "Ir a contacto"
+    }
+  }
+}

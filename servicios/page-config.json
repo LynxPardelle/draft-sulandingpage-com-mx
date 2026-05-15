@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "pageId": "servicios",
+  "domain": "sulandingpage.com.mx",
+  "rootIds": [
+    "skipToMainLink",
+    "siteHeader",
+    "serviciosPage",
+    "siteFooter"
+  ],
+  "modalRootIds": [],
+  "metadata": {
+    "status": "phase-1-local-draft",
+    "routePurpose": "landing-page-service-intent"
+  },
+  "seo": {
+    "title": {
+      "es": "Servicio de landing pages orientadas a conversion | Sulandingpage"
+    },
+    "description": {
+      "es": "Estrategia, copy, diseño, SEO y medicion para lanzar landing pages claras, moviles y listas para Google Ads o trafico organico."
+    },
+    "openGraph": {
+      "title": {
+        "es": "Servicio de landing pages orientadas a conversion | Sulandingpage"
+      },
+      "description": {
+        "es": "Estrategia, copy, diseño, SEO y medicion para lanzar landing pages claras, moviles y listas para Google Ads o trafico organico."
+      },
+      "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
+      "url": "https://sulandingpage.com.mx/servicios",
+      "type": "website"
+    },
+    "twitter": {
+      "title": {
+        "es": "Servicio de landing pages orientadas a conversion | Sulandingpage"
+      },
+      "description": {
+        "es": "Estrategia, copy, diseño, SEO y medicion para lanzar landing pages claras, moviles y listas para Google Ads o trafico organico."
+      },
+      "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
+      "card": "summary_large_image"
+    },
+    "canonical": "https://sulandingpage.com.mx/servicios",
+    "keywords": {
+      "es": [
+        "servicio de landing pages",
+        "diseno de landing pages",
+        "copy para landing page",
+        "landing page mexico"
+      ]
+    }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Servicio de landing pages orientadas a conversion | Sulandingpage",
+        "description": "Estrategia, copy, diseño, SEO y medicion para lanzar landing pages claras, moviles y listas para Google Ads o trafico organico.",
+        "url": "https://sulandingpage.com.mx/servicios",
+        "inLanguage": "es"
+      }
+    ]
+  },
+  "analytics": {
+    "sectionIds": [
+      "home",
+      "evidencia",
+      "incluye",
+      "proceso",
+      "contacto"
+    ],
+    "scrollMilestones": [
+      25,
+      50,
+      75,
+      100
+    ]
+  }
+}

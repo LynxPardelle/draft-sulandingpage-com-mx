@@ -1,0 +1,249 @@
+{
+  "version": 1,
+  "domain": "sulandingpage.com.mx",
+  "aliases": [
+    "sulandingpage.com",
+    "sulanding.zoolandingpage.com.mx"
+  ],
+  "defaultPageId": "default",
+  "routes": [
+    {
+      "path": "/",
+      "pageId": "default",
+      "label": "Inicio"
+    },
+    {
+      "path": "/servicios",
+      "pageId": "servicios",
+      "label": "Servicios"
+    },
+    {
+      "path": "/planes",
+      "pageId": "planes",
+      "label": "Planes"
+    },
+    {
+      "path": "/landing-pages-para-pymes",
+      "pageId": "sitios-web-para-pymes",
+      "label": "Landing pages para PyMEs"
+    },
+    {
+      "path": "/landing-pages-para-google-ads",
+      "pageId": "landing-pages-para-google-ads",
+      "label": "Landing pages para Google Ads"
+    },
+    {
+      "path": "/optimizacion-y-analitica",
+      "pageId": "optimizacion-y-analitica",
+      "label": "Optimizacion y analitica"
+    },
+    {
+      "path": "/nosotros",
+      "pageId": "nosotros",
+      "label": "Nosotros"
+    },
+    {
+      "path": "/preguntas-frecuentes",
+      "pageId": "preguntas-frecuentes",
+      "label": "Preguntas frecuentes"
+    },
+    {
+      "path": "/contacto",
+      "pageId": "contacto",
+      "label": "Contacto"
+    },
+    {
+      "path": "/sectores/consultorios",
+      "pageId": "sector-consultorios",
+      "label": "Consultorios"
+    },
+    {
+      "path": "/sectores/despachos",
+      "pageId": "sector-despachos",
+      "label": "Despachos"
+    },
+    {
+      "path": "/sectores/inmobiliarias",
+      "pageId": "sector-inmobiliarias",
+      "label": "Inmobiliarias"
+    }
+  ],
+  "site": {
+    "theme": {
+      "defaultMode": "light",
+      "palettes": {
+        "light": {
+          "bgColor": "#f0ede7",
+          "textColor": "#2e2d2d",
+          "titleColor": "#292929",
+          "linkColor": "#1463ff",
+          "accentColor": "#c1a42f",
+          "secondaryBgColor": "#e5d2bf",
+          "secondaryTextColor": "#19363F",
+          "secondaryTitleColor": "#163038",
+          "secondaryLinkColor": "#C33361",
+          "secondaryAccentColor": "#199F96",
+          "successColor": "#128c7e",
+          "onSuccessColor": "#ffffff",
+          "errorColor": "#dc3545",
+          "onErrorColor": "#3b0a10",
+          "warningColor": "#f59e0b",
+          "onWarningColor": "#3a2400",
+          "infoColor": "#1463ff",
+          "onInfoColor": "#041b44"
+        },
+        "dark": {
+          "bgColor": "#1a1a1a",
+          "textColor": "#ffffff",
+          "titleColor": "#d8dadb",
+          "linkColor": "#74a8ff",
+          "accentColor": "#d4b04b",
+          "secondaryBgColor": "#2d2d2d",
+          "secondaryTextColor": "#d9dcdf",
+          "secondaryTitleColor": "#f7fbff",
+          "secondaryLinkColor": "#8fb8ff",
+          "secondaryAccentColor": "#30a464",
+          "successColor": "#25d366",
+          "onSuccessColor": "#ffffff",
+          "errorColor": "#ff7b89",
+          "onErrorColor": "#31070c",
+          "warningColor": "#f7c948",
+          "onWarningColor": "#2a1f00",
+          "infoColor": "#8fb8ff",
+          "onInfoColor": "#071b33"
+        }
+      }
+    },
+    "appIdentity": {
+      "identifier": "sulandingpagecommx",
+      "name": "Sulandingpage",
+      "version": "1.0.0",
+      "description": "Landing pages for Google Ads, conversion, and measurable growth."
+    },
+    "seo": {
+      "siteName": "Sulandingpage",
+      "title": "Sulandingpage | Landing pages claras para Google Ads",
+      "description": "Landing pages rapidas, claras y medibles para negocios que quieren convertir trafico en conversaciones y leads.",
+      "canonicalOrigin": "https://sulandingpage.com.mx",
+      "defaultImage": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
+      "openGraph": {
+        "type": "website",
+        "site_name": "Sulandingpage"
+      },
+      "twitter": {
+        "card": "summary_large_image"
+      },
+      "keywords": {
+        "es": [
+          "landing page",
+          "landing pages mexico",
+          "landing pages para google ads",
+          "landing page para pymes",
+          "landing page para servicios",
+          "conversion con whatsapp",
+          "sulandingpage"
+        ]
+      },
+      "robots": "index,follow,max-image-preview:large"
+    },
+    "i18n": {
+      "defaultLanguage": "es",
+      "supportedLanguages": [
+        {
+          "code": "es",
+          "label": "ES"
+        }
+      ]
+    }
+  },
+  "defaults": {
+    "brand": {
+      "displayName": "Sulandingpage"
+    },
+    "ui": {
+      "contact": {
+        "whatsappPhone": "+525522699563",
+        "whatsappMessageKey": "ui.contact.headerLabel"
+      },
+      "loadingCurtain": {
+        "title": "Sulandingpage",
+        "subtitle": "sulandingpage.com.mx",
+        "background": "#f0ede7",
+        "foreground": "#2e2d2d",
+        "accent": "#c1a42f",
+        "exitDurationMs": 360
+      }
+    }
+  },
+  "runtime": {
+    "localStorage": {
+      "theme": "sulanding-theme",
+      "language": "sulanding-language",
+      "userPreferences": "sulanding-preferences",
+      "id": "sulanding-id",
+      "sessionId": "sulanding-session-id",
+      "allowAnalytics": "sulanding-allow-analytics",
+      "analyticsConsentSnooze": "sulanding-allow-analytics-snooze",
+      "pageViewCount": "sulanding-page-view-count"
+    },
+    "features": {
+      "debugMode": false
+    },
+    "navigation": {
+      "scrollRestoration": {
+        "mode": "top",
+        "behavior": "auto"
+      }
+    },
+    "analytics": {
+      "enabled": true,
+      "consentUI": "none",
+      "consentSnoozeSeconds": 30,
+      "track": [
+        "language",
+        "platform",
+        "screenWidth",
+        "screenHeight",
+        "timezone"
+      ],
+      "events": {
+        "page_view": "page_view",
+        "nav_click": "nav_click",
+        "cta_click": "cta_click",
+        "whatsapp_click": "whatsapp_click",
+        "faq_open": "faq_open",
+        "section_view": "section_view",
+        "scroll_depth": "scroll_depth",
+        "theme_toggle": "theme_toggle",
+        "language_toggle": "language_toggle"
+      },
+      "categories": {
+        "navigation": "navigation",
+        "cta": "cta",
+        "faq": "faq",
+        "engagement": "engagement",
+        "theme": "theme",
+        "i18n": "i18n"
+      },
+      "quickStats": {
+        "pageView": {
+          "event": "page_view",
+          "path": "metrics.pageViews",
+          "by": 1
+        },
+        "events": [
+          {
+            "name": "whatsapp_click",
+            "path": "metrics.whatsappClicks",
+            "by": 1
+          },
+          {
+            "name": "cta_click",
+            "path": "metrics.ctaClicks",
+            "by": 1
+          }
+        ]
+      }
+    }
+  }
+}

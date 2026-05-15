@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "pageId": "landing-pages-para-google-ads",
+  "domain": "sulandingpage.com.mx",
+  "rootIds": [
+    "skipToMainLink",
+    "siteHeader",
+    "sitios-web-para-pymesPage",
+    "siteFooter"
+  ],
+  "modalRootIds": [],
+  "metadata": {
+    "status": "phase-1-local-draft",
+    "routePurpose": "landing-pages-for-google-ads"
+  },
+  "seo": {
+    "title": {
+      "es": "Landing pages para Google Ads | Sulandingpage"
+    },
+    "description": {
+      "es": "Landing pages alineadas con keyword, anuncio y CTA para mejorar la experiencia de destino y leer clics con contexto comercial."
+    },
+    "openGraph": {
+      "title": {
+        "es": "Landing pages para Google Ads | Sulandingpage"
+      },
+      "description": {
+        "es": "Landing pages alineadas con keyword, anuncio y CTA para mejorar la experiencia de destino y leer clics con contexto comercial."
+      },
+      "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
+      "url": "https://sulandingpage.com.mx/landing-pages-para-google-ads",
+      "type": "website"
+    },
+    "twitter": {
+      "title": {
+        "es": "Landing pages para Google Ads | Sulandingpage"
+      },
+      "description": {
+        "es": "Landing pages alineadas con keyword, anuncio y CTA para mejorar la experiencia de destino y leer clics con contexto comercial."
+      },
+      "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
+      "card": "summary_large_image"
+    },
+    "canonical": "https://sulandingpage.com.mx/landing-pages-para-google-ads",
+    "keywords": {
+      "es": [
+        "landing page para google ads",
+        "landing page para campañas",
+        "experiencia de destino google ads",
+        "landing ads mexico"
+      ]
+    }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Landing pages para Google Ads | Sulandingpage",
+        "description": "Landing pages alineadas con keyword, anuncio y CTA para mejorar la experiencia de destino y leer clics con contexto comercial.",
+        "url": "https://sulandingpage.com.mx/landing-pages-para-google-ads",
+        "inLanguage": "es"
+      }
+    ]
+  },
+  "analytics": {
+    "sectionIds": [
+      "home",
+      "evidencia",
+      "problemas",
+      "solucion",
+      "contacto"
+    ],
+    "scrollMilestones": [
+      25,
+      50,
+      75,
+      100
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "version": 1,
+  "domain": "sulandingpage.com.mx",
+  "pageId": "sector-consultorios",
+  "lang": "es",
+  "dictionary": {
+    "hero": {
+      "eyebrow": "Sector consultorios",
+      "title": "Landing pages para consultorios que aclaran la atencion y facilitan el primer contacto.",
+      "lead": "Pensada para consultorios medicos, dentales, terapeuticos o de bienestar que necesitan explicar especialidades, ubicacion, modalidad y siguiente paso sin saturar la pagina.",
+      "primaryLabel": "Quiero una landing para mi consultorio",
+      "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20una%20landing%20page%20para%20mi%20consultorio.%20La%20especialidad%20o%20servicio%20principal%20es%3A",
+      "secondaryLabel": "Ver planes",
+      "panel": {
+        "kicker": "Busqueda con contexto sensible",
+        "title": "La persona que llega quiere entender rapido a quien atiendes y como iniciar.",
+        "lead": "La landing puede ordenar informacion clave del servicio sin prometer resultados medicos ni exagerar credenciales.",
+        "items": [
+          {
+            "title": "Que debe quedar claro",
+            "content": "Especialidad, modalidad, ubicacion, horarios y como dar el siguiente paso."
+          },
+          {
+            "title": "Que conviene mostrar",
+            "content": "Perfil profesional, proceso de atencion y dudas comunes antes del contacto."
+          },
+          {
+            "title": "Como medimos",
+            "content": "Clics a CTA, lectura de secciones y rutas con mayor interes por servicio."
+          }
+        ]
+      }
+    },
+    "stats": [
+      {
+        "value": "Salud",
+        "label": "Mensaje prudente",
+        "detail": "La pagina comunica con claridad sin caer en promesas clinicas o resultados garantizados."
+      },
+      {
+        "value": "CTA",
+        "label": "Primer contacto",
+        "detail": "WhatsApp o contacto directo para orientar la conversacion inicial."
+      },
+      {
+        "value": "Sector",
+        "label": "Contexto especifico",
+        "detail": "El contenido responde a dudas previas de quien busca atencion o evaluacion."
+      }
+    ],
+    "sections": [
+      {
+        "eyebrow": "Necesidades",
+        "title": "La persona necesita saber si el consultorio atiende justo su caso y como empezar.",
+        "lead": "Una landing por sector ayuda a reducir dudas basicas antes del mensaje o llamada.",
+        "cards": [
+          {
+            "icon": "medical_services",
+            "title": "Especialidades o servicios",
+            "description": "La oferta principal debe verse clara desde arriba para que el clic confirme relevancia rapido.",
+            "benefits": [
+              "Atencion principal",
+              "Perfil de paciente",
+              "Modalidad de servicio"
+            ],
+            "href": "",
+            "linkLabel": ""
+          },
+          {
+            "icon": "place",
+            "title": "Ubicacion y modalidad",
+            "description": "Ciudad, zona, consulta presencial o remota y cualquier dato util para decidir si vale la pena escribir.",
+            "benefits": [
+              "Cobertura",
+              "Disponibilidad",
+              "Expectativa clara"
+            ],
+            "href": "",
+            "linkLabel": ""
+          },
+          {
+            "icon": "verified_user",
+            "title": "Respaldo responsable",
+            "description": "Trayectoria, proceso y respuestas a dudas frecuentes fortalecen confianza sin afirmar resultados medicos.",
+            "benefits": [
+              "Perfil profesional",
+              "Proceso basico",
+              "FAQ utiles"
+            ],
+            "href": "",
+            "linkLabel": ""
+          }
+        ]
+      },
+      {
+        "eyebrow": "Contenido recomendado",
+        "title": "Una estructura simple suele resolver la mayor parte del clic de alta intencion.",
+        "lead": "La ruta debe guiar desde la necesidad hasta el contacto con pocas distracciones y lenguaje entendible.",
+        "cards": [
+          {
+            "icon": "assignment",
+            "title": "Servicios y enfoque",
+            "description": "Ayuda a que el visitante entienda rapido si el consultorio atiende el tipo de necesidad que trae.",
+            "benefits": [
+              "Servicios principales",
+              "Casos frecuentes",
+              "Alcance informado"
+            ],
+            "href": "",
+            "linkLabel": ""
+          },
+          {
+            "icon": "help_outline",
+            "title": "Preguntas previas",
+            "description": "La landing puede responder dudas sobre modalidad, cita, ubicacion o preparacion inicial antes del primer mensaje.",
+            "benefits": [
+              "Proceso inicial",
+              "Dudas comunes",
+              "Menos friccion"
+            ],
+            "href": "",
+            "linkLabel": ""
+          },
+          {
+            "icon": "forum",
+            "title": "CTA orientada",
+            "description": "El mensaje inicial de WhatsApp puede dejar claro que servicio le interesa a la persona para responder con mejor contexto.",
+            "benefits": [
+              "Mensaje guiado",
+              "Mejor contexto",
+              "Seguimiento mas util"
+            ],
+            "href": "",
+            "linkLabel": ""
+          }
+        ]
+      }
+    ],
+    "faq": {
+      "eyebrow": "Preguntas del sector",
+      "title": "Lo que suele preguntarse antes del contacto",
+      "lead": "Respuestas que ayudan a ordenar el primer intercambio.",
+      "items": [
+        {
+          "title": "¿Una landing sirve para un consultorio pequeño?",
+          "content": "Si. Puede ser una pieza clara para explicar especialidad, ubicacion, modalidad y contacto sin construir un sitio grande desde el inicio."
+        },
+        {
+          "title": "¿Se pueden mostrar especialidades o servicios?",
+          "content": "Si, siempre que la informacion sea prudente, verificable y no dependa de promesas de resultado o curacion."
+        },
+        {
+          "title": "¿Conviene usar WhatsApp como CTA?",
+          "content": "Si. Hoy es el canal mas directo para iniciar una conversacion breve y orientar disponibilidad o siguiente paso."
+        },
+        {
+          "title": "¿Que informacion conviene preparar?",
+          "content": "Especialidad, ubicacion, modalidad, perfil profesional, horarios o disponibilidad general, y dudas frecuentes del paciente."
+        },
+        {
+          "title": "¿Pueden revisar una landing de consultorio ya existente?",
+          "content": "Si. Cuando ya hay pagina o trafico, se puede orientar una revision para mejorar claridad, CTA y lectura de interes."
+        }
+      ]
+    },
+    "final": {
+      "eyebrow": "Consultorios",
+      "title": "Pide una landing pensada para tu servicio de atencion.",
+      "lead": "El mensaje inicial ya puede incluir especialidad, ciudad y modalidad para orientar la propuesta.",
+      "primaryLabel": "Quiero una landing para mi consultorio",
+      "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20una%20landing%20page%20para%20mi%20consultorio.%20La%20especialidad%20o%20servicio%20principal%20es%3A",
+      "secondaryLabel": "Ir a contacto"
+    }
+  }
+}

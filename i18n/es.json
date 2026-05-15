@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "domain": "sulandingpage.com.mx",
+  "pageId": "allPages",
+  "lang": "es",
+  "dictionary": {
+    "nav": {
+      "home": "Inicio",
+      "services": "Servicios",
+      "plans": "Planes",
+      "pymes": "PyMEs",
+      "googleAds": "Google Ads",
+      "analytics": "Analitica",
+      "contact": "Contacto"
+    },
+    "ui": {
+      "controls": {
+        "themeToggle": "Tema",
+        "languageToggle": "Idioma"
+      },
+      "accessibility": {
+        "skipToContent": "Saltar al contenido principal",
+        "primaryNavigation": "Navegacion principal",
+        "mobileMenuAriaLabel": "Menu de navegacion",
+        "openMenu": "Abrir menu",
+        "dialog": "Dialogo"
+      },
+      "common": {
+        "verified": "Verificado"
+      },
+      "contact": {
+        "headerLabel": "Quiero mi landing",
+        "headerUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20una%20landing%20page%20para%20mi%20negocio.%20Mi%20oferta%20principal%20es%3A",
+        "footerLabel": "Hablar por WhatsApp",
+        "footerUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20hablar%20sobre%20una%20landing%20page%20para%20mi%20negocio."
+      }
+    },
+    "footer": {
+      "title": "Sulandingpage",
+      "summary": "Sulandingpage forma parte de Zoolandingpage: una linea enfocada en landing pages orientadas a conversion, Google Ads y lectura comercial.",
+      "linksTitle": "Rutas principales",
+      "sectorsTitle": "Sectores con alta intencion",
+      "legal": "No prometemos rankings ni automatizaciones que la plataforma todavia no soporta; trabajamos con mensajes comerciales claros, publicos y verificables.",
+      "copyright": "Sulandingpage / Zoolandingpage",
+      "faqLabel": "Preguntas frecuentes"
+    },
+    "sectorLabels": {
+      "clinics": "Consultorios",
+      "law": "Despachos",
+      "realEstate": "Inmobiliarias"
+    }
+  }
+}
