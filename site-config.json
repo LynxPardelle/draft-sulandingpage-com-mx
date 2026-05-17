@@ -245,5 +245,15 @@
         ]
       }
     }
+  },
+  "environments": {
+    "test": {
+      "aliases": [
+        "test.sulanding.zoolandingpage.com.mx",
+        "test.sulandingpage.com",
+        "test.sulandingpage.com.mx",
+        "test.sulandingpage.zoolandingpage.com.mx"
+      ]
+    }
   }
 }
