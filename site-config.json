@@ -66,6 +66,11 @@
       "path": "/sectores/inmobiliarias",
       "pageId": "sector-inmobiliarias",
       "label": "Inmobiliarias"
+    },
+    {
+      "path": "/404",
+      "pageId": "not-found",
+      "label": "Página no encontrada"
     }
   ],
   "site": {
@@ -255,5 +260,11 @@
         "test.sulandingpage.zoolandingpage.com.mx"
       ]
     }
+  },
+  "notFoundPageId": "not-found",
+  "sitemap": {
+    "excludePaths": [
+      "/404"
+    ]
   }
 }
