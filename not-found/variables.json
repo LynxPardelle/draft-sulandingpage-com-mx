@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "domain": "sulandingpage.com.mx",
+  "pageId": "not-found",
+  "variables": {
+    "navigation": [],
+    "brand": {
+      "displayName": "Sulandingpage"
+    },
+    "ui": {
+      "contact": {
+        "whatsappPhone": "+525522699563",
+        "whatsappMessageKey": "ui.contact.headerLabel"
+      }
+    },
+    "i18n": {
+      "defaultLanguage": "es",
+      "supportedLanguages": [
+        {
+          "code": "es",
+          "label": "ES"
+        },
+        {
+          "code": "en",
+          "label": "EN"
+        }
+      ]
+    }
+  }
+}
