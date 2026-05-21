@@ -62,7 +62,7 @@
           "Architecture, integration, and digital product.",
           "Focus on measurable and maintainable systems."
         ],
-        "imageSrc": "/drafts/zoositioweb.com.mx/CVs_N_photos/alec.jpg",
+        "imageSrc": "https://assets.zoolandingpage.com.mx/zoositioweb.com.mx/shared/team-photos/alec-montano.jpg",
         "imageAlt": "Photo of Alec Montaño"
       },
       {
@@ -73,19 +73,19 @@
           "Backend and full-stack development.",
           "Technology judgment for operation and scalability."
         ],
-        "imageSrc": "/drafts/zoositioweb.com.mx/CVs_N_photos/hector.jpg",
+        "imageSrc": "https://assets.zoolandingpage.com.mx/zoositioweb.com.mx/shared/team-photos/hector-coronado.jpg",
         "imageAlt": "Photo of Héctor Coronado"
       },
       {
         "name": "Oswaldo",
-        "role": "Web development and digital marketing",
+        "role": "Web development and Google Ads",
         "proof": [
           "Web development.",
-          "Google Ads and marketing with Pamela.",
-          "Final photo pending."
+          "Google Ads and campaign follow-up.",
+          "Support for conversion and results review."
         ],
-        "imageSrc": "/drafts/zoositioweb.com.mx/CVs_N_photos/oswaldo-placeholder.svg",
-        "imageAlt": "Oswaldo placeholder"
+        "imageSrc": "https://assets.zoolandingpage.com.mx/zoositioweb.com.mx/shared/team-photos/oswaldo-garcia.jpeg",
+        "imageAlt": "Photo of Oswaldo García"
       },
       {
         "name": "Pamela Betancourt",
@@ -95,7 +95,7 @@
           "Marketing and market data analysis.",
           "Focus on clarity for the end customer."
         ],
-        "imageSrc": "/drafts/zoositioweb.com.mx/CVs_N_photos/pamelaBetancourt.webp",
+        "imageSrc": "https://assets.zoolandingpage.com.mx/zoositioweb.com.mx/shared/team-photos/pamela-betancourt.webp",
         "imageAlt": "Photo of Pamela Betancourt"
       }
     ],
