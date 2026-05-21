@@ -2,8 +2,7 @@
   "version": 1,
   "domain": "sulandingpage.com.mx",
   "aliases": [
-    "sulandingpage.com",
-    "sulanding.zoolandingpage.com.mx"
+    "sulandingpage.com"
   ],
   "defaultPageId": "default",
   "routes": [
@@ -130,6 +129,8 @@
       "title": "Sulandingpage | Landing pages claras para Google Ads",
       "description": "Landing pages rapidas, claras y medibles para negocios que quieren convertir trafico en conversaciones y leads.",
       "canonicalOrigin": "https://sulandingpage.com.mx",
+      "enforceCanonicalHost": true,
+      "forceHttps": true,
       "defaultImage": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
       "openGraph": {
         "type": "website",
@@ -150,6 +151,139 @@
         ]
       },
       "robots": "index,follow,max-image-preview:large"
+    },
+    "hostOverrides": {
+      "sulandingpage.com": {
+        "seo": {
+          "canonicalOrigin": "https://sulandingpage.com.mx",
+          "enforceCanonicalHost": true,
+          "forceHttps": true
+        },
+        "googleTag": {
+          "enabled": true,
+          "environments": {
+            "local": false,
+            "test": true,
+            "production": true
+          },
+          "measurementIds": [
+            "G-QRWR768FCM"
+          ],
+          "sendPageView": false,
+          "attribution": {
+            "storage": "session",
+            "ttlDays": 90
+          },
+          "events": {
+            "page_view": "page_view",
+            "whatsapp_click": {
+              "name": "lead_conversion_whatsapp",
+              "params": {
+                "pyme_id": "sulandingpagecommx"
+              }
+            },
+            "cta_click": "cta_click",
+            "nav_click": "nav_click",
+            "scroll_depth": "scroll_depth"
+          }
+        }
+      },
+      "test.sulanding.zoolandingpage.com.mx": {
+        "seo": {
+          "canonicalOrigin": "https://sulandingpage.com.mx",
+          "enforceCanonicalHost": false,
+          "forceHttps": true
+        },
+        "googleTag": {
+          "enabled": false,
+          "environments": {
+            "local": false,
+            "test": false,
+            "production": false
+          },
+          "sendPageView": false,
+          "attribution": {
+            "storage": "session",
+            "ttlDays": 90
+          },
+          "events": {
+            "page_view": "page_view",
+            "whatsapp_click": {
+              "name": "lead_conversion_whatsapp",
+              "params": {
+                "pyme_id": "sulandingpagecommx"
+              }
+            },
+            "cta_click": "cta_click",
+            "nav_click": "nav_click",
+            "scroll_depth": "scroll_depth"
+          }
+        }
+      },
+      "test.sulandingpage.com": {
+        "seo": {
+          "canonicalOrigin": "https://sulandingpage.com.mx",
+          "enforceCanonicalHost": false,
+          "forceHttps": true
+        },
+        "googleTag": {
+          "enabled": false,
+          "environments": {
+            "local": false,
+            "test": false,
+            "production": false
+          },
+          "sendPageView": false,
+          "attribution": {
+            "storage": "session",
+            "ttlDays": 90
+          },
+          "events": {
+            "page_view": "page_view",
+            "whatsapp_click": {
+              "name": "lead_conversion_whatsapp",
+              "params": {
+                "pyme_id": "sulandingpagecommx"
+              }
+            },
+            "cta_click": "cta_click",
+            "nav_click": "nav_click",
+            "scroll_depth": "scroll_depth"
+          }
+        }
+      },
+      "test.sulandingpage.com.mx": {
+        "seo": {
+          "canonicalOrigin": "https://sulandingpage.com.mx",
+          "enforceCanonicalHost": false,
+          "forceHttps": true
+        },
+        "googleTag": {
+          "enabled": false,
+          "environments": {
+            "local": false,
+            "test": false,
+            "production": false
+          },
+          "sendPageView": false,
+          "attribution": {
+            "storage": "session",
+            "ttlDays": 90
+          },
+          "events": {
+            "page_view": "page_view",
+            "whatsapp_click": {
+              "name": "lead_conversion_whatsapp",
+              "params": {
+                "pyme_id": "sulandingpagecommx"
+              }
+            },
+            "cta_click": "cta_click",
+            "nav_click": "nav_click",
+            "scroll_depth": "scroll_depth"
+          }
+        }
+      }
     },
     "i18n": {
       "defaultLanguage": "es",
@@ -189,6 +323,7 @@
       "sessionId": "sulanding-session-id",
       "allowAnalytics": "sulanding-allow-analytics",
       "analyticsConsentSnooze": "sulanding-allow-analytics-snooze",
+      "adAttribution": "sulanding-ad-attribution",
       "pageViewCount": "sulanding-page-view-count"
     },
     "features": {
@@ -248,6 +383,34 @@
             "by": 1
           }
         ]
+      },
+      "googleTag": {
+        "enabled": true,
+        "environments": {
+          "local": false,
+          "test": true,
+          "production": true
+        },
+        "measurementIds": [
+          "G-QRWR768FCM"
+        ],
+        "sendPageView": false,
+        "attribution": {
+          "storage": "session",
+          "ttlDays": 90
+        },
+        "events": {
+          "page_view": "page_view",
+          "whatsapp_click": {
+            "name": "lead_conversion_whatsapp",
+            "params": {
+              "pyme_id": "sulandingpagecommx"
+            }
+          },
+          "cta_click": "cta_click",
+          "nav_click": "nav_click",
+          "scroll_depth": "scroll_depth"
+        }
       }
     }
   },
@@ -256,8 +419,7 @@
       "aliases": [
         "test.sulanding.zoolandingpage.com.mx",
         "test.sulandingpage.com",
-        "test.sulandingpage.com.mx",
-        "test.sulandingpage.zoolandingpage.com.mx"
+        "test.sulandingpage.com.mx"
       ]
     }
   },
