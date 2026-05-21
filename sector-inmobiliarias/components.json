@@ -153,7 +153,13 @@
         "target": "_blank",
         "rel": "noopener noreferrer",
         "styles": {
-          "whiteSpace": "nowrap"
+          "whiteSpace": "normal",
+          "maxWidth": "100%",
+          "minWidth": "0",
+          "boxSizing": "border-box",
+          "overflowWrap": "anywhere",
+          "textAlign": "center",
+          "flexShrink": "1"
         }
       }
     },
@@ -745,7 +751,13 @@
         "target": "_blank",
         "rel": "noopener noreferrer",
         "styles": {
-          "whiteSpace": "nowrap"
+          "whiteSpace": "normal",
+          "maxWidth": "100%",
+          "minWidth": "0",
+          "boxSizing": "border-box",
+          "overflowWrap": "anywhere",
+          "textAlign": "center",
+          "flexShrink": "1"
         }
       }
     },
