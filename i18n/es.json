@@ -29,19 +29,19 @@
         "verified": "Verificado"
       },
       "contact": {
-        "headerLabel": "Quiero mi landing",
-        "headerUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20una%20landing%20page%20para%20mi%20negocio.%20Mi%20oferta%20principal%20es%3A",
-        "footerLabel": "Hablar por WhatsApp",
-        "footerUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20hablar%20sobre%20una%20landing%20page%20para%20mi%20negocio."
+        "headerLabel": "Cotizar por WhatsApp",
+        "headerUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20cotizar%20una%20landing%20page.%20Mi%20oferta%20principal%20es%3A",
+        "footerLabel": "Cotizar landing por WhatsApp",
+        "footerUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20cotizar%20una%20landing%20page.%20Mi%20oferta%20principal%20es%3A"
       }
     },
     "footer": {
       "title": "Sulandingpage",
-      "summary": "Sulandingpage forma parte de Zoolandingpage: una linea enfocada en landing pages orientadas a conversion, Google Ads y lectura comercial.",
+      "summary": "Sulandingpage crea landing pages enfocadas en claridad comercial, continuidad con anuncios y mensajes de WhatsApp con contexto.",
       "linksTitle": "Rutas principales",
       "sectorsTitle": "Sectores con alta intencion",
-      "legal": "No prometemos rankings ni automatizaciones que la plataforma todavia no soporta; trabajamos con mensajes comerciales claros, publicos y verificables.",
-      "copyright": "Sulandingpage / Zoolandingpage",
+      "legal": "No prometemos rankings ni resultados automaticos; trabajamos con estructura, copy, medicion y experiencia de destino para mejorar la conversion.",
+      "copyright": "Sulandingpage",
       "faqLabel": "Preguntas frecuentes"
     },
     "sectorLabels": {

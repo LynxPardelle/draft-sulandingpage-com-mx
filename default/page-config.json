@@ -15,17 +15,17 @@
   },
   "seo": {
     "title": {
-      "es": "Landing pages para Google Ads y conversion | Sulandingpage"
+      "es": "Landing pages para conseguir clientes por WhatsApp | Sulandingpage"
     },
     "description": {
-      "es": "Landing pages rapidas, claras y medibles para negocios que quieren convertir trafico pagado y busquedas en conversaciones y leads."
+      "es": "Landing pages para negocios en Mexico que quieren convertir Google Ads, redes y busquedas en mensajes por WhatsApp con copy, diseno, metadata y medicion inicial."
     },
     "openGraph": {
       "title": {
-        "es": "Landing pages para Google Ads y conversion | Sulandingpage"
+        "es": "Landing pages para conseguir clientes por WhatsApp | Sulandingpage"
       },
       "description": {
-        "es": "Landing pages rapidas, claras y medibles para negocios que quieren convertir trafico pagado y busquedas en conversaciones y leads."
+        "es": "Landing pages para negocios en Mexico que quieren convertir Google Ads, redes y busquedas en mensajes por WhatsApp con copy, diseno, metadata y medicion inicial."
       },
       "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
       "url": "https://sulandingpage.com.mx/",
@@ -33,10 +33,10 @@
     },
     "twitter": {
       "title": {
-        "es": "Landing pages para Google Ads y conversion | Sulandingpage"
+        "es": "Landing pages para conseguir clientes por WhatsApp | Sulandingpage"
       },
       "description": {
-        "es": "Landing pages rapidas, claras y medibles para negocios que quieren convertir trafico pagado y busquedas en conversaciones y leads."
+        "es": "Landing pages para negocios en Mexico que quieren convertir Google Ads, redes y busquedas en mensajes por WhatsApp con copy, diseno, metadata y medicion inicial."
       },
       "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
       "card": "summary_large_image"
@@ -44,10 +44,13 @@
     "canonical": "https://sulandingpage.com.mx/",
     "keywords": {
       "es": [
-        "landing pages para google ads",
+        "landing page",
         "landing page mexico",
         "landing page con whatsapp",
-        "landing page para conversion",
+        "landing pages para google ads",
+        "landing page para pymes",
+        "conseguir clientes por whatsapp",
+        "diseno de landing page",
         "sulandingpage"
       ]
     }
@@ -57,20 +60,89 @@
       {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "Landing pages para Google Ads y conversion | Sulandingpage",
-        "description": "Landing pages rapidas, claras y medibles para negocios que quieren convertir trafico pagado y busquedas en conversaciones y leads.",
+        "name": "Landing pages para conseguir clientes por WhatsApp | Sulandingpage",
+        "description": "Landing pages para negocios en Mexico que quieren convertir Google Ads, redes y busquedas en mensajes por WhatsApp con copy, diseno, metadata y medicion inicial.",
         "url": "https://sulandingpage.com.mx/",
         "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "Landing pages para conversion por WhatsApp",
+        "serviceType": "Landing page design and conversion copy",
+        "provider": {
+          "@type": "Organization",
+          "name": "Sulandingpage",
+          "url": "https://sulandingpage.com.mx/"
+        },
+        "areaServed": {
+          "@type": "Country",
+          "name": "Mexico"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "900",
+          "priceCurrency": "MXN",
+          "availability": "https://schema.org/InStock",
+          "url": "https://sulandingpage.com.mx/planes"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Desde cuanto puedo empezar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La ruta base parte desde $900 MXN al mes. El alcance exacto depende de la oferta, contenido necesario y nivel de optimizacion."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Que incluye una landing base?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Una pagina enfocada en una oferta, copy organizado, CTA a WhatsApp, metadata base, estructura responsive y medicion inicial de clics."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Sirve para Google Ads?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Si. Funciona mejor cuando la keyword, el anuncio y el primer mensaje de la landing responden a la misma intencion comercial."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Necesito tener textos o imagenes?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No necesariamente. Podemos partir de tu oferta, servicios y preguntas frecuentes para ordenar el mensaje. Si tienes material, se aprovecha."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Prometen resultados garantizados?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No prometemos rankings ni ventas automaticas. Si mejoramos claridad, experiencia de destino y medicion para tomar mejores decisiones."
+            }
+          }
+        ]
       }
     ]
   },
   "analytics": {
     "sectionIds": [
       "home",
-      "evidencia",
-      "resultados",
-      "sectores",
-      "proximamente",
+      "diagnostico",
+      "solucion",
+      "metodo",
+      "rutas",
+      "faq",
       "contacto"
     ],
     "scrollMilestones": [

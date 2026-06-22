@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "domain": "zoositioweb.com.mx",
+  "domain": "sulandingpage.com.mx",
   "pageId": "allPages",
   "components": [
     {
@@ -20,11 +20,16 @@
       "type": "container",
       "config": {
         "tag": "header",
-        "classes": "ank-position-sticky ank-top-0 ank-zIndex-1200 ank-width-100per ank-display-flex ank-flexDirection-column ank-alignItems-center ank-paddingInline-16px ank-paddingBlock-12px ank-bg-bgColorOPA__0_96 ank-borderBottom-1px ank-borderColor-secondaryBgColor ank-backdropFilter-blurSD8pxED",
+        "classes": "ank-position-fixed ank-top-0 ank-zIndex-1200 ank-width-100per ank-display-flex ank-flexDirection-column ank-alignItems-center ank-paddingInline-16px ank-paddingBlock-12px ank-bg-bgColorOPA__0_96 ank-borderBottom-1px ank-borderColor-secondaryBgColor ank-backdropFilter-blurSD8pxED",
         "components": [
           "headerInner",
           "headerMobileMenuMount"
-        ]
+        ],
+        "styles": {
+          "left": "0",
+          "right": "0",
+          "boxShadow": "0 10px 30px rgba(6, 27, 58, 0.08)"
+        }
       }
     },
     {
@@ -84,7 +89,7 @@
       "config": {
         "href": "",
         "text": "",
-        "classes": "ank-color-textColor ank-textDecoration-none ank-fontWeight-700 ank-fontSize-0_94rem"
+        "classes": "ank-color-textColor ank-textDecoration-none ank-fontWeight-800 ank-fontSize-0_92rem"
       }
     },
     {
@@ -155,7 +160,7 @@
         "href": "#",
         "text": "",
         "ariaLabel": "",
-        "classes": "ank-display-inline-flex ank-alignItems-center ank-justifyContent-center ank-gap-8px ank-paddingInline-18px ank-paddingBlock-12px ank-borderRadius-8px ank-bg-successColor ank-color-white ank-fontWeight-800 ank-textDecoration-none ank-border-1px__solid__successColor",
+        "classes": "ank-display-inline-flex ank-alignItems-center ank-justifyContent-center ank-gap-8px ank-paddingInline-18px ank-paddingBlock-12px ank-borderRadius-8px ank-bg-successColor ank-color-white ank-fontWeight-900 ank-textDecoration-none ank-border-1px__solid__successColor",
         "target": "_blank",
         "rel": "noopener noreferrer",
         "styles": {
@@ -411,9 +416,9 @@
     {
       "id": "footerPlatform",
       "type": "link",
-      "valueInstructions": "set:config.text,i18n,nav.platform;set:config.ariaLabel,i18n,nav.platform",
+      "valueInstructions": "set:config.text,i18n,nav.analytics;set:config.ariaLabel,i18n,nav.analytics",
       "config": {
-        "href": "/plataforma",
+        "href": "/optimizacion-y-analitica",
         "text": "",
         "ariaLabel": "",
         "classes": "ank-color-linkColor ank-fontWeight-800 ank-textDecoration-none"
