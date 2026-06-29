@@ -7,7 +7,7 @@
     "hero": {
       "eyebrow": "Equipo",
       "title": "Tecnologia, diseño, copy y lectura comercial trabajando para la landing.",
-      "lead": "Sulandingpage combina desarrollo web, nube, IA, diseño, pauta y analitica para construir landing pages claras, medibles y defendibles.",
+      "lead": "Sulandingpage combina desarrollo web, textos, diseno y criterio comercial para construir landing pages claras y defendibles.",
       "primaryLabel": "Quiero hablar con el equipo",
       "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20hablar%20con%20el%20equipo%20de%20Sulandingpage%20sobre%20una%20landing%20page.",
       "secondaryLabel": "Ir a contacto",
@@ -22,11 +22,11 @@
           },
           {
             "title": "Diseño y marketing",
-            "content": "Criterio visual, copy y pauta para que el clic entienda y avance."
+            "content": "Criterio visual y textos para que la visita entienda y avance."
           },
           {
             "title": "Landing pages",
-            "content": "Estructura, CTA, FAQ y optimizacion inicial pensadas por intencion."
+            "content": "Estructura, boton a WhatsApp y preguntas frecuentes pensadas por tipo de oferta."
           }
         ]
       }
@@ -39,13 +39,13 @@
       },
       {
         "value": "Copy",
-        "label": "Criterio comercial",
-        "detail": "Mensajes orientados a oferta, objeciones y conversion."
+        "label": "Mensaje claro",
+        "detail": "Textos y estructura para explicar mejor una oferta."
       },
       {
-        "value": "Ads",
-        "label": "Lectura de pauta",
-        "detail": "Experiencia para pensar rutas por campana, audiencia o servicio."
+        "value": "WA",
+        "label": "Contacto directo",
+        "detail": "Paginas pensadas para llevar a una conversacion por WhatsApp."
       }
     ],
     "teamSection": {
@@ -78,11 +78,11 @@
       },
       {
         "name": "Oswaldo",
-        "role": "Desarrollo web y Google Ads",
+        "role": "Desarrollo web y estructura de landing",
         "proof": [
           "Desarrollo web para experiencias comerciales.",
-          "Google Ads y seguimiento de campañas.",
-          "Soporte en conversion y lectura de resultados."
+          "Estructura web y claridad de contacto.",
+          "Soporte en claridad, orden y contacto."
         ],
         "imageSrc": "https://assets.zoolandingpage.com.mx/zoositioweb.com.mx/shared/team-photos/oswaldo-garcia.jpeg",
         "imageAlt": "Foto de Oswaldo García"
@@ -92,7 +92,7 @@
         "role": "Diseño, marketing y analisis de mercado",
         "proof": [
           "Criterio visual y comunicacion digital.",
-          "Marketing, pauta y analisis de datos de mercado.",
+          "Marketing, lectura comercial y analisis de mercado.",
           "Enfoque en claridad para el cliente final."
         ],
         "imageSrc": "https://assets.zoolandingpage.com.mx/zoositioweb.com.mx/shared/team-photos/pamela-betancourt.webp",
@@ -124,19 +124,19 @@
             "benefits": [
               "Jerarquia visual",
               "Responsive",
-              "CTA visible"
+              "Boton visible"
             ],
             "href": "",
             "linkLabel": ""
           },
           {
             "icon": "cloud",
-            "title": "Operacion y datos",
-            "description": "La base tecnica debe poder revisarse, medirse y crecer cuando el negocio lo exija.",
+            "title": "Operacion y claridad",
+            "description": "La base tecnica debe publicarse con orden, enlaces claros y datos basicos de pagina.",
             "benefits": [
-              "Revision local",
-              "Eventos utiles",
-              "Publicacion ordenada"
+              "Revision de enlaces",
+              "Datos basicos de pagina",
+              "Mejor orden"
             ],
             "href": "",
             "linkLabel": ""
@@ -155,7 +155,7 @@
         },
         {
           "title": "¿Quien baja el mensaje comercial?",
-          "content": "El trabajo cruza copy, diseño, analisis de mercado y pauta para definir mejor promesa, prueba y CTA."
+          "content": "El trabajo cruza textos, diseno y lectura comercial para definir mejor promesa, prueba y boton de contacto."
         },
         {
           "title": "¿Pueden ayudar aunque el proyecto apenas este tomando forma?",
@@ -174,7 +174,7 @@
     "final": {
       "eyebrow": "Contacto",
       "title": "Hablemos de la landing que necesita tu negocio.",
-      "lead": "El equipo puede orientar estructura, CTA y primer alcance segun tu oferta y tu trafico.",
+      "lead": "El equipo puede orientar estructura, boton a WhatsApp y primer alcance segun tu oferta.",
       "primaryLabel": "Hablar con el equipo",
       "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20hablar%20con%20el%20equipo%20de%20Sulandingpage%20sobre%20mi%20landing%20page.",
       "secondaryLabel": "Ir a contacto"

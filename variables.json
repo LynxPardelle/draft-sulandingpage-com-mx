@@ -29,18 +29,6 @@
         "label": "PyMEs"
       },
       {
-        "id": "googleAds",
-        "value": "/landing-pages-para-google-ads",
-        "labelKey": "nav.googleAds",
-        "label": "Google Ads"
-      },
-      {
-        "id": "analytics",
-        "value": "/optimizacion-y-analitica",
-        "labelKey": "nav.analytics",
-        "label": "Analitica"
-      },
-      {
         "id": "contact",
         "value": "/contacto",
         "labelKey": "nav.contact",

@@ -11,21 +11,21 @@
   "modalRootIds": [],
   "metadata": {
     "status": "phase-1-local-draft",
-    "routePurpose": "landing-pages-for-google-ads"
+    "routePurpose": "landing-page-for-ad-traffic-with-service-limits"
   },
   "seo": {
     "title": {
-      "es": "Landing pages para Google Ads | Sulandingpage"
+      "es": "Landing pages para visitas de anuncios | Sulandingpage"
     },
     "description": {
-      "es": "Landing pages alineadas con keyword, anuncio y CTA para mejorar la experiencia de destino y leer clics con contexto comercial."
+      "es": "Creamos landing pages para recibir visitas de anuncios, redes o busqueda y llevarlas a WhatsApp. No administramos cuentas ni campanas publicitarias."
     },
     "openGraph": {
       "title": {
-        "es": "Landing pages para Google Ads | Sulandingpage"
+        "es": "Landing pages para visitas de anuncios | Sulandingpage"
       },
       "description": {
-        "es": "Landing pages alineadas con keyword, anuncio y CTA para mejorar la experiencia de destino y leer clics con contexto comercial."
+        "es": "Creamos landing pages para recibir visitas de anuncios, redes o busqueda y llevarlas a WhatsApp. No administramos cuentas ni campanas publicitarias."
       },
       "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
       "url": "https://sulandingpage.com.mx/landing-pages-para-google-ads",
@@ -33,10 +33,10 @@
     },
     "twitter": {
       "title": {
-        "es": "Landing pages para Google Ads | Sulandingpage"
+        "es": "Landing pages para visitas de anuncios | Sulandingpage"
       },
       "description": {
-        "es": "Landing pages alineadas con keyword, anuncio y CTA para mejorar la experiencia de destino y leer clics con contexto comercial."
+        "es": "Creamos landing pages para recibir visitas de anuncios, redes o busqueda y llevarlas a WhatsApp. No administramos cuentas ni campanas publicitarias."
       },
       "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
       "card": "summary_large_image"
@@ -44,10 +44,10 @@
     "canonical": "https://sulandingpage.com.mx/landing-pages-para-google-ads",
     "keywords": {
       "es": [
-        "landing page para google ads",
-        "landing page para campañas",
-        "experiencia de destino google ads",
-        "landing ads mexico"
+        "landing page para anuncios",
+        "landing page whatsapp",
+        "pagina para visitas",
+        "sulandingpage"
       ]
     }
   },
@@ -56,8 +56,8 @@
       {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "Landing pages para Google Ads | Sulandingpage",
-        "description": "Landing pages alineadas con keyword, anuncio y CTA para mejorar la experiencia de destino y leer clics con contexto comercial.",
+        "name": "Landing pages para visitas de anuncios | Sulandingpage",
+        "description": "Creamos landing pages para recibir visitas de anuncios, redes o busqueda y llevarlas a WhatsApp. No administramos cuentas ni campanas publicitarias.",
         "url": "https://sulandingpage.com.mx/landing-pages-para-google-ads",
         "inLanguage": "es"
       }

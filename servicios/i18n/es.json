@@ -6,8 +6,8 @@
   "dictionary": {
     "hero": {
       "eyebrow": "Servicio completo",
-      "title": "De la oferta al lanzamiento: estructura, copy, diseño y medicion en una sola entrega.",
-      "lead": "Sulandingpage acompaña el armado de tu landing para que la promesa, la experiencia y el CTA queden alineados con el trafico que vas a atraer.",
+      "title": "De la oferta al lanzamiento: estructura, textos y pagina lista para WhatsApp.",
+      "lead": "Sulandingpage acompana el armado de tu landing para que la promesa, la informacion y el boton a WhatsApp queden claros para las visitas que ya tengas o vayas a conseguir por tu cuenta.",
       "primaryLabel": "Quiero revisar mi proyecto",
       "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20revisar%20mi%20proyecto%20de%20landing%20page.%20Mi%20oferta%20principal%20es%3A",
       "secondaryLabel": "Comparar planes",
@@ -18,15 +18,15 @@
         "items": [
           {
             "title": "Estrategia",
-            "content": "Definimos promesa, publico y CTA antes de escribir o diseñar."
+            "content": "Definimos promesa, publico y boton principal antes de escribir o disenar."
           },
           {
             "title": "Copy",
             "content": "Redactamos titulares, objeciones y prueba con lenguaje comercial directo."
           },
           {
-            "title": "Medicion",
-            "content": "Configuramos eventos iniciales para decidir que iterar primero."
+            "title": "Base de pagina",
+            "content": "Dejamos datos basicos y botones listos, sin administrar anuncios ni reportes externos."
           }
         ]
       }
@@ -35,7 +35,7 @@
       {
         "value": "Brief",
         "label": "Promesa y publico",
-        "detail": "Aterrizamos una oferta principal antes de diseñar la pagina."
+        "detail": "Aterrizamos una oferta principal antes de disenar la pagina."
       },
       {
         "value": "Copy",
@@ -43,25 +43,25 @@
         "detail": "Titulares y objeciones pensados para lectura rapida y movil."
       },
       {
-        "value": "Datos",
-        "label": "Medicion inicial",
-        "detail": "Clics y lectura por seccion para priorizar mejoras."
+        "value": "Base",
+        "label": "Lista para publicar",
+        "detail": "Botones, textos y datos basicos para una primera version."
       }
     ],
     "sections": [
       {
         "eyebrow": "Que incluye",
         "title": "Una base lista para vender una oferta puntual.",
-        "lead": "El servicio junta estrategia, contenido, diseño y publicacion para que la landing pueda salir con una estructura comercial defendible.",
+        "lead": "El servicio junta estrategia, contenido, diseno y publicacion para que la landing pueda salir con una estructura comercial clara.",
         "cards": [
           {
             "icon": "account_tree",
             "title": "Mapa de mensaje",
-            "description": "Definimos promesa, evidencia y CTA para que la pagina no mezcle demasiadas intenciones.",
+            "description": "Definimos promesa, respaldo y boton principal para que la pagina no mezcle demasiadas intenciones.",
             "benefits": [
               "Una promesa central",
               "Prueba alineada",
-              "CTA principal"
+              "Boton principal"
             ],
             "href": "",
             "linkLabel": ""
@@ -79,12 +79,12 @@
             "linkLabel": ""
           },
           {
-            "icon": "analytics",
-            "title": "Medicion y lanzamiento",
-            "description": "La primera version sale con eventos y metadatos basicos para leer interes real desde el arranque.",
+            "icon": "rocket_launch",
+            "title": "Publicacion base",
+            "description": "La primera version sale con datos basicos de pagina y boton de contacto visible.",
             "benefits": [
-              "Eventos en CTA",
-              "SEO por ruta",
+              "Boton a WhatsApp",
+              "Titulo y descripcion",
               "Revision movil"
             ],
             "href": "",
@@ -95,15 +95,15 @@
       {
         "eyebrow": "Como trabajamos",
         "title": "Cuatro pasos para lanzar sin improvisar.",
-        "lead": "La pagina se define con decisiones concretas sobre trafico, oferta, evidencia y canal de contacto.",
+        "lead": "La pagina se define con decisiones concretas sobre oferta, dudas del cliente y canal de contacto.",
         "cards": [
           {
             "icon": "search",
             "title": "1. Brief comercial",
-            "description": "Revisamos oferta, publico, origen del trafico y pregunta principal que debe resolver la landing.",
+            "description": "Revisamos oferta, publico, de donde vendran las visitas y pregunta principal que debe resolver la landing.",
             "benefits": [
-              "Keyword o anuncio",
               "Oferta prioritaria",
+              "Dudas del cliente",
               "Objetivo de la pagina"
             ],
             "href": "",
@@ -115,8 +115,8 @@
             "description": "Ordenamos titulares, prueba, beneficios y preguntas frecuentes en una secuencia defendible.",
             "benefits": [
               "Jerarquia visual",
-              "CTA visible",
-              "Mensajes claros"
+              "boton visible",
+              "Boton visible"
             ],
             "href": "",
             "linkLabel": ""
@@ -136,11 +136,11 @@
           {
             "icon": "rocket_launch",
             "title": "4. Publicar y medir",
-            "description": "Revisamos experiencia, metadatos y eventos clave para lanzar una primera version util.",
+            "description": "Revisamos experiencia, datos basicos de pagina y botones clave para lanzar una primera version util.",
             "benefits": [
-              "Canonical correcto",
-              "Open Graph listo",
-              "Eventos con contexto"
+              "Revision de enlaces",
+              "Datos de pagina",
+              "WhatsApp claro"
             ],
             "href": "",
             "linkLabel": ""
@@ -158,23 +158,23 @@
           "content": "No. Podemos partir de tu oferta, referencias y preguntas frecuentes para estructurar una primera version defendible."
         },
         {
-          "title": "¿La landing puede llevar a WhatsApp?",
-          "content": "Si. Hoy es el canal mas directo para iniciar conversacion con contexto sin prometer integraciones que aun no estan productoizadas."
+          "title": "Tambien sirve si las visitas llegan por redes o buscadores?",
+          "content": "Si. La landing ayuda a explicar una oferta y llevar a WhatsApp, sin importar si la visita llega por redes, referidos, buscadores o anuncios que manejes por tu cuenta."
         },
         {
-          "title": "¿Tambien sirve para trafico organico?",
-          "content": "Si, siempre que la ruta, el titulo y el contenido respondan a una intencion de busqueda real y no se duplique sin control."
+          "title": "¿Tambien sirve para visitas organico?",
+          "content": "Si. La idea es lanzar una base clara y despues ajustar titulares, respaldo y boton de contacto con lectura comercial."
         },
         {
           "title": "¿Puedo iterar despues de publicar?",
-          "content": "Si. La idea es lanzar una base clara y despues ajustar titulares, pruebas y CTA con lectura comercial."
+          "content": "Si. La idea es lanzar una base clara y despues ajustar titulares, pruebas y boton con lectura comercial."
         }
       ]
     },
     "final": {
       "eyebrow": "Empezar",
-      "title": "Cuéntanos que trafico quieres convertir y que accion buscas.",
-      "lead": "Con eso definimos estructura, copy y el alcance correcto para la primera version.",
+      "title": "Cuentanos que quieres vender y que debe entender el visitante.",
+      "lead": "Con esa informacion te decimos que necesita la landing y que queda fuera del alcance, como administrar anuncios o reportes avanzados.",
       "primaryLabel": "Revisar mi proyecto",
       "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20revisar%20mi%20proyecto%20de%20landing%20page%20y%20definir%20el%20alcance.",
       "secondaryLabel": "Ir a contacto"

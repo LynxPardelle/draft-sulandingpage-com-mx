@@ -416,9 +416,9 @@
     {
       "id": "footerPlatform",
       "type": "link",
-      "valueInstructions": "set:config.text,i18n,nav.analytics;set:config.ariaLabel,i18n,nav.analytics",
+      "valueInstructions": "set:config.text,i18n,nav.pymes;set:config.ariaLabel,i18n,nav.pymes",
       "config": {
-        "href": "/optimizacion-y-analitica",
+        "href": "/landing-pages-para-pymes",
         "text": "",
         "ariaLabel": "",
         "classes": "ank-color-linkColor ank-fontWeight-800 ank-textDecoration-none"

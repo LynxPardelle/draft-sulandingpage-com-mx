@@ -15,17 +15,17 @@
   },
   "seo": {
     "title": {
-      "es": "Equipo de Sulandingpage | Landing pages, nube y analitica"
+      "es": "Equipo de Sulandingpage | Landing pages claras"
     },
     "description": {
-      "es": "Conoce al equipo detrás de Sulandingpage: desarrollo web, nube, IA, copy, diseño, pauta y analitica para landing pages profesionales."
+      "es": "Conoce al equipo detras de Sulandingpage: desarrollo web, textos, diseno y estructura comercial para landing pages profesionales."
     },
     "openGraph": {
       "title": {
-        "es": "Equipo de Sulandingpage | Landing pages, nube y analitica"
+        "es": "Equipo de Sulandingpage | Landing pages claras"
       },
       "description": {
-        "es": "Conoce al equipo detrás de Sulandingpage: desarrollo web, nube, IA, copy, diseño, pauta y analitica para landing pages profesionales."
+        "es": "Conoce al equipo detras de Sulandingpage: desarrollo web, textos, diseno y estructura comercial para landing pages profesionales."
       },
       "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
       "url": "https://sulandingpage.com.mx/nosotros",
@@ -33,10 +33,10 @@
     },
     "twitter": {
       "title": {
-        "es": "Equipo de Sulandingpage | Landing pages, nube y analitica"
+        "es": "Equipo de Sulandingpage | Landing pages claras"
       },
       "description": {
-        "es": "Conoce al equipo detrás de Sulandingpage: desarrollo web, nube, IA, copy, diseño, pauta y analitica para landing pages profesionales."
+        "es": "Conoce al equipo detras de Sulandingpage: desarrollo web, textos, diseno y estructura comercial para landing pages profesionales."
       },
       "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
       "card": "summary_large_image"
@@ -45,8 +45,8 @@
     "keywords": {
       "es": [
         "equipo sulandingpage",
-        "landing pages nube y marketing",
-        "desarrollo de landing pages equipo"
+        "landing pages",
+        "desarrollo landing page"
       ]
     }
   },
@@ -55,8 +55,8 @@
       {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "Equipo de Sulandingpage | Landing pages, nube y analitica",
-        "description": "Conoce al equipo detrás de Sulandingpage: desarrollo web, nube, IA, copy, diseño, pauta y analitica para landing pages profesionales.",
+        "name": "Equipo de Sulandingpage | Landing pages claras",
+        "description": "Conoce al equipo detras de Sulandingpage: desarrollo web, textos, diseno y estructura comercial para landing pages profesionales.",
         "url": "https://sulandingpage.com.mx/nosotros",
         "inLanguage": "es"
       }

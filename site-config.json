@@ -29,12 +29,12 @@
     {
       "path": "/landing-pages-para-google-ads",
       "pageId": "landing-pages-para-google-ads",
-      "label": "Landing pages para Google Ads"
+      "label": "Landing pages para visitas de anuncios"
     },
     {
       "path": "/optimizacion-y-analitica",
       "pageId": "optimizacion-y-analitica",
-      "label": "Optimizacion y analitica"
+      "label": "Revision de landing page"
     },
     {
       "path": "/nosotros",
@@ -122,12 +122,12 @@
       "identifier": "sulandingpagecommx",
       "name": "Sulandingpage",
       "version": "1.0.0",
-      "description": "Landing pages enfocadas en convertir trafico de anuncios, redes y busqueda en conversaciones por WhatsApp."
+      "description": "Landing pages enfocadas en explicar una oferta y convertir visitas en conversaciones por WhatsApp."
     },
     "seo": {
       "siteName": "Sulandingpage",
-      "title": "Sulandingpage | Landing pages para conseguir clientes por WhatsApp",
-      "description": "Landing pages para negocios en Mexico que quieren convertir trafico de Google Ads, redes y busquedas en mensajes por WhatsApp con copy, diseno y medicion inicial.",
+      "title": "Sulandingpage | Landing pages para conseguir mensajes por WhatsApp",
+      "description": "Landing pages para negocios en Mexico que quieren explicar mejor su oferta y convertir visitas de redes, referidos o busqueda en mensajes por WhatsApp.",
       "canonicalOrigin": "https://sulandingpage.com.mx",
       "enforceCanonicalHost": true,
       "forceHttps": true,
@@ -144,9 +144,8 @@
           "landing page",
           "landing pages mexico",
           "landing page con whatsapp",
-          "landing pages para google ads",
           "landing page para pymes",
-          "conseguir clientes por whatsapp",
+          "pagina para conseguir clientes",
           "diseno de landing page",
           "sulandingpage"
         ]

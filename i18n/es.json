@@ -9,8 +9,8 @@
       "services": "Servicios",
       "plans": "Planes",
       "pymes": "PyMEs",
-      "googleAds": "Google Ads",
-      "analytics": "Analitica",
+      "googleAds": "Landing para anuncios",
+      "analytics": "Revision de landing",
       "contact": "Contacto"
     },
     "ui": {
@@ -37,10 +37,10 @@
     },
     "footer": {
       "title": "Sulandingpage",
-      "summary": "Sulandingpage crea landing pages enfocadas en claridad comercial, continuidad con anuncios y mensajes de WhatsApp con contexto.",
+      "summary": "Sulandingpage crea landing pages para explicar mejor una oferta y llevar a los visitantes a WhatsApp con menos dudas.",
       "linksTitle": "Rutas principales",
       "sectorsTitle": "Sectores con alta intencion",
-      "legal": "No prometemos rankings ni resultados automaticos; trabajamos con estructura, copy, medicion y experiencia de destino para mejorar la conversion.",
+      "legal": "Nuestro servicio es crear y ajustar landing pages. No administramos anuncios, cuentas publicitarias ni reportes avanzados.",
       "copyright": "Sulandingpage",
       "faqLabel": "Preguntas frecuentes"
     },

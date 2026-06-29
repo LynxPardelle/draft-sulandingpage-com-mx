@@ -15,17 +15,17 @@
   },
   "seo": {
     "title": {
-      "es": "Planes y alcances de landing pages | Sulandingpage"
+      "es": "Planes de landing page | Sulandingpage"
     },
     "description": {
-      "es": "Compara Landing Base, Landing + Iteracion y Optimizacion continua para elegir el alcance correcto de tu landing page."
+      "es": "Compara Landing Base, landing con mas contenido y revision de landing. Alcances claros para crear una pagina enfocada en WhatsApp."
     },
     "openGraph": {
       "title": {
-        "es": "Planes y alcances de landing pages | Sulandingpage"
+        "es": "Planes de landing page | Sulandingpage"
       },
       "description": {
-        "es": "Compara Landing Base, Landing + Iteracion y Optimizacion continua para elegir el alcance correcto de tu landing page."
+        "es": "Compara Landing Base, landing con mas contenido y revision de landing. Alcances claros para crear una pagina enfocada en WhatsApp."
       },
       "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
       "url": "https://sulandingpage.com.mx/planes",
@@ -33,10 +33,10 @@
     },
     "twitter": {
       "title": {
-        "es": "Planes y alcances de landing pages | Sulandingpage"
+        "es": "Planes de landing page | Sulandingpage"
       },
       "description": {
-        "es": "Compara Landing Base, Landing + Iteracion y Optimizacion continua para elegir el alcance correcto de tu landing page."
+        "es": "Compara Landing Base, landing con mas contenido y revision de landing. Alcances claros para crear una pagina enfocada en WhatsApp."
       },
       "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
       "card": "summary_large_image"
@@ -44,10 +44,10 @@
     "canonical": "https://sulandingpage.com.mx/planes",
     "keywords": {
       "es": [
+        "planes landing page",
         "precio landing page",
-        "planes de landing pages",
-        "landing page desde 900 mxn",
-        "alcance landing page"
+        "landing base",
+        "sulandingpage"
       ]
     }
   },
@@ -56,8 +56,8 @@
       {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "Planes y alcances de landing pages | Sulandingpage",
-        "description": "Compara Landing Base, Landing + Iteracion y Optimizacion continua para elegir el alcance correcto de tu landing page.",
+        "name": "Planes de landing page | Sulandingpage",
+        "description": "Compara Landing Base, landing con mas contenido y revision de landing. Alcances claros para crear una pagina enfocada en WhatsApp.",
         "url": "https://sulandingpage.com.mx/planes",
         "inLanguage": "es"
       }

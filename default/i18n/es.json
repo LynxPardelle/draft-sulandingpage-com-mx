@@ -5,9 +5,9 @@
   "lang": "es",
   "dictionary": {
     "hero": {
-      "eyebrow": "Landing pages para convertir trafico en clientes potenciales",
+      "eyebrow": "Landing pages para convertir visitas en clientes potenciales",
       "title": "Convierte visitas en conversaciones listas para cotizar.",
-      "lead": "Tus clientes no buscan una pagina bonita: buscan entender tu oferta, confiar rapido y saber como escribirte. Creamos landing pages para transformar trafico de Google Ads, redes o busqueda en mensajes por WhatsApp con contexto.",
+      "lead": "Tus clientes no buscan una pagina bonita: buscan entender tu oferta, confiar rapido y saber como escribirte. Creamos landing pages para convertir visitas de redes, referidos o busqueda en mensajes por WhatsApp con contexto.",
       "primaryLabel": "Cotizar landing por WhatsApp",
       "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20cotizar%20una%20landing%20page.%20Mi%20oferta%20principal%20es%3A",
       "secondaryLabel": "Ver planes desde $900",
@@ -16,7 +16,7 @@
         "title": "Oferta clara para vender mas.",
         "lead": "Promesa, prueba y siguiente paso ordenados para que el visitante entienda antes de escribir.",
         "cardOneTitle": "Promesa",
-        "cardOneText": "Titular alineado con anuncio y busqueda.",
+        "cardOneText": "Titular alineado con lo que vendes.",
         "cardTwoTitle": "Prueba",
         "cardTwoText": "Beneficios, objeciones y confianza.",
         "metrics": [
@@ -26,22 +26,22 @@
           },
           {
             "value": "WA",
-            "label": "CTA contextual"
+            "label": "Boton a WhatsApp"
           },
           {
             "value": "SEO",
-            "label": "Metadata base"
+            "label": "Datos basicos"
           }
         ]
       },
       "panel": {
         "kicker": "Ruta de conversion",
         "title": "La landing debe responder lo que el cliente ya esta preguntando.",
-        "lead": "Ordenamos promesa, prueba, objeciones y CTA para que el visitante no tenga que adivinar.",
+        "lead": "Ordenamos promesa, prueba, objeciones y boton de contacto para que el visitante no tenga que adivinar.",
         "items": [
           {
             "title": "Continuidad",
-            "content": "El anuncio, la busqueda y el primer bloque de la pagina prometen lo mismo."
+            "content": "Lo que prometes fuera de la pagina coincide con lo que el visitante encuentra al entrar."
           },
           {
             "title": "Confianza",
@@ -49,7 +49,7 @@
           },
           {
             "title": "Accion",
-            "content": "El CTA explica que pasara al escribir y no se pierde entre bloques repetidos."
+            "content": "El boton explica que pasara al escribir y no se pierde entre bloques repetidos."
           }
         ]
       }
@@ -61,9 +61,9 @@
         "detail": "La landing convierte interes disperso en una ruta clara: oferta, confianza y contacto."
       },
       {
-        "value": "Ads",
-        "label": "El clic necesita continuidad",
-        "detail": "Si el anuncio promete una cosa y la pagina habla de otra, el visitante duda y se va."
+        "value": "Visitas",
+        "label": "La gente llega, pero no entiende que hacer",
+        "detail": "La pagina debe explicar rapido que vendes, por que confiar y como pedir informacion."
       },
       {
         "value": "$900",
@@ -78,13 +78,13 @@
         "lead": "Cada bloque debe responder una duda real o acercar al WhatsApp. Lo que no ayuda a decidir se recorta.",
         "cards": [
           {
-            "icon": "campaign",
+            "icon": "flag",
             "title": "Promesa y oferta",
             "description": "Aterrizamos que vendes, para quien es y por que importa en los primeros segundos.",
             "benefits": [
               "Titular accionable",
               "Beneficio principal visible",
-              "Mensaje alineado con pauta"
+              "Mensaje claro desde el inicio"
             ],
             "href": "/servicios",
             "linkLabel": "Ver servicio"
@@ -103,12 +103,12 @@
           },
           {
             "icon": "chat",
-            "title": "WhatsApp contextual",
-            "description": "El CTA no solo dice contactanos: prepara el mensaje para iniciar una conversacion util.",
+            "title": "WhatsApp claro",
+            "description": "El boton no solo dice contactanos: deja claro que el siguiente paso es pedir informacion por WhatsApp.",
             "benefits": [
               "Mensaje precargado",
-              "CTA visible",
-              "Medicion de clics"
+              "Boton visible",
+              "Registro basico de clics"
             ],
             "href": "/contacto",
             "linkLabel": "Ver contacto"
@@ -118,16 +118,16 @@
       {
         "eyebrow": "Metodo",
         "title": "De oferta confusa a ruta de contacto clara.",
-        "lead": "Primero entendemos la intencion del cliente, despues organizamos contenido y finalmente publicamos con metadata y medicion base.",
+        "lead": "Primero entendemos tu oferta, despues organizamos el mensaje y finalmente publicamos una pagina clara con datos basicos para compartirla y encontrarla.",
         "cards": [
           {
             "icon": "manage_search",
             "title": "1. Entender el negocio",
-            "description": "Definimos oferta, audiencia, fuente de trafico y accion principal antes de disenar.",
+            "description": "Definimos oferta, audiencia, de donde llegaran las visitas y accion principal antes de disenar.",
             "benefits": [
               "Oferta principal",
               "Dudas del comprador",
-              "Fuente de trafico"
+              "Origen de visitas"
             ],
             "href": "/servicios",
             "linkLabel": "Conocer proceso"
@@ -135,9 +135,9 @@
           {
             "icon": "view_quilt",
             "title": "2. Ordenar el mensaje",
-            "description": "Convertimos el analisis en secciones concretas: promesa, prueba, planes, preguntas y CTA.",
+            "description": "Convertimos el analisis en secciones concretas: promesa, prueba, planes, preguntas y boton de contacto.",
             "benefits": [
-              "Copy orientado a accion",
+              "Texto orientado a accion",
               "Bloques con una funcion",
               "Menos descripcion de relleno"
             ],
@@ -146,22 +146,22 @@
           },
           {
             "icon": "monitoring",
-            "title": "3. Publicar y medir",
-            "description": "Dejamos base tecnica, metadata y eventos para observar clics, lectura y mensajes.",
+            "title": "3. Publicar con base clara",
+            "description": "Dejamos la landing lista para compartirse, con boton a WhatsApp y datos basicos de pagina.",
             "benefits": [
-              "Metadata por pagina",
-              "WhatsApp medible",
-              "Aprendizaje para iterar"
+              "Titulo y descripcion de pagina",
+              "WhatsApp visible",
+              "Registro basico de clics"
             ],
-            "href": "/optimizacion-y-analitica",
-            "linkLabel": "Ver analitica"
+            "href": "/servicios",
+            "linkLabel": "Ver alcance"
           }
         ]
       },
       {
         "eyebrow": "Rutas por intencion",
         "title": "Cada visitante llega con una pregunta distinta.",
-        "lead": "El home debe abrir caminos rapidos para quien compara precio, quien viene de anuncios y quien necesita una landing para su negocio.",
+        "lead": "El home debe abrir caminos rapidos para quien compara precio, quien necesita una landing para su negocio y quien quiere resolver dudas antes de escribir.",
         "cards": [
           {
             "icon": "payments",
@@ -176,28 +176,28 @@
             "linkLabel": "Comparar planes"
           },
           {
-            "icon": "ads_click",
-            "title": "Voy a mandar trafico de Google Ads",
-            "description": "Explica por que la pagina debe continuar la keyword, el anuncio y la expectativa del clic.",
-            "benefits": [
-              "Intencion de busqueda",
-              "Anuncio alineado",
-              "Conversion medible"
-            ],
-            "href": "/landing-pages-para-google-ads",
-            "linkLabel": "Ver Google Ads"
-          },
-          {
             "icon": "storefront",
-            "title": "Necesito una landing para mi PyME",
+            "title": "Necesito una landing para mi negocio",
             "description": "Enfoca servicios, beneficios y contacto para negocios que necesitan generar oportunidades.",
             "benefits": [
               "Oferta clara",
               "WhatsApp visible",
-              "Base para campanas"
+              "Lista para compartir"
             ],
             "href": "/landing-pages-para-pymes",
             "linkLabel": "Ver PyMEs"
+          },
+          {
+            "icon": "help",
+            "title": "Tengo dudas antes de empezar",
+            "description": "Responde preguntas comunes sobre alcance, materiales, tiempos y limites del servicio.",
+            "benefits": [
+              "Que incluye",
+              "Que no incluye",
+              "Como cotizar"
+            ],
+            "href": "/preguntas-frecuentes",
+            "linkLabel": "Ver preguntas"
           }
         ]
       }
@@ -209,15 +209,15 @@
       "items": [
         {
           "title": "Desde cuanto puedo empezar?",
-          "content": "La ruta base parte desde $900 MXN al mes. El alcance exacto depende de la oferta, contenido necesario y nivel de optimizacion."
+          "content": "La ruta base parte desde $900 MXN al mes. El alcance exacto depende de tu oferta, contenido necesario y profundidad de la pagina."
         },
         {
           "title": "Que incluye una landing base?",
-          "content": "Una pagina enfocada en una oferta, copy organizado, CTA a WhatsApp, metadata base, estructura responsive y medicion inicial de clics."
+          "content": "Una pagina enfocada en una oferta, textos organizados, boton a WhatsApp, datos basicos de pagina, estructura responsive y registro inicial de clics."
         },
         {
-          "title": "Sirve para Google Ads?",
-          "content": "Si. Funciona mejor cuando la keyword, el anuncio y el primer mensaje de la landing responden a la misma intencion comercial."
+          "title": "Si ya tengo anuncios o pienso hacerlos, sirve?",
+          "content": "Si. La landing puede recibir esas visitas, pero nosotros no administramos tus anuncios ni tu cuenta publicitaria."
         },
         {
           "title": "Necesito tener textos o imagenes?",
@@ -225,14 +225,14 @@
         },
         {
           "title": "Prometen resultados garantizados?",
-          "content": "No prometemos rankings ni ventas automaticas. Si mejoramos claridad, experiencia de destino y medicion para tomar mejores decisiones."
+          "content": "No prometemos rankings, ventas automaticas ni resultados de anuncios. Trabajamos claridad, estructura y experiencia de la pagina."
         }
       ]
     },
     "final": {
       "eyebrow": "Cotizacion",
       "title": "Cuentanos que vendes y armamos la ruta de tu landing.",
-      "lead": "Comparte tu oferta, de donde vendra el trafico y que accion quieres que tome el visitante. Con eso te orientamos plan, estructura y siguiente paso.",
+      "lead": "Comparte tu oferta, de donde vendran las visitas y que accion quieres que tome el visitante. Con eso te orientamos plan, estructura y siguiente paso.",
       "primaryLabel": "Cotizar landing por WhatsApp",
       "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20cotizar%20una%20landing%20page.%20Mi%20oferta%20principal%20es%3A",
       "secondaryLabel": "Ver planes"

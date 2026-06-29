@@ -5,62 +5,62 @@
   "lang": "es",
   "dictionary": {
     "hero": {
-      "eyebrow": "Trafico de alta intencion",
-      "title": "La landing debe continuar la promesa del anuncio, no empezar otra conversacion.",
-      "lead": "Esta ruta esta pensada para campañas donde la experiencia de destino importa: keyword, anuncio, titular, prueba y CTA deben responder a la misma intencion.",
-      "primaryLabel": "Quiero una landing para Google Ads",
-      "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20una%20landing%20page%20para%20Google%20Ads.%20La%20oferta%20que%20quiero%20mover%20es%3A",
+      "eyebrow": "Landing para visitas de anuncios",
+      "title": "Si ya traes visitas por anuncios, la landing debe explicar rapido tu oferta.",
+      "lead": "Creamos la pagina que recibe esas visitas y las lleva a WhatsApp. No administramos tus anuncios, presupuesto ni cuenta publicitaria.",
+      "primaryLabel": "Quiero una landing para mis visitas",
+      "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20una%20landing%20page%20para%20recibir%20visitas.%20Mi%20oferta%20principal%20es%3A",
       "secondaryLabel": "Ver planes",
       "panel": {
-        "kicker": "Experiencia de destino",
-        "title": "El clic debe sentirse consistente desde la busqueda hasta la CTA.",
-        "lead": "No prometemos Quality Score perfecto, pero si una pagina mas util, mas clara y mejor alineada con la expectativa del anuncio.",
+        "kicker": "Limite claro",
+        "title": "Hacemos la pagina; no manejamos tus anuncios.",
+        "lead": "La landing puede estar preparada para recibir visitas de anuncios, redes, referidos o busqueda, pero la compra y configuracion de anuncios queda fuera del servicio.",
         "items": [
           {
-            "title": "Keyword y titular",
-            "content": "La consulta del usuario y el encabezado de la landing deben hablar de lo mismo."
+            "title": "Pagina clara",
+            "content": "La oferta, beneficios y boton a WhatsApp se entienden rapido."
           },
           {
-            "title": "Prueba sin ruido",
-            "content": "Se muestra solo la evidencia necesaria para tomar el siguiente paso, sin dispersar la atencion."
+            "title": "Visitas que tu traes",
+            "content": "Puedes enviarlas desde redes, buscadores, referidos o anuncios que manejes por tu cuenta."
           },
           {
-            "title": "CTA medible",
-            "content": "Cada clic importante se rastrea para decidir que mensaje conviene ajustar primero."
+            "title": "Sin gestion de anuncios",
+            "content": "No configuramos anuncios, presupuestos, palabras clave ni reportes de cuentas publicitarias."
           }
         ]
       }
     },
     "stats": [
       {
-        "value": "CTR",
-        "label": "Relevancia del clic",
-        "detail": "El anuncio y la landing deben responder a la misma pregunta."
+        "value": "Pagina",
+        "label": "Oferta entendible",
+        "detail": "La visita debe saber que vendes y que hacer despues."
       },
       {
-        "value": "LP",
-        "label": "Experiencia de destino",
-        "detail": "Carga, claridad y navegacion influyen en lo que pasa despues del clic."
+        "value": "WA",
+        "label": "Contacto directo",
+        "detail": "El boton a WhatsApp queda visible y con mensaje claro."
       },
       {
-        "value": "CTA",
-        "label": "Una accion medible",
-        "detail": "La pagina lleva a un solo siguiente paso facil de rastrear."
+        "value": "Limite",
+        "label": "Sin gestion de anuncios",
+        "detail": "La administracion de anuncios queda fuera del servicio."
       }
     ],
     "sections": [
       {
-        "eyebrow": "Antes del clic",
-        "title": "Lo que el anuncio promete, la landing debe sostenerlo.",
-        "lead": "Muchas campañas fallan no por falta de trafico, sino porque el visitante aterriza en una pagina demasiado general o confusa.",
+        "eyebrow": "Antes de enviar visitas",
+        "title": "La landing debe sostener lo que prometes fuera de ella.",
+        "lead": "Muchas visitas no escriben porque aterrizan en una pagina demasiado general o confusa.",
         "cards": [
           {
             "icon": "search",
-            "title": "Intencion precisa",
-            "description": "Una ruta sirve mejor cuando responde a una busqueda concreta en vez de intentar vender toda la empresa de una sola vez.",
+            "title": "Una oferta principal",
+            "description": "La pagina funciona mejor cuando no intenta vender todo al mismo tiempo.",
             "benefits": [
-              "Una keyword central",
               "Una promesa clara",
+              "Beneficio visible",
               "Menos ambiguedad"
             ],
             "href": "",
@@ -68,24 +68,24 @@
           },
           {
             "icon": "title",
-            "title": "Titular alineado",
-            "description": "El encabezado de la pagina debe confirmar rapidamente que el clic llego al lugar correcto.",
+            "title": "Titular directo",
+            "description": "El encabezado confirma rapidamente que la persona llego al lugar correcto.",
             "benefits": [
-              "Coincidencia de mensaje",
-              "Menos rebote por confusion",
-              "Mejor lectura inicial"
+              "Mensaje simple",
+              "Menos confusion",
+              "Lectura rapida"
             ],
             "href": "",
             "linkLabel": ""
           },
           {
             "icon": "phone_android",
-            "title": "Movil primero",
-            "description": "Gran parte del trafico pagado llega desde celular, asi que la velocidad y el recorrido corto importan mucho.",
+            "title": "Pensada para celular",
+            "description": "Muchas visitas llegan desde telefono, asi que el recorrido debe ser corto.",
             "benefits": [
               "Carga rapida",
-              "CTA visible",
-              "Menos scroll innecesario"
+              "Boton visible",
+              "Menos pasos"
             ],
             "href": "",
             "linkLabel": ""
@@ -93,43 +93,42 @@
         ]
       },
       {
-        "eyebrow": "Despues del clic",
-        "title": "La pagina debe aclarar, respaldar y pedir una accion.",
-        "lead": "Una landing para Ads no necesita demasiadas rutas; necesita una secuencia fuerte de promesa, prueba y siguiente paso.",
+        "eyebrow": "Despues de entrar",
+        "title": "La pagina debe aclarar, dar confianza y pedir una accion.",
+        "lead": "Una landing no necesita muchas rutas; necesita explicar bien y abrir WhatsApp sin friccion.",
         "cards": [
           {
             "icon": "fact_check",
-            "title": "Prueba suficiente",
-            "description": "Beneficios, objeciones, FAQ o elementos de respaldo aparecen donde ayudan a decidir, no donde distraen.",
+            "title": "Confianza suficiente",
+            "description": "Beneficios, preguntas y respaldo aparecen donde ayudan a decidir.",
             "benefits": [
               "Prueba visible",
-              "Objeciones resueltas",
+              "Dudas resueltas",
               "Confianza sin ruido"
             ],
             "href": "",
             "linkLabel": ""
           },
           {
-            "icon": "flash_on",
-            "title": "Una sola conversion principal",
-            "description": "WhatsApp, llamada o formulario simple: la pagina debe dejar claro cual es el paso que mas importa.",
+            "icon": "chat",
+            "title": "Un boton principal",
+            "description": "WhatsApp debe ser facil de encontrar y de entender.",
             "benefits": [
               "Una salida prioritaria",
               "Menos friccion",
-              "Mejor medicion"
+              "Mensaje precargado"
             ],
             "href": "",
             "linkLabel": ""
           },
           {
-            "icon": "monitoring",
-            "title": "Iteracion con evidencia",
-            "description": "Clics, lectura de secciones y mensajes ayudan a mejorar la landing sin caer en cambios por intuicion."
-            ,
+            "icon": "rule",
+            "title": "Alcance responsable",
+            "description": "La landing queda lista para recibir visitas, pero no incluye manejo de anuncios.",
             "benefits": [
-              "Cambios por impacto",
-              "Aprendizaje por campana",
-              "Mejor uso del presupuesto"
+              "Sin promesas infladas",
+              "Sin gestion de cuentas",
+              "Limites claros"
             ],
             "href": "",
             "linkLabel": ""
@@ -138,38 +137,34 @@
       }
     ],
     "faq": {
-      "eyebrow": "Preguntas de Ads",
-      "title": "Lo importante antes de mandar trafico a una landing",
-      "lead": "Respuestas cortas para alinear expectativa, mensaje y experiencia de destino.",
+      "eyebrow": "Preguntas",
+      "title": "Antes de enviar visitas a una landing",
+      "lead": "Respuestas cortas para dejar claro que hacemos la pagina, no la gestion de anuncios.",
       "items": [
         {
-          "title": "¿Una sola landing sirve para todas mis campañas?",
-          "content": "No siempre. Cuando cambian mucho las keywords, objeciones u ofertas, conviene abrir rutas mas especificas."
+          "title": "Administran anuncios?",
+          "content": "No. Creamos la landing page. La cuenta, presupuesto, anuncios, palabras clave y reportes publicitarios los manejas tu o tu especialista."
         },
         {
-          "title": "¿Esto garantiza mejores resultados en Google Ads?",
-          "content": "No garantizamos resultados ni rankings. Si trabajamos para que la experiencia de destino sea mas clara, util y coherente con el clic."
+          "title": "Entonces para que sirve esta pagina?",
+          "content": "Para recibir visitas que ya tengas o vayas a conseguir por tu cuenta y explicar mejor tu oferta antes de WhatsApp."
         },
         {
-          "title": "¿Puedo mandar el clic a WhatsApp?",
-          "content": "Si. Hoy es el canal mas directo para calificar interes sin prometer flujos complejos que la plataforma aun no soporta."
+          "title": "Puedo mandar el clic a WhatsApp?",
+          "content": "Si. WhatsApp es el canal principal para iniciar una conversacion con contexto."
         },
         {
-          "title": "¿Que se mide primero?",
-          "content": "Clics en CTA, lectura por seccion y rutas con mas interes para saber que mensaje ajustar antes."
-        },
-        {
-          "title": "¿Conviene tener FAQ en una landing para Ads?",
-          "content": "Si resuelve objeciones reales sin distraer del siguiente paso, suele sumar claridad en vez de estorbar."
+          "title": "Garantizan resultados de anuncios?",
+          "content": "No. No prometemos ventas, rankings ni rendimiento publicitario. Trabajamos claridad y estructura de la landing."
         }
       ]
     },
     "final": {
-      "eyebrow": "Campañas",
-      "title": "Hablemos de la landing que necesita tu anuncio.",
-      "lead": "Comparte la keyword, oferta o servicio que quieres mover y te orientamos la ruta correcta.",
-      "primaryLabel": "Quiero una landing para Google Ads",
-      "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20una%20landing%20page%20para%20Google%20Ads.%20La%20keyword%20o%20servicio%20principal%20es%3A",
+      "eyebrow": "Cotizacion",
+      "title": "Hablemos de la landing que recibira tus visitas.",
+      "lead": "Comparte tu oferta y de donde vendran las visitas. Te orientamos sobre la pagina, no sobre la administracion de anuncios.",
+      "primaryLabel": "Cotizar landing por WhatsApp",
+      "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20una%20landing%20page%20para%20recibir%20visitas.%20Mi%20oferta%20principal%20es%3A",
       "secondaryLabel": "Ir a contacto"
     }
   }
