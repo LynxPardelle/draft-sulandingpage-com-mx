@@ -186,16 +186,16 @@
       "type": "container",
       "config": {
         "tag": "aside",
-        "classes": "ank-border-1px__solid__secondaryBgColor ank-borderRadius-8px ank-padding-0 ank-display-flex ank-flexDirection-column ank-gap-0 ank-overflow-hidden",
+        "classes": "ank-border-1px__solid__secondaryBgColorOPA__0_5 ank-borderRadius-8px ank-padding-0 ank-display-flex ank-flexDirection-column ank-gap-0 ank-overflow-hidden ank-color-white",
         "components": [
           "defaultDemoBrowserBar",
           "defaultDemoBody",
           "defaultDemoMetricGrid"
         ],
         "styles": {
-          "background": "rgba(9, 45, 126, 0.82)",
-          "borderColor": "rgba(213, 234, 255, 0.48)",
-          "boxShadow": "0 24px 70px rgba(1, 20, 68, 0.34)"
+          "background": "linear-gradient(135deg, #0757d6 0%, #092d7e 100%)",
+          "borderColor": "rgba(220, 236, 255, 0.52)",
+          "boxShadow": "0 24px 60px rgba(7, 31, 111, 0.22)"
         }
       }
     },
@@ -216,7 +216,7 @@
       "config": {
         "tag": "h2",
         "text": "",
-        "classes": "ank-m-0 ank-color-titleColor ank-fontSize-1_4rem ank-fontWeight-900 ank-lineHeight-1_15"
+        "classes": "ank-m-0 ank-color-white ank-fontSize-1_4rem ank-fontWeight-900 ank-lineHeight-1_15"
       }
     },
     {
@@ -226,7 +226,7 @@
       "config": {
         "tag": "p",
         "text": "",
-        "classes": "ank-m-0 ank-color-secondaryTextColor ank-fontSize-1rem ank-lineHeight-1_6"
+        "classes": "ank-m-0 ank-color-white ank-fontSize-1rem ank-lineHeight-1_6"
       }
     },
     {
@@ -240,11 +240,11 @@
         "mode": "single",
         "allowToggle": true,
         "containerClasses": "ank-display-flex ank-flexDirection-column ank-gap-8px",
-        "defaultItemContainerClasses": "ank-border-1px__solid__bgColor ank-borderRadius-8px ank-bg-bgColor",
+        "defaultItemContainerClasses": "ank-border-1px__solid__secondaryBgColorOPA__0_5 ank-borderRadius-8px ank-bg-secondaryBgColorOPA__0_18",
         "defaultItemButtonConfig": {
-          "classes": "ank-width-100per ank-textAlign-left ank-padding-12px ank-bg-transparent ank-color-titleColor ank-border-0 ank-fontWeight-800 ank-cursor-pointer"
+          "classes": "ank-width-100per ank-textAlign-left ank-padding-12px ank-bg-transparent ank-color-white ank-border-0 ank-fontWeight-800 ank-cursor-pointer"
         },
-        "defaultItemPanelClasses": "ank-paddingInline-12px ank-paddingBottom-12px ank-color-secondaryTextColor ank-lineHeight-1_5"
+        "defaultItemPanelClasses": "ank-paddingInline-12px ank-paddingBottom-12px ank-color-white ank-lineHeight-1_5"
       }
     },
     {
@@ -293,7 +293,7 @@
       "type": "container",
       "config": {
         "tag": "article",
-        "classes": "ank-bg-bgColor ank-border-1px__solid__secondaryBgColor ank-borderRadius-8px ank-padding-20px ank-display-flex ank-flexDirection-column ank-gap-12px ank-height-100per ank-bg-bgColor",
+        "classes": "ank-bg-bgColor ank-border-1px__solid__secondaryBgColor ank-borderRadius-8px ank-padding-20px ank-display-flex ank-flexDirection-column ank-gap-12px ank-height-100per",
         "components": [
           "defaultStatsValue1",
           "defaultStatsLabel1",
@@ -336,7 +336,7 @@
       "type": "container",
       "config": {
         "tag": "article",
-        "classes": "ank-bg-bgColor ank-border-1px__solid__secondaryBgColor ank-borderRadius-8px ank-padding-20px ank-display-flex ank-flexDirection-column ank-gap-12px ank-height-100per ank-bg-bgColor",
+        "classes": "ank-bg-bgColor ank-border-1px__solid__secondaryBgColor ank-borderRadius-8px ank-padding-20px ank-display-flex ank-flexDirection-column ank-gap-12px ank-height-100per",
         "components": [
           "defaultStatsValue2",
           "defaultStatsLabel2",
@@ -379,7 +379,7 @@
       "type": "container",
       "config": {
         "tag": "article",
-        "classes": "ank-bg-bgColor ank-border-1px__solid__secondaryBgColor ank-borderRadius-8px ank-padding-20px ank-display-flex ank-flexDirection-column ank-gap-12px ank-height-100per ank-bg-bgColor",
+        "classes": "ank-bg-bgColor ank-border-1px__solid__secondaryBgColor ank-borderRadius-8px ank-padding-20px ank-display-flex ank-flexDirection-column ank-gap-12px ank-height-100per",
         "components": [
           "defaultStatsValue3",
           "defaultStatsLabel3",
