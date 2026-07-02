@@ -115,8 +115,8 @@
             "description": "Ordenamos titulares, prueba, beneficios y preguntas frecuentes en una secuencia defendible.",
             "benefits": [
               "Jerarquia visual",
-              "boton visible",
-              "Boton visible"
+              "Boton visible",
+              "Textos claros"
             ],
             "href": "",
             "linkLabel": ""
@@ -162,7 +162,7 @@
           "content": "Si. La landing ayuda a explicar una oferta y llevar a WhatsApp, sin importar si la visita llega por redes, referidos, buscadores o anuncios que manejes por tu cuenta."
         },
         {
-          "title": "¿Tambien sirve para visitas organico?",
+          "title": "?Tambien sirve si las visitas llegan de forma organica?",
           "content": "Si. La idea es lanzar una base clara y despues ajustar titulares, respaldo y boton de contacto con lectura comercial."
         },
         {
