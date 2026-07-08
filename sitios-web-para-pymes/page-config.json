@@ -15,17 +15,17 @@
   },
   "seo": {
     "title": {
-      "es": "Landing pages para PyMEs en Mexico | Sulandingpage"
+      "es": "Landing pages para PyMEs | Sulandingpage"
     },
     "description": {
-      "es": "Landing pages para PyMEs que necesitan explicar mejor su oferta, captar mensajes por WhatsApp y responder trafico de campañas o busqueda."
+      "es": "Landing pages para PyMEs que necesitan explicar mejor su oferta, captar mensajes por WhatsApp y convertir visitas de redes, referidos o busqueda."
     },
     "openGraph": {
       "title": {
-        "es": "Landing pages para PyMEs en Mexico | Sulandingpage"
+        "es": "Landing pages para PyMEs | Sulandingpage"
       },
       "description": {
-        "es": "Landing pages para PyMEs que necesitan explicar mejor su oferta, captar mensajes por WhatsApp y responder trafico de campañas o busqueda."
+        "es": "Landing pages para PyMEs que necesitan explicar mejor su oferta, captar mensajes por WhatsApp y convertir visitas de redes, referidos o busqueda."
       },
       "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
       "url": "https://sulandingpage.com.mx/landing-pages-para-pymes",
@@ -33,10 +33,10 @@
     },
     "twitter": {
       "title": {
-        "es": "Landing pages para PyMEs en Mexico | Sulandingpage"
+        "es": "Landing pages para PyMEs | Sulandingpage"
       },
       "description": {
-        "es": "Landing pages para PyMEs que necesitan explicar mejor su oferta, captar mensajes por WhatsApp y responder trafico de campañas o busqueda."
+        "es": "Landing pages para PyMEs que necesitan explicar mejor su oferta, captar mensajes por WhatsApp y convertir visitas de redes, referidos o busqueda."
       },
       "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
       "card": "summary_large_image"
@@ -45,9 +45,9 @@
     "keywords": {
       "es": [
         "landing page para pymes",
-        "landing page para negocio",
-        "landing page mexico",
-        "landing para servicios"
+        "landing page negocio",
+        "landing con whatsapp",
+        "sulandingpage"
       ]
     }
   },
@@ -56,8 +56,8 @@
       {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "Landing pages para PyMEs en Mexico | Sulandingpage",
-        "description": "Landing pages para PyMEs que necesitan explicar mejor su oferta, captar mensajes por WhatsApp y responder trafico de campañas o busqueda.",
+        "name": "Landing pages para PyMEs | Sulandingpage",
+        "description": "Landing pages para PyMEs que necesitan explicar mejor su oferta, captar mensajes por WhatsApp y convertir visitas de redes, referidos o busqueda.",
         "url": "https://sulandingpage.com.mx/landing-pages-para-pymes",
         "inLanguage": "es"
       }

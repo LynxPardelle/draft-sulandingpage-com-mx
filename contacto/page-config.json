@@ -15,17 +15,17 @@
   },
   "seo": {
     "title": {
-      "es": "Contacto para crear tu landing page | Sulandingpage"
+      "es": "Contacto para cotizar landing page | Sulandingpage"
     },
     "description": {
-      "es": "Inicia por WhatsApp con un mensaje guiado para revisar tu oferta, el trafico que quieres mover y el alcance correcto de tu landing."
+      "es": "Inicia por WhatsApp con un mensaje guiado para revisar tu oferta, las visitas esperadas y el alcance correcto de tu landing."
     },
     "openGraph": {
       "title": {
-        "es": "Contacto para crear tu landing page | Sulandingpage"
+        "es": "Contacto para cotizar landing page | Sulandingpage"
       },
       "description": {
-        "es": "Inicia por WhatsApp con un mensaje guiado para revisar tu oferta, el trafico que quieres mover y el alcance correcto de tu landing."
+        "es": "Inicia por WhatsApp con un mensaje guiado para revisar tu oferta, las visitas esperadas y el alcance correcto de tu landing."
       },
       "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
       "url": "https://sulandingpage.com.mx/contacto",
@@ -33,10 +33,10 @@
     },
     "twitter": {
       "title": {
-        "es": "Contacto para crear tu landing page | Sulandingpage"
+        "es": "Contacto para cotizar landing page | Sulandingpage"
       },
       "description": {
-        "es": "Inicia por WhatsApp con un mensaje guiado para revisar tu oferta, el trafico que quieres mover y el alcance correcto de tu landing."
+        "es": "Inicia por WhatsApp con un mensaje guiado para revisar tu oferta, las visitas esperadas y el alcance correcto de tu landing."
       },
       "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
       "card": "summary_large_image"
@@ -44,9 +44,10 @@
     "canonical": "https://sulandingpage.com.mx/contacto",
     "keywords": {
       "es": [
-        "contacto landing page",
         "cotizar landing page",
-        "crear landing page mexico"
+        "contacto landing page",
+        "landing whatsapp",
+        "sulandingpage"
       ]
     }
   },
@@ -55,8 +56,8 @@
       {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "Contacto para crear tu landing page | Sulandingpage",
-        "description": "Inicia por WhatsApp con un mensaje guiado para revisar tu oferta, el trafico que quieres mover y el alcance correcto de tu landing.",
+        "name": "Contacto para cotizar landing page | Sulandingpage",
+        "description": "Inicia por WhatsApp con un mensaje guiado para revisar tu oferta, las visitas esperadas y el alcance correcto de tu landing.",
         "url": "https://sulandingpage.com.mx/contacto",
         "inLanguage": "es"
       }

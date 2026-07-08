@@ -11,21 +11,21 @@
   "modalRootIds": [],
   "metadata": {
     "status": "phase-1-local-draft",
-    "routePurpose": "optimization-and-analytics-intent"
+    "routePurpose": "landing-page-review-with-service-limits"
   },
   "seo": {
     "title": {
-      "es": "Optimizacion y analitica para landing pages | Sulandingpage"
+      "es": "Revision de landing page | Sulandingpage"
     },
     "description": {
-      "es": "Mide clics, lectura por seccion y mensajes para iterar landing pages con evidencia, sin prometer automatizaciones o resultados inflados."
+      "es": "Revision de claridad, estructura y boton a WhatsApp para landing pages. No incluye reportes avanzados ni administracion de anuncios."
     },
     "openGraph": {
       "title": {
-        "es": "Optimizacion y analitica para landing pages | Sulandingpage"
+        "es": "Revision de landing page | Sulandingpage"
       },
       "description": {
-        "es": "Mide clics, lectura por seccion y mensajes para iterar landing pages con evidencia, sin prometer automatizaciones o resultados inflados."
+        "es": "Revision de claridad, estructura y boton a WhatsApp para landing pages. No incluye reportes avanzados ni administracion de anuncios."
       },
       "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
       "url": "https://sulandingpage.com.mx/optimizacion-y-analitica",
@@ -33,10 +33,10 @@
     },
     "twitter": {
       "title": {
-        "es": "Optimizacion y analitica para landing pages | Sulandingpage"
+        "es": "Revision de landing page | Sulandingpage"
       },
       "description": {
-        "es": "Mide clics, lectura por seccion y mensajes para iterar landing pages con evidencia, sin prometer automatizaciones o resultados inflados."
+        "es": "Revision de claridad, estructura y boton a WhatsApp para landing pages. No incluye reportes avanzados ni administracion de anuncios."
       },
       "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
       "card": "summary_large_image"
@@ -44,10 +44,10 @@
     "canonical": "https://sulandingpage.com.mx/optimizacion-y-analitica",
     "keywords": {
       "es": [
-        "optimizacion de landing pages",
-        "analitica de landing page",
-        "medicion de cta",
-        "iteracion de landing"
+        "revision landing page",
+        "mejorar landing page",
+        "landing whatsapp",
+        "sulandingpage"
       ]
     }
   },
@@ -56,8 +56,8 @@
       {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "Optimizacion y analitica para landing pages | Sulandingpage",
-        "description": "Mide clics, lectura por seccion y mensajes para iterar landing pages con evidencia, sin prometer automatizaciones o resultados inflados.",
+        "name": "Revision de landing page | Sulandingpage",
+        "description": "Revision de claridad, estructura y boton a WhatsApp para landing pages. No incluye reportes avanzados ni administracion de anuncios.",
         "url": "https://sulandingpage.com.mx/optimizacion-y-analitica",
         "inLanguage": "es"
       }
