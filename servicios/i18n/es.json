@@ -33,18 +33,18 @@
     },
     "stats": [
       {
-        "value": "Brief",
-        "label": "Promesa y publico",
+        "value": "Promesa y publico",
+        "label": "Brief",
         "detail": "Aterrizamos una oferta principal antes de disenar la pagina."
       },
       {
-        "value": "Copy",
-        "label": "Mensaje directo",
+        "value": "Mensaje directo",
+        "label": "Copy",
         "detail": "Titulares y objeciones pensados para lectura rapida y movil."
       },
       {
-        "value": "Base",
-        "label": "Lista para publicar",
+        "value": "Lista para publicar",
+        "label": "Base",
         "detail": "Botones, textos y datos basicos para una primera version."
       }
     ],
