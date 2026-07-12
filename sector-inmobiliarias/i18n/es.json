@@ -6,7 +6,7 @@
   "dictionary": {
     "hero": {
       "eyebrow": "Sector inmobiliarias",
-      "title": "Landing pages para inmobiliarias que presentan zonas, propiedades o desarrollos con una CTA clara.",
+      "title": "Landing pages para inmobiliarias que presentan zonas, propiedades o desarrollos con una boton clara.",
       "lead": "Pensada para captar interes en propiedades, servicios inmobiliarios o desarrollos especificos sin obligar al visitante a navegar un catalogo complejo desde el primer clic.",
       "primaryLabel": "Quiero una landing para mi inmobiliaria",
       "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20una%20landing%20page%20para%20mi%20inmobiliaria.%20La%20zona%20o%20tipo%20de%20propiedad%20principal%20es%3A",
@@ -26,7 +26,7 @@
           },
           {
             "title": "Como medimos",
-            "content": "Clics por CTA, interes por zona y rutas que generan mas mensajes."
+            "content": "Clics por boton, interes por zona y rutas que generan mas mensajes."
           }
         ]
       }
@@ -38,14 +38,14 @@
         "detail": "La pagina responde mejor cuando se centra en una ubicacion o necesidad concreta."
       },
       {
-        "value": "CTA",
-        "label": "Consulta directa",
-        "detail": "WhatsApp o contacto simple para iniciar la conversacion comercial."
+        "value": "Zona",
+        "label": "Mensaje por oferta",
+        "detail": "La pagina debe explicar zona, desarrollo o servicio sin confundir."
       },
       {
-        "value": "Ads",
-        "label": "Alineacion de campaña",
-        "detail": "Una ruta por desarrollo o tipo de propiedad ayuda a sostener mejor el clic."
+        "value": "Oferta",
+        "label": "Mensaje por propiedad",
+        "detail": "Una ruta por desarrollo o tipo de propiedad ayuda a que la visita entienda mejor."
       }
     ],
     "sections": [
@@ -81,7 +81,7 @@
           {
             "icon": "chat",
             "title": "Contacto orientado",
-            "description": "La CTA puede incluir la zona o propiedad de interes para que la atencion inicie con contexto real.",
+            "description": "La boton puede incluir la zona o propiedad de interes para que la atencion inicie con contexto real.",
             "benefits": [
               "WhatsApp guiado",
               "Mejor filtrado",
@@ -95,7 +95,7 @@
       {
         "eyebrow": "Contenido recomendado",
         "title": "La landing funciona mejor cuando cada bloque ayuda a decidir y no a navegar sin fin.",
-        "lead": "Propiedades o servicios inmobiliarios se pueden presentar con una secuencia breve de promesa, evidencia y CTA.",
+        "lead": "Propiedades o servicios inmobiliarios se pueden presentar con una secuencia breve de promesa, evidencia y boton.",
         "cards": [
           {
             "icon": "apartment",
@@ -126,9 +126,9 @@
             "title": "Lectura por ruta",
             "description": "Medir interaccion permite decidir si conviene abrir mas rutas por zona, propiedad o audiencia.",
             "benefits": [
-              "Rutas por proyecto",
-              "Campañas mas especificas",
-              "Iteracion con evidencia"
+              "Ofertas mas especificas",
+              "Mejor claridad",
+              "Contacto directo"
             ],
             "href": "",
             "linkLabel": ""
@@ -143,15 +143,15 @@
       "items": [
         {
           "title": "¿Una landing sirve si ya tengo catalogo o portal?",
-          "content": "Si. Puede funcionar como ruta de entrada para una zona, desarrollo, servicio o campaña especifica sin reemplazar todo tu ecosistema digital."
+          "content": "Si. Puede funcionar como ruta de entrada para una zona, desarrollo o servicio especifico sin reemplazar todo tu ecosistema digital."
         },
         {
           "title": "¿Conviene una landing por desarrollo o por zona?",
           "content": "Con frecuencia si. Cuando la intencion de busqueda cambia mucho, una ruta mas precisa suele sostener mejor el clic."
         },
         {
-          "title": "¿Que CTA funciona mejor?",
-          "content": "WhatsApp o contacto directo suelen funcionar bien para iniciar consulta, visita o solicitud de informacion con contexto."
+          "title": "¿Que boton funciona mejor?",
+          "content": "Si. Cuando ya hay visitas o una pagina previa, se puede orientar una revision para mejorar claridad, relevancia y contacto."
         },
         {
           "title": "¿Que materiales ayudan a lanzar mas rapido?",
@@ -159,7 +159,7 @@
         },
         {
           "title": "¿Pueden ayudar a revisar una landing inmobiliaria actual?",
-          "content": "Si. Cuando ya hay trafico o una pagina previa, se puede orientar una revision para mejorar claridad, relevancia y conversion."
+          "content": "Si. Cuando ya hay visitas o una pagina previa, se puede orientar una revision para mejorar claridad, relevancia y conversion."
         }
       ]
     },

@@ -9,14 +9,14 @@
       "es": "Preguntas frecuentes sobre landing pages | Sulandingpage"
     },
     "description": {
-      "es": "Respuestas sobre alcance, Google Ads, WhatsApp, materiales, precios base y optimizacion de landing pages con Sulandingpage."
+      "es": "Respuestas sobre alcance, WhatsApp, materiales, precios base y limites del servicio de landing pages con Sulandingpage."
     },
     "openGraph": {
       "title": {
         "es": "Preguntas frecuentes sobre landing pages | Sulandingpage"
       },
       "description": {
-        "es": "Respuestas sobre alcance, Google Ads, WhatsApp, materiales, precios base y optimizacion de landing pages con Sulandingpage."
+        "es": "Respuestas sobre alcance, WhatsApp, materiales, precios base y limites del servicio de landing pages con Sulandingpage."
       },
       "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
       "url": "https://sulandingpage.com.mx/preguntas-frecuentes",
@@ -27,7 +27,7 @@
         "es": "Preguntas frecuentes sobre landing pages | Sulandingpage"
       },
       "description": {
-        "es": "Respuestas sobre alcance, Google Ads, WhatsApp, materiales, precios base y optimizacion de landing pages con Sulandingpage."
+        "es": "Respuestas sobre alcance, WhatsApp, materiales, precios base y limites del servicio de landing pages con Sulandingpage."
       },
       "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
       "card": "summary_large_image"
@@ -35,9 +35,10 @@
     "canonical": "https://sulandingpage.com.mx/preguntas-frecuentes",
     "keywords": {
       "es": [
-        "faq landing page",
-        "preguntas frecuentes landing pages",
-        "dudas google ads landing"
+        "preguntas landing page",
+        "landing page whatsapp",
+        "precio landing page",
+        "sulandingpage"
       ]
     }
   },
@@ -47,7 +48,7 @@
         "@context": "https://schema.org",
         "@type": "WebPage",
         "name": "Preguntas frecuentes sobre landing pages | Sulandingpage",
-        "description": "Respuestas sobre alcance, Google Ads, WhatsApp, materiales, precios base y optimizacion de landing pages con Sulandingpage.",
+        "description": "Respuestas sobre alcance, WhatsApp, materiales, precios base y limites del servicio de landing pages con Sulandingpage.",
         "url": "https://sulandingpage.com.mx/preguntas-frecuentes",
         "inLanguage": "es"
       }

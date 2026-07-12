@@ -15,17 +15,17 @@
   },
   "seo": {
     "title": {
-      "es": "Servicio de landing pages orientadas a conversion | Sulandingpage"
+      "es": "Servicio de landing pages con WhatsApp | Sulandingpage"
     },
     "description": {
-      "es": "Estrategia, copy, diseño, SEO y medicion para lanzar landing pages claras, moviles y listas para Google Ads o trafico organico."
+      "es": "Creamos landing pages con estructura, textos, diseno responsive, boton a WhatsApp y datos basicos de pagina. No administramos anuncios ni reportes avanzados."
     },
     "openGraph": {
       "title": {
-        "es": "Servicio de landing pages orientadas a conversion | Sulandingpage"
+        "es": "Servicio de landing pages con WhatsApp | Sulandingpage"
       },
       "description": {
-        "es": "Estrategia, copy, diseño, SEO y medicion para lanzar landing pages claras, moviles y listas para Google Ads o trafico organico."
+        "es": "Creamos landing pages con estructura, textos, diseno responsive, boton a WhatsApp y datos basicos de pagina. No administramos anuncios ni reportes avanzados."
       },
       "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
       "url": "https://sulandingpage.com.mx/servicios",
@@ -33,10 +33,10 @@
     },
     "twitter": {
       "title": {
-        "es": "Servicio de landing pages orientadas a conversion | Sulandingpage"
+        "es": "Servicio de landing pages con WhatsApp | Sulandingpage"
       },
       "description": {
-        "es": "Estrategia, copy, diseño, SEO y medicion para lanzar landing pages claras, moviles y listas para Google Ads o trafico organico."
+        "es": "Creamos landing pages con estructura, textos, diseno responsive, boton a WhatsApp y datos basicos de pagina. No administramos anuncios ni reportes avanzados."
       },
       "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
       "card": "summary_large_image"
@@ -44,10 +44,10 @@
     "canonical": "https://sulandingpage.com.mx/servicios",
     "keywords": {
       "es": [
-        "servicio de landing pages",
-        "diseno de landing pages",
-        "copy para landing page",
-        "landing page mexico"
+        "servicio de landing page",
+        "landing page con whatsapp",
+        "crear landing page",
+        "sulandingpage"
       ]
     }
   },
@@ -56,8 +56,8 @@
       {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "Servicio de landing pages orientadas a conversion | Sulandingpage",
-        "description": "Estrategia, copy, diseño, SEO y medicion para lanzar landing pages claras, moviles y listas para Google Ads o trafico organico.",
+        "name": "Servicio de landing pages con WhatsApp | Sulandingpage",
+        "description": "Creamos landing pages con estructura, textos, diseno responsive, boton a WhatsApp y datos basicos de pagina. No administramos anuncios ni reportes avanzados.",
         "url": "https://sulandingpage.com.mx/servicios",
         "inLanguage": "es"
       }

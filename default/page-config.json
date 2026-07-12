@@ -15,17 +15,17 @@
   },
   "seo": {
     "title": {
-      "es": "Landing pages para Google Ads y conversion | Sulandingpage"
+      "es": "Landing pages para conseguir mensajes por WhatsApp | Sulandingpage"
     },
     "description": {
-      "es": "Landing pages rapidas, claras y medibles para negocios que quieren convertir trafico pagado y busquedas en conversaciones y leads."
+      "es": "Landing pages para negocios en Mexico que quieren explicar mejor su oferta y convertir visitas de redes, referidos o busqueda en mensajes por WhatsApp."
     },
     "openGraph": {
       "title": {
-        "es": "Landing pages para Google Ads y conversion | Sulandingpage"
+        "es": "Landing pages para conseguir mensajes por WhatsApp | Sulandingpage"
       },
       "description": {
-        "es": "Landing pages rapidas, claras y medibles para negocios que quieren convertir trafico pagado y busquedas en conversaciones y leads."
+        "es": "Landing pages para negocios en Mexico que quieren explicar mejor su oferta y convertir visitas de redes, referidos o busqueda en mensajes por WhatsApp."
       },
       "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
       "url": "https://sulandingpage.com.mx/",
@@ -33,10 +33,10 @@
     },
     "twitter": {
       "title": {
-        "es": "Landing pages para Google Ads y conversion | Sulandingpage"
+        "es": "Landing pages para conseguir mensajes por WhatsApp | Sulandingpage"
       },
       "description": {
-        "es": "Landing pages rapidas, claras y medibles para negocios que quieren convertir trafico pagado y busquedas en conversaciones y leads."
+        "es": "Landing pages para negocios en Mexico que quieren explicar mejor su oferta y convertir visitas de redes, referidos o busqueda en mensajes por WhatsApp."
       },
       "image": "https://sulandingpage.com.mx/assets/og-1200x630.svg",
       "card": "summary_large_image"
@@ -44,10 +44,11 @@
     "canonical": "https://sulandingpage.com.mx/",
     "keywords": {
       "es": [
-        "landing pages para google ads",
+        "landing page",
         "landing page mexico",
         "landing page con whatsapp",
-        "landing page para conversion",
+        "landing page para pymes",
+        "pagina para conseguir clientes",
         "sulandingpage"
       ]
     }
@@ -57,20 +58,89 @@
       {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "Landing pages para Google Ads y conversion | Sulandingpage",
-        "description": "Landing pages rapidas, claras y medibles para negocios que quieren convertir trafico pagado y busquedas en conversaciones y leads.",
+        "name": "Landing pages para conseguir mensajes por WhatsApp | Sulandingpage",
+        "description": "Landing pages para negocios en Mexico que quieren explicar mejor su oferta y convertir visitas de redes, referidos o busqueda en mensajes por WhatsApp.",
         "url": "https://sulandingpage.com.mx/",
         "inLanguage": "es"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "Landing pages para conversion por WhatsApp",
+        "serviceType": "Creacion de landing pages y textos comerciales",
+        "provider": {
+          "@type": "Organization",
+          "name": "Sulandingpage",
+          "url": "https://sulandingpage.com.mx/"
+        },
+        "areaServed": {
+          "@type": "Country",
+          "name": "Mexico"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "900",
+          "priceCurrency": "MXN",
+          "availability": "https://schema.org/InStock",
+          "url": "https://sulandingpage.com.mx/planes"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Desde cuanto puedo empezar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La ruta base parte desde $900 MXN al mes. El alcance exacto depende de tu oferta, contenido necesario y profundidad de la pagina."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Que incluye una landing base?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Una pagina enfocada en una oferta, textos organizados, boton a WhatsApp, datos basicos de pagina, estructura responsive y registro inicial de clics."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Si ya tengo anuncios o pienso hacerlos, sirve?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Si. La landing puede recibir esas visitas, pero nosotros no administramos tus anuncios ni tu cuenta publicitaria."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Necesito tener textos o imagenes?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No necesariamente. Podemos partir de tu oferta, servicios y preguntas frecuentes para ordenar el mensaje. Si tienes material, se aprovecha."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Prometen resultados garantizados?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No prometemos rankings, ventas automaticas ni resultados de anuncios. Trabajamos claridad, estructura y experiencia de la pagina."
+            }
+          }
+        ]
       }
     ]
   },
   "analytics": {
     "sectionIds": [
       "home",
-      "evidencia",
-      "resultados",
-      "sectores",
-      "proximamente",
+      "diagnostico",
+      "solucion",
+      "metodo",
+      "rutas",
+      "faq",
       "contacto"
     ],
     "scrollMilestones": [

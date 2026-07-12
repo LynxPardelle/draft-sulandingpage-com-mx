@@ -7,37 +7,32 @@
       {
         "id": "home",
         "value": "/",
-        "labelKey": "nav.home"
+        "labelKey": "nav.home",
+        "label": "Inicio"
       },
       {
         "id": "services",
         "value": "/servicios",
-        "labelKey": "nav.services"
+        "labelKey": "nav.services",
+        "label": "Servicios"
       },
       {
         "id": "plans",
         "value": "/planes",
-        "labelKey": "nav.plans"
+        "labelKey": "nav.plans",
+        "label": "Planes"
       },
       {
         "id": "pymes",
         "value": "/landing-pages-para-pymes",
-        "labelKey": "nav.pymes"
-      },
-      {
-        "id": "googleAds",
-        "value": "/landing-pages-para-google-ads",
-        "labelKey": "nav.googleAds"
-      },
-      {
-        "id": "analytics",
-        "value": "/optimizacion-y-analitica",
-        "labelKey": "nav.analytics"
+        "labelKey": "nav.pymes",
+        "label": "PyMEs"
       },
       {
         "id": "contact",
         "value": "/contacto",
-        "labelKey": "nav.contact"
+        "labelKey": "nav.contact",
+        "label": "Contacto"
       }
     ],
     "brand": {
