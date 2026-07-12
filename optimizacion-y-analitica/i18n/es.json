@@ -5,87 +5,87 @@
   "lang": "es",
   "dictionary": {
     "hero": {
-      "eyebrow": "Optimizacion con evidencia",
-      "title": "Mide clics, lectura y mensajes para mejorar la landing sin adivinar.",
-      "lead": "Sulandingpage parte de una base simple: leer interacciones utiles para decidir que mensaje, prueba o CTA conviene ajustar primero.",
-      "primaryLabel": "Quiero hablar de optimizacion",
-      "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20hablar%20sobre%20optimizacion%20y%20analitica%20para%20mi%20landing%20page.",
+      "eyebrow": "Revision de landing",
+      "title": "Revisamos claridad, orden y botones de tu landing.",
+      "lead": "La revision se enfoca en la pagina: que se entiende, que sobra y como llevar mejor a WhatsApp. No reemplaza una estrategia de analitica ni reportes avanzados.",
+      "primaryLabel": "Quiero revisar mi landing",
+      "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20revisar%20mi%20landing%20page.",
       "secondaryLabel": "Ver servicios",
       "panel": {
-        "kicker": "Lectura comercial",
-        "title": "No todo dato sirve; importa el que ayuda a decidir la siguiente mejora.",
-        "lead": "Nos enfocamos en señales utiles para conversion: que CTA recibe clics, que seccion se consulta y que mensajes abren conversacion.",
+        "kicker": "Alcance simple",
+        "title": "Miramos la pagina, no toda tu operacion digital.",
+        "lead": "El objetivo es detectar si la landing explica bien la oferta y si el boton de contacto esta ayudando.",
         "items": [
           {
-            "title": "Eventos utiles",
-            "content": "Clics en CTA, WhatsApp y zonas clave de la pagina."
+            "title": "Mensaje",
+            "content": "Revisamos si el titular y la oferta se entienden rapido."
           },
           {
-            "title": "Lectura por seccion",
-            "content": "Que parte de la landing sostiene el interes y cual pierde fuerza."
+            "title": "Boton",
+            "content": "Revisamos si WhatsApp aparece en el momento correcto."
           },
           {
-            "title": "Iteracion priorizada",
-            "content": "Cambiamos primero lo que puede mover mas claridad o conversion."
+            "title": "Limites",
+            "content": "No hacemos reportes avanzados ni configuracion de herramientas externas."
           }
         ]
       }
     },
     "stats": [
       {
-        "value": "Datos",
-        "label": "Eventos con contexto",
-        "detail": "Clics y rutas con lectura suficiente para decidir cambios."
+        "value": "Texto",
+        "label": "Mensaje claro",
+        "detail": "Detectamos si la oferta se entiende sin explicar de mas."
       },
       {
-        "value": "CTA",
-        "label": "Accion principal",
-        "detail": "Detectamos si el siguiente paso realmente esta siendo visible y comprensible."
+        "value": "WA",
+        "label": "Boton visible",
+        "detail": "Revisamos si el siguiente paso es claro."
       },
       {
-        "value": "Iteracion",
-        "label": "Mejoras por impacto",
-        "detail": "No se cambia todo; se prioriza lo que mas puede mover resultados."
+        "value": "Limite",
+        "label": "Sin reportes avanzados",
+        "detail": "No vendemos reportes completos ni configuraciones externas."
       }
     ],
     "sections": [
       {
-        "eyebrow": "Beneficios",
-        "title": "La medicion ayuda cuando esta conectada con decisiones reales.",
-        "lead": "No buscamos llenar dashboards: buscamos entender que bloque genera interes y que parte de la pagina necesita mas claridad.",
+        "eyebrow": "Revision",
+        "title": "Una buena revision ayuda a quitar dudas de la pagina.",
+        "lead": "No buscamos llenar reportes: buscamos entender que parte de la landing confunde o frena el contacto.",
         "cards": [
           {
-            "icon": "speed",
-            "title": "Lectura por seccion",
-            "description": "Ver donde la gente se detiene o abandona ayuda a identificar si el mensaje esta mal secuenciado.",
+            "icon": "title",
+            "title": "Mensaje principal",
+            "description": "Vemos si la primera pantalla explica que vendes y por que importa.",
             "benefits": [
-              "Profundidad de lectura",
-              "Secciones con mas atencion",
-              "Priorizacion de cambios"
+              "Titular claro",
+              "Beneficio visible",
+              "Menos texto de relleno"
             ],
             "href": "",
             "linkLabel": ""
           },
           {
-            "icon": "trending_up",
-            "title": "Clics con contexto",
-            "description": "No solo importa si hacen clic, sino desde donde y despues de ver que parte de la landing.",
+            "icon": "chat",
+            "title": "Boton a WhatsApp",
+            "description": "Revisamos si el boton esta visible, tiene sentido y abre una conversacion util.",
             "benefits": [
-              "CTA primaria",
-              "CTA secundaria",
-              "Rutas mas consultadas"
+              "Boton principal",
+              "Mensaje claro",
+              "Menos friccion"
             ],
             "href": "",
             "linkLabel": ""
           },
           {
-            "icon": "analytics",
-            "title": "Iteracion informada",
-            "description": "Los datos ayudan a decidir si conviene cambiar titular, prueba, FAQ o visibilidad del siguiente paso.",
+            "icon": "help",
+            "title": "Dudas frecuentes",
+            "description": "Detectamos si faltan respuestas basicas antes de pedir contacto.",
             "benefits": [
-              "Cambios por prioridad",
-              "Menos opinion interna",
-              "Mejor uso del trafico"
+              "Preguntas reales",
+              "Confianza",
+              "Mejor orden"
             ],
             "href": "",
             "linkLabel": ""
@@ -93,16 +93,16 @@
         ]
       },
       {
-        "eyebrow": "Alcance responsable",
-        "title": "Optimizacion no significa promesas infladas.",
-        "lead": "Mejoramos la experiencia y el mensaje de la landing, pero evitamos vender automatizaciones o resultados que hoy no podemos sostener con producto.",
+        "eyebrow": "Limites responsables",
+        "title": "Revision de pagina no significa prometer resultados.",
+        "lead": "Mejoramos claridad y estructura, pero no prometemos ventas automaticas, ranking ni rendimiento de anuncios.",
         "cards": [
           {
             "icon": "rule",
             "title": "Sin garantias de ranking",
-            "description": "Trabajamos claridad, experiencia y estructura, pero no prometemos posicionamiento automatico ni resultados garantizados.",
+            "description": "Trabajamos claridad y estructura, no posicionamiento garantizado.",
             "benefits": [
-              "SEO responsable",
+              "SEO basico responsable",
               "Sin claims inflados",
               "Mensajes verificables"
             ],
@@ -111,12 +111,12 @@
           },
           {
             "icon": "privacy_tip",
-            "title": "Sin flujos no productoizados",
-            "description": "Mientras ciertas integraciones no existan como producto, preferimos WhatsApp u otros pasos simples y seguros.",
+            "title": "Sin herramientas externas",
+            "description": "No configuramos cuentas de anuncios, paneles avanzados ni integraciones que no formen parte de la landing.",
             "benefits": [
-              "Menos deuda de promesa",
-              "Mas claridad comercial",
-              "Canales reales"
+              "Menos promesas",
+              "Mas claridad",
+              "Alcance realista"
             ],
             "href": "",
             "linkLabel": ""
@@ -124,10 +124,10 @@
           {
             "icon": "inventory_2",
             "title": "Cambios controlados",
-            "description": "Ajustamos por lotes pequeños para poder leer mejor que movio la mejora o la perdida.",
+            "description": "Recomendamos ajustes concretos para entender mejor que cambia en la pagina.",
             "benefits": [
               "Menos ruido",
-              "Mas aprendizaje",
+              "Mas foco",
               "Riesgo acotado"
             ],
             "href": "",
@@ -137,34 +137,34 @@
       }
     ],
     "faq": {
-      "eyebrow": "Preguntas de analitica",
-      "title": "Que medimos y que hacemos con eso",
-      "lead": "Respuestas breves para aterrizar el valor de la lectura comercial.",
+      "eyebrow": "Preguntas",
+      "title": "Que incluye y que no incluye la revision",
+      "lead": "Respuestas breves para separar landing page de reportes avanzados.",
       "items": [
         {
-          "title": "¿Que se mide primero?",
-          "content": "Clics en CTA, mensajes a WhatsApp, secciones consultadas y profundidad de lectura suficiente para tomar decisiones."
+          "title": "Que revisan primero?",
+          "content": "Oferta, titular, orden de secciones, boton a WhatsApp y dudas que pueden frenar el contacto."
         },
         {
-          "title": "¿Cada cuanto conviene optimizar?",
-          "content": "Cuando ya existe un volumen minimo de lectura o de clics que permita detectar patrones, no por ansiedad."
+          "title": "Esto reemplaza una estrategia de analitica?",
+          "content": "No. Es una revision de landing page, no una auditoria completa de negocio ni configuracion avanzada de herramientas."
         },
         {
-          "title": "¿Esto reemplaza una estrategia completa de analitica?",
-          "content": "No. Es una capa util para decisiones de landing page, no una promesa de analitica avanzada o completa de negocio."
+          "title": "Tambien administran anuncios?",
+          "content": "No. No administramos anuncios, presupuestos ni cuentas publicitarias."
         },
         {
-          "title": "¿Que cambios suelen tener mas impacto?",
-          "content": "Titular, orden de beneficios, cantidad de prueba, claridad de CTA y visibilidad del siguiente paso."
+          "title": "Que cambios suelen ayudar?",
+          "content": "Titular mas claro, menos relleno, mejor orden de beneficios, preguntas frecuentes y boton a WhatsApp mas visible."
         }
       ]
     },
     "final": {
-      "eyebrow": "Optimizacion",
-      "title": "Hablemos de la lectura que hoy necesitas para mejorar tu landing.",
-      "lead": "Si ya tienes trafico o planeas moverlo pronto, podemos definir que eventos y cambios vale la pena priorizar.",
-      "primaryLabel": "Quiero hablar de optimizacion",
-      "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20hablar%20sobre%20optimizacion%20y%20analitica%20para%20mi%20landing%20page.",
+      "eyebrow": "Revision",
+      "title": "Hablemos de lo que hoy debe mejorar tu landing.",
+      "lead": "Si ya tienes una pagina, podemos revisar claridad, orden y contacto. Para anuncios o reportes avanzados, necesitaras un especialista externo.",
+      "primaryLabel": "Revisar mi landing",
+      "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20revisar%20mi%20landing%20page.",
       "secondaryLabel": "Ir a contacto"
     }
   }

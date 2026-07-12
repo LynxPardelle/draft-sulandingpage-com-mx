@@ -7,7 +7,7 @@
     "hero": {
       "eyebrow": "Sector despachos",
       "title": "Landing pages para despachos que ordenan experiencia, areas y primer contacto.",
-      "lead": "Pensadas para despachos legales, contables o de servicios profesionales que necesitan una pagina clara para campañas, referencias o busqueda organica.",
+      "lead": "Pensadas para despachos legales, contables o de servicios profesionales que necesitan una pagina clara para referencias, redes o busqueda organica.",
       "primaryLabel": "Quiero una landing para mi despacho",
       "primaryUrl": "https://wa.me/525522699563?text=Hola%2C%20quiero%20una%20landing%20page%20para%20mi%20despacho.%20El%20servicio%20principal%20es%3A",
       "secondaryLabel": "Ver planes",
@@ -38,7 +38,7 @@
         "detail": "Experiencia y proceso mostrados con un tono profesional y util."
       },
       {
-        "value": "CTA",
+        "value": "boton",
         "label": "Contacto guiado",
         "detail": "El mensaje inicial ayuda a calificar interes sin alargar el paso inicial."
       },
@@ -81,7 +81,7 @@
           {
             "icon": "forum",
             "title": "Primer contacto con contexto",
-            "description": "La CTA puede sugerir el tipo de asunto o servicio para orientar mejor la respuesta inicial.",
+            "description": "La boton puede sugerir el tipo de asunto o servicio para orientar mejor la respuesta inicial.",
             "benefits": [
               "WhatsApp guiado",
               "Menos ambiguedad",
@@ -95,7 +95,7 @@
       {
         "eyebrow": "Contenido recomendado",
         "title": "Una landing profesional necesita menos relleno y mas criterio comercial.",
-        "lead": "La combinacion de servicio, prueba, FAQ y CTA suele resolver mejor el clic que una pagina cargada de bloques genericos.",
+        "lead": "La combinacion de servicio, prueba, FAQ y boton suele resolver mejor el clic que una pagina cargada de bloques genericos.",
         "cards": [
           {
             "icon": "description",
@@ -126,7 +126,7 @@
             "title": "Lectura de interes",
             "description": "Medir clics y secciones ayuda a entender que servicio o argumento esta sosteniendo mejor la atencion.",
             "benefits": [
-              "CTA mas consultada",
+              "boton mas consultada",
               "Secciones fuertes",
               "Rutas a iterar"
             ],
@@ -151,7 +151,7 @@
         },
         {
           "title": "¿Conviene usar WhatsApp?",
-          "content": "Si, si el despacho quiere un primer filtro agil y una conversacion directa con contexto inicial."
+          "content": "Si. Cuando ya hay visitas o una pagina previa, se puede orientar una revision para mejorar claridad y contacto."
         },
         {
           "title": "¿Que prueba o respaldo ayuda mas?",
@@ -159,7 +159,7 @@
         },
         {
           "title": "¿Pueden ayudar a revisar una landing existente?",
-          "content": "Si. Cuando ya hay trafico o una pagina previa, se puede orientar un diagnostico para mejorar claridad y conversion."
+          "content": "Si. Cuando ya hay visitas o una pagina previa, se puede orientar un diagnostico para mejorar claridad y conversion."
         }
       ]
     },

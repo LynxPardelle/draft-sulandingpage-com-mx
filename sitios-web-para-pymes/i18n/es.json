@@ -26,7 +26,7 @@
           },
           {
             "title": "Como contactarte",
-            "content": "WhatsApp o CTA directa con un mensaje inicial orientado al objetivo del visitante."
+            "content": "WhatsApp o boton directa con un mensaje inicial orientado al objetivo del visitante."
           }
         ]
       }
@@ -38,21 +38,21 @@
         "detail": "Lenguaje simple para que una persona entienda rapido si le sirve."
       },
       {
-        "value": "Movil",
-        "label": "Lectura desde celular",
-        "detail": "Diseno pensado para revisar y escribirte sin friccion."
+        "value": "Visitas",
+        "label": "Lista para compartir",
+        "detail": "Una pagina clara ayuda cuando la visita llega por redes, busqueda o referidos."
       },
       {
-        "value": "Pauta",
-        "label": "Base para campañas",
-        "detail": "Una sola promesa y una sola CTA mejoran la experiencia del clic."
+        "value": "WA",
+        "label": "Lista para compartir",
+        "detail": "Una sola promesa y un boton claro ayudan a que la visita sepa que hacer."
       }
     ],
     "sections": [
       {
         "eyebrow": "Problemas comunes",
-        "title": "Muchas PyMEs reciben trafico, pero no siempre convierten esa visita en un mensaje util.",
-        "lead": "La confusión suele venir de mezclar demasiados servicios, esconder la CTA o no responder las preguntas clave de quien llega por primera vez.",
+        "title": "Muchas PyMEs reciben visitas, pero no siempre convierten esa visita en un mensaje util.",
+        "lead": "La confusion suele venir de mezclar demasiados servicios, esconder el boton o no responder las preguntas clave de quien llega por primera vez.",
         "cards": [
           {
             "icon": "help_outline",
@@ -61,7 +61,7 @@
             "benefits": [
               "Demasiadas opciones",
               "Titulares genericos",
-              "CTA poco visible"
+              "Boton poco visible"
             ],
             "href": "",
             "linkLabel": ""
@@ -79,13 +79,13 @@
             "linkLabel": ""
           },
           {
-            "icon": "analytics",
-            "title": "Sin datos, todo se vuelve opinion",
-            "description": "Leer clics y zonas de interes ayuda a decidir que cambiar primero y que no tocar todavia.",
+            "icon": "help",
+            "title": "Sin claridad, todo se vuelve duda",
+            "description": "La landing debe responder preguntas basicas antes de pedir que el cliente escriba.",
             "benefits": [
-              "Clicks por CTA",
-              "Secciones consultadas",
-              "Interes por ruta"
+              "Que vendes",
+              "Para quien es",
+              "Como pedir informacion"
             ],
             "href": "",
             "linkLabel": ""
@@ -100,11 +100,11 @@
           {
             "icon": "fact_check",
             "title": "Oferta y promesa principal",
-            "description": "Ordenamos tu propuesta de valor alrededor de una accion clara y una sola expectativa para el clic.",
+            "description": "Ordenamos tu propuesta de valor alrededor de una accion clara y una sola expectativa para quien entra.",
             "benefits": [
               "Titular fuerte",
               "Beneficio central",
-              "CTA principal"
+              "Boton principal"
             ],
             "href": "",
             "linkLabel": ""
@@ -124,11 +124,11 @@
           {
             "icon": "account_tree",
             "title": "Crecimiento por rutas",
-            "description": "Despues de lanzar, puedes abrir rutas por sector, campana o variacion de oferta segun datos reales.",
+            "description": "La pagina puede crecer con rutas por servicio, producto o tipo de cliente cuando el negocio lo necesite.",
             "benefits": [
-              "SEO por intencion",
-              "Pauta mas relevante",
-              "Base para iterar"
+              "Mas claridad",
+              "Mensajes por servicio",
+              "Mejor orden"
             ],
             "href": "",
             "linkLabel": ""
@@ -143,19 +143,19 @@
       "items": [
         {
           "title": "¿Una PyME necesita landing o sitio completo?",
-          "content": "Depende del objetivo. Si quieres mover una oferta puntual o captar trafico de una campaña, la landing suele ser la mejor primera pieza."
+          "content": "Depende del objetivo. Si quieres explicar una oferta puntual y llevar a WhatsApp, la landing suele ser la mejor primera pieza."
         },
         {
-          "title": "¿Puedo empezar con pocos materiales?",
-          "content": "Si. Podemos partir de tu oferta, respuestas frecuentes y referencias para construir una primera version clara."
+          "title": "Sirve si mis visitas vienen de redes o referidos?",
+          "content": "Si. Ayuda a que la persona entienda tu oferta antes de escribir, sin importar de donde venga la visita."
         },
         {
           "title": "¿Sirve si aun no invierto fuerte en anuncios?",
-          "content": "Si. Tambien ayuda para trafico organico, referencias o redes, siempre que la promesa y la CTA esten bien alineadas."
+          "content": "Si. Puedes abrir mas rutas por servicio, producto o tipo de cliente conforme aparezcan nuevas necesidades."
         },
         {
           "title": "¿La landing puede crecer despues?",
-          "content": "Si. Puedes abrir mas rutas por sector, campana o producto conforme aparezcan nuevas necesidades."
+          "content": "Si. Puedes abrir mas rutas por servicio, producto o tipo de cliente conforme aparezcan nuevas necesidades."
         },
         {
           "title": "¿Que informacion conviene preparar?",
