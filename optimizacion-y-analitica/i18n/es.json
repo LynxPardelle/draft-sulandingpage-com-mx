@@ -38,7 +38,7 @@
         "detail": "Detectamos si la oferta se entiende sin explicar de mas."
       },
       {
-        "value": "WA",
+        "value": "WhatsApp",
         "label": "Boton visible",
         "detail": "Revisamos si el siguiente paso es claro."
       },

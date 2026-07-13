@@ -206,7 +206,7 @@
       "config": {
         "tag": "span",
         "text": "",
-        "classes": "ank-display-inline-flex ank-alignSelf-start ank-paddingInline-10px ank-paddingBlock-6px ank-borderRadius-8px ank-bg-secondaryBgColor ank-color-secondaryTextColor ank-fontWeight-700 ank-fontSize-0_82rem"
+        "classes": "ank-display-inline-flex ank-alignSelf-start ank-paddingInline-0 ank-paddingBlock-0 ank-bg-transparent ank-color-secondaryBgColor ank-fontWeight-900 ank-fontSize-0_82rem ank-textTransform-uppercase ank-letterSpacing-0 ank-lineHeight-1"
       }
     },
     {
