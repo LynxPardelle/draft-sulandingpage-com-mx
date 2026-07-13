@@ -38,7 +38,7 @@
         "detail": "La visita debe saber que vendes y que hacer despues."
       },
       {
-        "value": "WA",
+        "value": "WhatsApp",
         "label": "Contacto directo",
         "detail": "El boton a WhatsApp queda visible y con mensaje claro."
       },
