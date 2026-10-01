@@ -186,7 +186,7 @@
       "type": "container",
       "config": {
         "tag": "aside",
-        "classes": "ank-bg-linkColor ank-border-1px__solid__secondaryBgColorOPA__0_5 ank-borderRadius-8px ank-padding-20px ank-display-flex ank-flexDirection-column ank-gap-12px ank-height-100per ank-gap-16px ank-borderLeft-4px__solid__accentColor ank-color-white",
+        "classes": "ank-bg-linkColor ank-border-1px__solid__secondaryBgColorOPA__0_5 ank-borderRadius-8px ank-padding-20px ank-display-flex ank-flexDirection-column ank-gap-12px ank-height-100per ank-gap-16px ank-color-white",
         "components": [
           "contactoHeroPanelKicker",
           "contactoHeroPanelTitle",
@@ -207,7 +207,7 @@
       "config": {
         "tag": "span",
         "text": "",
-        "classes": "ank-display-inline-flex ank-alignSelf-start ank-paddingInline-10px ank-paddingBlock-6px ank-borderRadius-8px ank-bg-secondaryBgColor ank-color-secondaryTextColor ank-fontWeight-700 ank-fontSize-0_82rem"
+        "classes": "ank-display-inline-flex ank-alignSelf-start ank-paddingInline-0 ank-paddingBlock-0 ank-bg-transparent ank-color-secondaryBgColor ank-fontWeight-900 ank-fontSize-0_82rem ank-textTransform-uppercase ank-letterSpacing-0 ank-lineHeight-1"
       }
     },
     {
